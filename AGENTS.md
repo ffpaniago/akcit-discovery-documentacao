@@ -34,7 +34,7 @@ revisados por pull request.
 - Serviços de domínio: Node.js/TypeScript, donos da regra e do dado.
 - Persistência, fila e cache: apenas o que já estiver declarado no PROBLEMA.
 
-Neste starter, a referência mínima de tela está em `docs/next-react.md`.
+Neste starter, a referência mínima de tela está em `docs/react.md`.
 
 ## Dependências proibidas
 
@@ -93,9 +93,13 @@ O modelo preenchível está em `docs/descricao-sistema.md`.
 
 Delegue ao subagente da camada; não misture donos.
 
+Agentes em `.claude/agents/` e `.agents/agents/` são **especialistas de
+ferramenta**, não containers escolhidos. O agente `postgres` não significa
+que o produto usa PostgreSQL.
+
 | Agente | Quando usar | Não usa para |
 |---|---|---|
-| `postgres` | Schema, SQL, migration, RLS, persistência declarada | Acesso a banco a partir do BFF ou do front |
+| `postgres` | Schema/SQL **depois** de o PROBLEMA declarar PostgreSQL | Inferir o store; acesso a banco a partir do BFF ou do front |
 | `bff` | Endpoint de tela, agregação, adapter, contrato Front–BFF | Invariante de domínio ou SQL |
 | `apis` | Contrato HTTP, versão, idempotência, auth de API | Layout de componente |
 | `node` | Runtime, timeout, shutdown, config, falha de processo | Tela React |
@@ -109,8 +113,8 @@ Skills correspondentes em `.claude/skills/` e `.agents/skills/`.
 1. Ler `docs/descricao-sistema.md` e o PROBLEMA preenchido.
 2. Separar fatos, hipóteses e lacunas.
 3. Registrar ADR quando houver mudança de limite, dependência ou contrato.
-4. Atualizar documento e diagramas correspondentes.
-5. Revisar com o checklist do documento.
+4. Atualizar documento e diagramas em `docs/diagramas/` (README só espelha).
+5. Revisar com o checklist de PR do `README.md`.
 6. Registrar a tarefa em `memory/`.
 
 ## Fora de escopo

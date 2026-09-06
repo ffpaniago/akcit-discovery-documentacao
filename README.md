@@ -13,7 +13,7 @@ responsabilidades. Não escolhe sozinho a alternativa vencedora.
 
 1. Preencha o [PROBLEMA](docs/descricao-sistema.md).
 2. Siga o contrato em [AGENTS.md](AGENTS.md).
-3. Use a [referência mínima de React](docs/next-react.md) em dúvidas de tela.
+3. Use a [referência mínima de React](docs/react.md) em dúvidas de tela.
 4. Proponha ADR em `docs/adr/` com status **Proposto**. Aceitação é do time, por PR.
 
 ---
@@ -93,6 +93,9 @@ identidade já chega ao BFF de algum modo.
 
 ## 2. Diagrama estrutural — visão de containers
 
+Fonte: [`docs/diagramas/containers.mmd`](docs/diagramas/containers.mmd).
+O bloco abaixo é o espelho para o GitHub renderizar.
+
 Um nível: pessoas, containers do sistema e sistemas externos. Persistência
 aparece só como **lacuna**, não como tecnologia escolhida.
 
@@ -126,35 +129,51 @@ Setas tracejadas: integração ou store que **não** estão declaradas no PROBLE
 
 ## 3. Diagrama comportamental — jornada crítica
 
+Fonte: [`docs/diagramas/sequencia-tela-autenticada.mmd`](docs/diagramas/sequencia-tela-autenticada.mmd).
+
 Jornada: **abrir uma tela autenticada que precisa de dados de domínio**.
 É a jornada crítica deste starter porque atravessa as três camadas e o
 contrato Front–BFF. Não é uma jornada de negócio nomeada (checkout, onboarding,
 etc.): isso é lacuna do produto.
+
+`opt` = integração **condicional** (só se o PROBLEMA declarar terceiro).
+`alt` = **caminho de falha** (timeout ou erro). Não são a mesma coisa.
+
+Consulta (GET): retry do front é seguro, sem chave extra. Comando (escrita):
+retry só é seguro com chave de idempotência no BFF, aplicada no domínio.
 
 ```mermaid
 sequenceDiagram
   actor Usuario
   participant Front as Front React
   participant BFF as BFF Node.js
-  participant Dominio as Serviço de domínio
-  participant Terceiro as Terceiro (se declarado)
+  participant Dominio as Servico de dominio
+  participant Terceiro as Terceiro se declarado
 
   Usuario->>Front: abre a tela
-  Front->>Front: mostra loading; não chama domínio nem terceiro
-  Front->>BFF: pede o view model da tela (credencial)
-  BFF->>BFF: autentica no limite do BFF e propaga tenant
+  Front->>Front: loading, sem chamar dominio nem terceiro
+  Front->>BFF: consulta o view model da tela
+  BFF->>BFF: autentica no BFF e propaga tenant
+  BFF->>Dominio: consulta no escopo do tenant
 
-  BFF->>Dominio: consulta/comando no escopo do tenant
-  Dominio-->>BFF: modelo de domínio (regra e dado)
-
-  opt Integração externa declarada no PROBLEMA
+  opt Integracao externa declarada no PROBLEMA
     BFF->>Terceiro: chamada via adaptador
-    Terceiro-->>BFF: resposta do fornecedor
-    BFF->>BFF: traduz para modelo estável da tela
   end
 
-  BFF-->>Front: payload reduzido (sucesso, vazio, parcial ou erro)
-  Front-->>Usuario: estados visíveis; sem detalhe de fornecedor
+  alt Dominio ou terceiro nao responde a tempo
+    BFF-->>Front: erro de contrato, sem detalhe de fornecedor
+    Front-->>Usuario: estado de erro, retry da consulta e seguro
+  else Resposta dentro do esperado
+    Dominio-->>BFF: modelo de dominio
+    opt Terceiro respondeu
+      Terceiro-->>BFF: resposta do fornecedor
+      BFF->>BFF: traduz para modelo estavel da tela
+    end
+    BFF-->>Front: payload reduzido, sucesso vazio ou parcial
+    Front-->>Usuario: estados visiveis, sem detalhe de fornecedor
+  end
+
+  Note over Front,Dominio: Comando escrita - retry so com chave de idempotencia no BFF aplicada no dominio. Sem a chave um segundo POST duplica efeito. Consulta GET nao exige essa chave.
 ```
 
 ---
@@ -169,7 +188,9 @@ inventar, e o que foi recusado:
 |---|---|---|
 | Visão misturando contexto C4, containers, pods e classes num desenho só | Um desenho = containers; outro = sequência | Atributo de clareza da documentação: um nível por diagrama |
 | Containers Postgres, Redis, Kafka, API Gateway, Auth0, Kubernetes | Removidos | Persistência, fila, cache, IdP e runtime não estão no PROBLEMA; incluir seria preencher lacuna e somar operação sem justificativa |
-| Front Next.js como container obrigatório | Container chamado “Front-end React”; Next.js só em `docs/next-react.md` | O contrato da camada é React + TypeScript; Next.js é estrutura *dentro* do front, se o time já a usar |
+| Front Next.js como container obrigatório | Container “Front-end React”; Next.js só como hipótese em `docs/react.md` | O contrato da camada é React + TypeScript |
+| Sequência só com `opt` e “parcial ou erro” no texto | `alt` de timeout/erro; nota de idempotência em comando | Unidade exige falha plausível e onde o retry duplica efeito |
+| Agente `postgres` lido como “o banco do sistema” | Agente marcado como referência de ferramenta; store continua lacuna | Especialista ≠ decisão de persistência |
 | Front → domínio ou Front → terceiro | Removido | Dependência proibida |
 | BFF → banco | Removido; store ligado só ao domínio, e como lacuna | BFF não acessa banco de domínio |
 | Sequência de um produto inventado (“checkout”, “pagamento”) | Jornada genérica “abrir tela autenticada” | Não há produto preenchido; inventar jornada de negócio seria hipótese vendida como fato |
@@ -179,9 +200,25 @@ inventar, e o que foi recusado:
 | ADR já “Aceito” ou alternativa vencedora | Não há ADR aceito nesta entrega | Fora de escopo do contrato; status de decisão continua com o time |
 
 **O que foi mantido da geração:** três containers alinhados à stack; contrato
-Front–BFF na aresta; BFF como único ponto para terceiro; estados de tela
-explícitos na sequência; propagação de tenant no BFF (restrição recorrente
-de segregação, ainda sem IdP nomeado).
+Front–BFF na aresta; BFF como único ponto para terceiro; `opt` só para
+integração condicional; persistência como lacuna no estrutural; propagação de
+tenant no BFF (ainda sem IdP nomeado).
+
+---
+
+## Checklist de revisão em PR
+
+Instrumento, não enfeite. Recusar o PR se um item obrigatório falhar.
+
+- [ ] Um nível por diagrama; integrações externas marcadas (contínuo vs tracejado).
+- [ ] Sequência tem `alt` de falha plausível (timeout ou erro), não só `opt`.
+- [ ] Consulta vs comando: está dito onde o retry precisa de idempotência.
+- [ ] Fatos, hipóteses e lacunas separados; nenhuma lacuna preenchida em silêncio.
+- [ ] Responsabilidade explícita (front / BFF / domínio) e impacto no contrato Front–BFF.
+- [ ] Especialistas de ferramenta (ex.: `postgres`) não são apresentados como stack escolhida.
+- [ ] ADR, se houver, com status **Proposto**; sem números inventados.
+- [ ] Fonte Mermaid em `docs/diagramas/*.mmd` alinhada ao espelho no README.
+- [ ] Tarefa registrada em `memory/`.
 
 ---
 
@@ -203,14 +240,18 @@ Documento de decisão em Markdown, na ordem, pronto para revisão. Modelo em
 
 ```text
 .
-├── README.md                 ← esta descrição e os diagramas
-├── AGENTS.md                 ← contrato para agentes e autores
+├── README.md                 ← descrição; espelha os diagramas
+├── AGENTS.md
 ├── docs/
 │   ├── descricao-sistema.md
-│   ├── next-react.md
+│   ├── react.md              ← referência de tela (Next.js é hipótese)
+│   ├── diagramas/            ← fonte Mermaid (diagrams as code)
 │   └── adr/
+├── rules/                    ← regras Cursor das docs capturadas
+├── extensions/               ← espelho Gemini das docs capturadas
 ├── .claude/skills/
-├── .claude/agents/           ← postgres, bff, apis, node, react
+├── .claude/agents/           ← especialistas de ferramenta
+│                                 postgres = referência SQL, não store do produto
 ├── .agents/skills/
 ├── .agents/agents/           ← mesma cópia para Codex
 ├── .cursor/skills/

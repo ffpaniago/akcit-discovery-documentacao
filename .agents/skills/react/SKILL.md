@@ -6,7 +6,7 @@ description: Build or review React and Next.js interfaces with explicit state, a
 # React
 
 Use this skill for React/Next.js screens, components, routing, UI state, and
-front-end data contracts. Read `docs/next-react.md` and
+front-end data contracts. Read `docs/react.md` and
 `docs/descricao-sistema.md` before changing an architectural boundary.
 
 ## Component design

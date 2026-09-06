@@ -1,0 +1,20 @@
+flowchart TB
+  usuario["Usuário autenticado"]
+
+  subgraph sistema["Sistema documentado neste starter"]
+    front["Front-end<br/>React + TypeScript"]
+    bff["BFF<br/>Node.js + TypeScript"]
+    dominio["Serviço de domínio<br/>Node.js + TypeScript"]
+  end
+
+  subgraph externos["Externo — só se o PROBLEMA declarar"]
+    terceiro["API ou legado de terceiro"]
+  end
+
+  persistencia["Persistência do domínio<br/>lacuna: tecnologia não declarada"]
+
+  usuario -->|"usa"| front
+  front -->|"contrato versionado da tela"| bff
+  bff -->|"consulta/comando no escopo do tenant"| dominio
+  bff -.->|"adaptador; contrato do fornecedor não vaza"| terceiro
+  dominio -.-> persistencia

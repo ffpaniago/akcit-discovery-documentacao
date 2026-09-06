@@ -1,0 +1,31 @@
+sequenceDiagram
+  actor Usuario
+  participant Front as Front React
+  participant BFF as BFF Node.js
+  participant Dominio as Servico de dominio
+  participant Terceiro as Terceiro se declarado
+
+  Usuario->>Front: abre a tela
+  Front->>Front: loading, sem chamar dominio nem terceiro
+  Front->>BFF: consulta o view model da tela
+  BFF->>BFF: autentica no BFF e propaga tenant
+  BFF->>Dominio: consulta no escopo do tenant
+
+  opt Integracao externa declarada no PROBLEMA
+    BFF->>Terceiro: chamada via adaptador
+  end
+
+  alt Dominio ou terceiro nao responde a tempo
+    BFF-->>Front: erro de contrato, sem detalhe de fornecedor
+    Front-->>Usuario: estado de erro, retry da consulta e seguro
+  else Resposta dentro do esperado
+    Dominio-->>BFF: modelo de dominio
+    opt Terceiro respondeu
+      Terceiro-->>BFF: resposta do fornecedor
+      BFF->>BFF: traduz para modelo estavel da tela
+    end
+    BFF-->>Front: payload reduzido, sucesso vazio ou parcial
+    Front-->>Usuario: estados visiveis, sem detalhe de fornecedor
+  end
+
+  Note over Front,Dominio: Comando escrita - retry so com chave de idempotencia no BFF aplicada no dominio. Sem a chave um segundo POST duplica efeito. Consulta GET nao exige essa chave.

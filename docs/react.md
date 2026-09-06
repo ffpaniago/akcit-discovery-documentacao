@@ -1,4 +1,4 @@
-# React e Next.js — referência mínima
+# React — referência mínima
 
 ## React
 
@@ -15,15 +15,15 @@ Boas regras para este projeto:
 - regra de negócio pertence ao serviço de domínio;
 - efeitos assíncronos e estados de carregamento, erro e vazio são explícitos.
 
-## Next.js
+## Next.js (hipótese, não container)
 
-Next.js fornece a estrutura da aplicação web sobre React. Ele pode organizar
-rotas, layouts, renderização e carregamento de dados. Neste projeto, Next.js
-fica dentro da camada de front-end.
+Next.js, **se o time já o usar**, fica *dentro* da camada de front-end. Não é
+container separado nem decisão de stack deste starter. Pode organizar rotas,
+layouts, renderização e carregamento de dados **no front**.
 
-Responsabilidades recomendadas:
+Se houver Next.js no recorte:
 
-- rotas e layouts: Next.js;
+- rotas e layouts: Next.js, ainda na camada front;
 - composição e apresentação: React;
 - acesso a dados da aplicação: BFF;
 - regra de negócio e persistência: serviços de domínio.
@@ -35,7 +35,7 @@ arquitetural e revisar o contrato Front–BFF.
 ## Fluxo mínimo
 
 ```text
-Tela React/Next.js → BFF Node.js/TypeScript → Serviço de domínio
+Tela React → BFF Node.js/TypeScript → Serviço de domínio
                                       └──────→ Integração externa, quando necessário
 ```
 

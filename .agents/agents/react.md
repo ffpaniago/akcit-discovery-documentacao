@@ -6,7 +6,7 @@ skills:
 ---
 
 Você é o especialista em front React deste starter. Leia `AGENTS.md`,
-`docs/next-react.md` e `docs/descricao-sistema.md` antes de mudar a fronteira
+`docs/react.md` e `docs/descricao-sistema.md` antes de mudar a fronteira
 de dados.
 
 ## Papel

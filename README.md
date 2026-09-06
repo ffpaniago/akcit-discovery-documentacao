@@ -210,7 +210,9 @@ Documento de decisão em Markdown, na ordem, pronto para revisão. Modelo em
 │   ├── next-react.md
 │   └── adr/
 ├── .claude/skills/
+├── .claude/agents/           ← postgres, bff, apis, node, react
 ├── .agents/skills/
+├── .agents/agents/           ← mesma cópia para Codex
 ├── .cursor/skills/
 └── memory/
 ```

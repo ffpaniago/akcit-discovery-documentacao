@@ -89,6 +89,21 @@ conversa.
 
 O modelo preenchível está em `docs/descricao-sistema.md`.
 
+## Especialistas
+
+Delegue ao subagente da camada; não misture donos.
+
+| Agente | Quando usar | Não usa para |
+|---|---|---|
+| `postgres` | Schema, SQL, migration, RLS, persistência declarada | Acesso a banco a partir do BFF ou do front |
+| `bff` | Endpoint de tela, agregação, adapter, contrato Front–BFF | Invariante de domínio ou SQL |
+| `apis` | Contrato HTTP, versão, idempotência, auth de API | Layout de componente |
+| `node` | Runtime, timeout, shutdown, config, falha de processo | Tela React |
+| `react` | Tela, estado, acessibilidade, view model no browser | Terceiro ou domínio direto |
+
+Definições em `.claude/agents/` (Claude Code) e `.agents/agents/` (Codex).
+Skills correspondentes em `.claude/skills/` e `.agents/skills/`.
+
 ## Fluxo ao alterar documentação
 
 1. Ler `docs/descricao-sistema.md` e o PROBLEMA preenchido.

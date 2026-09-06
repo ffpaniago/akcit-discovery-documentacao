@@ -1,0 +1,3 @@
+interface:
+  display_name: "PostgreSQL"
+  short_description: "Design and review domain-owned PostgreSQL persistence"

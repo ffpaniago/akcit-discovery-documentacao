@@ -1,0 +1,6 @@
+{
+  "name": "docs-dist",
+  "version": "0.1.0",
+  "description": "Knowledge base captured by @akcit/docs-agent from https://nodejs.org/dist/latest/docs/api.",
+  "contextFileName": "GEMINI.md"
+}

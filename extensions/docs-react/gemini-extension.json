@@ -1,0 +1,6 @@
+{
+  "name": "docs-react",
+  "version": "0.1.0",
+  "description": "Knowledge base captured by @akcit/docs-agent from https://react.dev/reference/react.",
+  "contextFileName": "GEMINI.md"
+}

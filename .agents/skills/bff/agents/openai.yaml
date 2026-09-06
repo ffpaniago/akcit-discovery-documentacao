@@ -1,0 +1,3 @@
+interface:
+  display_name: "BFF"
+  short_description: "Design and review Backend-for-Frontend boundaries"

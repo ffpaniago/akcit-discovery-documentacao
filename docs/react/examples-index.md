@@ -1,0 +1,10780 @@
+# Code examples
+
+Generated from captured Markdown code fences.
+
+- js example in [learn.md](./learn.md)
+  - Section: Creating and nesting components {/*components*/}
+  - Snippet id: `learn.md#snippet-1`
+- js example in [learn.md](./learn.md)
+  - Section: Creating and nesting components {/*components*/}
+  - Snippet id: `learn.md#snippet-2`
+- js example in [learn.md](./learn.md)
+  - Section: Creating and nesting components {/*components*/}
+  - Snippet id: `learn.md#snippet-3`
+- js example in [learn.md](./learn.md)
+  - Section: Writing markup with JSX {/*writing-markup-with-jsx*/}
+  - Snippet id: `learn.md#snippet-4`
+- js example in [learn.md](./learn.md)
+  - Section: Adding styles {/*adding-styles*/}
+  - Snippet id: `learn.md#snippet-5`
+- css example in [learn.md](./learn.md)
+  - Section: Adding styles {/*adding-styles*/}
+  - Snippet id: `learn.md#snippet-6`
+- js example in [learn.md](./learn.md)
+  - Section: Displaying data {/*displaying-data*/}
+  - Snippet id: `learn.md#snippet-7`
+- js example in [learn.md](./learn.md)
+  - Section: Displaying data {/*displaying-data*/}
+  - Snippet id: `learn.md#snippet-8`
+- js example in [learn.md](./learn.md)
+  - Section: Displaying data {/*displaying-data*/}
+  - Snippet id: `learn.md#snippet-9`
+- css example in [learn.md](./learn.md)
+  - Section: Displaying data {/*displaying-data*/}
+  - Snippet id: `learn.md#snippet-10`
+- js example in [learn.md](./learn.md)
+  - Section: Conditional rendering {/*conditional-rendering*/}
+  - Snippet id: `learn.md#snippet-11`
+- js example in [learn.md](./learn.md)
+  - Section: Conditional rendering {/*conditional-rendering*/}
+  - Snippet id: `learn.md#snippet-12`
+- js example in [learn.md](./learn.md)
+  - Section: Conditional rendering {/*conditional-rendering*/}
+  - Snippet id: `learn.md#snippet-13`
+- js example in [learn.md](./learn.md)
+  - Section: Rendering lists {/*rendering-lists*/}
+  - Snippet id: `learn.md#snippet-14`
+- js example in [learn.md](./learn.md)
+  - Section: Rendering lists {/*rendering-lists*/}
+  - Snippet id: `learn.md#snippet-15`
+- js example in [learn.md](./learn.md)
+  - Section: Rendering lists {/*rendering-lists*/}
+  - Snippet id: `learn.md#snippet-16`
+- js example in [learn.md](./learn.md)
+  - Section: Responding to events {/*responding-to-events*/}
+  - Snippet id: `learn.md#snippet-17`
+- js example in [learn.md](./learn.md)
+  - Section: Updating the screen {/*updating-the-screen*/}
+  - Snippet id: `learn.md#snippet-18`
+- js example in [learn.md](./learn.md)
+  - Section: Updating the screen {/*updating-the-screen*/}
+  - Snippet id: `learn.md#snippet-19`
+- js example in [learn.md](./learn.md)
+  - Section: Updating the screen {/*updating-the-screen*/}
+  - Snippet id: `learn.md#snippet-20`
+- js example in [learn.md](./learn.md)
+  - Section: Updating the screen {/*updating-the-screen*/}
+  - Snippet id: `learn.md#snippet-21`
+- css example in [learn.md](./learn.md)
+  - Section: Updating the screen {/*updating-the-screen*/}
+  - Snippet id: `learn.md#snippet-22`
+- js example in [learn.md](./learn.md)
+  - Section: Sharing data between components {/*sharing-data-between-components*/}
+  - Snippet id: `learn.md#snippet-23`
+- js example in [learn.md](./learn.md)
+  - Section: Sharing data between components {/*sharing-data-between-components*/}
+  - Snippet id: `learn.md#snippet-24`
+- js example in [learn.md](./learn.md)
+  - Section: Sharing data between components {/*sharing-data-between-components*/}
+  - Snippet id: `learn.md#snippet-25`
+- js example in [learn.md](./learn.md)
+  - Section: Sharing data between components {/*sharing-data-between-components*/}
+  - Snippet id: `learn.md#snippet-26`
+- css example in [learn.md](./learn.md)
+  - Section: Sharing data between components {/*sharing-data-between-components*/}
+  - Snippet id: `learn.md#snippet-27`
+- html example in [learn/add-react-to-an-existing-project.md](./learn/add-react-to-an-existing-project.md)
+  - Section: Step 1: Set up a modular JavaScript environment {/*step-1-set-up-a-modular-javascript-environment*/}
+  - Snippet id: `learn/add-react-to-an-existing-project.md#snippet-1`
+- js example in [learn/add-react-to-an-existing-project.md](./learn/add-react-to-an-existing-project.md)
+  - Section: Step 1: Set up a modular JavaScript environment {/*step-1-set-up-a-modular-javascript-environment*/}
+  - Snippet id: `learn/add-react-to-an-existing-project.md#snippet-2`
+- js example in [learn/add-react-to-an-existing-project.md](./learn/add-react-to-an-existing-project.md)
+  - Section: Step 2: Render React components anywhere on the page {/*step-2-render-react-components-anywhere-on-the-page*/}
+  - Snippet id: `learn/add-react-to-an-existing-project.md#snippet-3`
+- html example in [learn/add-react-to-an-existing-project.md](./learn/add-react-to-an-existing-project.md)
+  - Section: Step 2: Render React components anywhere on the page {/*step-2-render-react-components-anywhere-on-the-page*/}
+  - Snippet id: `learn/add-react-to-an-existing-project.md#snippet-4`
+- html example in [learn/add-react-to-an-existing-project.md](./learn/add-react-to-an-existing-project.md)
+  - Section: Step 2: Render React components anywhere on the page {/*step-2-render-react-components-anywhere-on-the-page*/}
+  - Snippet id: `learn/add-react-to-an-existing-project.md#snippet-5`
+- js example in [learn/add-react-to-an-existing-project.md](./learn/add-react-to-an-existing-project.md)
+  - Section: Step 2: Render React components anywhere on the page {/*step-2-render-react-components-anywhere-on-the-page*/}
+  - Snippet id: `learn/add-react-to-an-existing-project.md#snippet-6`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Responding to events {/*responding-to-events*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-1`
+- css example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Responding to events {/*responding-to-events*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-2`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: State: a component's memory {/*state-a-components-memory*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-3`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: State: a component's memory {/*state-a-components-memory*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-4`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: State: a component's memory {/*state-a-components-memory*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-5`
+- css example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: State: a component's memory {/*state-a-components-memory*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-6`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: State as a snapshot {/*state-as-a-snapshot*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-7`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: State as a snapshot {/*state-as-a-snapshot*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-8`
+- css example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: State as a snapshot {/*state-as-a-snapshot*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-9`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Queueing a series of state updates {/*queueing-a-series-of-state-updates*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-10`
+- css example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Queueing a series of state updates {/*queueing-a-series-of-state-updates*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-11`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Queueing a series of state updates {/*queueing-a-series-of-state-updates*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-12`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Queueing a series of state updates {/*queueing-a-series-of-state-updates*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-13`
+- css example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Queueing a series of state updates {/*queueing-a-series-of-state-updates*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-14`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Updating objects in state {/*updating-objects-in-state*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-15`
+- css example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Updating objects in state {/*updating-objects-in-state*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-16`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Updating objects in state {/*updating-objects-in-state*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-17`
+- json example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Updating objects in state {/*updating-objects-in-state*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-18`
+- css example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Updating objects in state {/*updating-objects-in-state*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-19`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Updating arrays in state {/*updating-arrays-in-state*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-20`
+- js example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Updating arrays in state {/*updating-arrays-in-state*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-21`
+- json example in [learn/adding-interactivity.md](./learn/adding-interactivity.md)
+  - Section: Updating arrays in state {/*updating-arrays-in-state*/}
+  - Snippet id: `learn/adding-interactivity.md#snippet-22`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Group related state {/*group-related-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-1`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Group related state {/*group-related-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-2`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Group related state {/*group-related-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-3`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Group related state {/*group-related-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-4`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid contradictions in state {/*avoid-contradictions-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-5`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid contradictions in state {/*avoid-contradictions-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-6`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid contradictions in state {/*avoid-contradictions-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-7`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid redundant state {/*avoid-redundant-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-8`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid redundant state {/*avoid-redundant-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-9`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid redundant state {/*avoid-redundant-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-10`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid redundant state {/*avoid-redundant-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-11`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid redundant state {/*avoid-redundant-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-12`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Don't mirror props in state {/*don-t-mirror-props-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-13`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Don't mirror props in state {/*don-t-mirror-props-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-14`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Don't mirror props in state {/*don-t-mirror-props-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-15`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid duplication in state {/*avoid-duplication-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-16`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid duplication in state {/*avoid-duplication-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-17`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid duplication in state {/*avoid-duplication-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-18`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid duplication in state {/*avoid-duplication-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-19`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid duplication in state {/*avoid-duplication-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-20`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid duplication in state {/*avoid-duplication-in-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-21`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid deeply nested state {/*avoid-deeply-nested-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-22`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid deeply nested state {/*avoid-deeply-nested-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-23`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid deeply nested state {/*avoid-deeply-nested-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-24`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid deeply nested state {/*avoid-deeply-nested-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-25`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid deeply nested state {/*avoid-deeply-nested-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-26`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid deeply nested state {/*avoid-deeply-nested-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-27`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Avoid deeply nested state {/*avoid-deeply-nested-state*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-28`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Improving memory usage {/*improving-memory-usage*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-29`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Improving memory usage {/*improving-memory-usage*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-30`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Improving memory usage {/*improving-memory-usage*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-31`
+- json example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Improving memory usage {/*improving-memory-usage*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-32`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a component that's not updating {/*fix-a-component-thats-not-updating*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-33`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a component that's not updating {/*fix-a-component-thats-not-updating*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-34`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a component that's not updating {/*fix-a-component-thats-not-updating*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-35`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a component that's not updating {/*fix-a-component-thats-not-updating*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-36`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a component that's not updating {/*fix-a-component-thats-not-updating*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-37`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a component that's not updating {/*fix-a-component-thats-not-updating*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-38`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a broken packing list {/*fix-a-broken-packing-list*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-39`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a broken packing list {/*fix-a-broken-packing-list*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-40`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a broken packing list {/*fix-a-broken-packing-list*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-41`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a broken packing list {/*fix-a-broken-packing-list*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-42`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a broken packing list {/*fix-a-broken-packing-list*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-43`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a broken packing list {/*fix-a-broken-packing-list*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-44`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a broken packing list {/*fix-a-broken-packing-list*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-45`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix a broken packing list {/*fix-a-broken-packing-list*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-46`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix the disappearing selection {/*fix-the-disappearing-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-47`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix the disappearing selection {/*fix-the-disappearing-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-48`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix the disappearing selection {/*fix-the-disappearing-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-49`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix the disappearing selection {/*fix-the-disappearing-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-50`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix the disappearing selection {/*fix-the-disappearing-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-51`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix the disappearing selection {/*fix-the-disappearing-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-52`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix the disappearing selection {/*fix-the-disappearing-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-53`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Fix the disappearing selection {/*fix-the-disappearing-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-54`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-55`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-56`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-57`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-58`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-59`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-60`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-61`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-62`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-63`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-64`
+- js example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-65`
+- css example in [learn/choosing-the-state-structure.md](./learn/choosing-the-state-structure.md)
+  - Section: Implement multiple selection {/*implement-multiple-selection*/}
+  - Snippet id: `learn/choosing-the-state-structure.md#snippet-66`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally returning JSX {/*conditionally-returning-jsx*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-1`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally returning JSX {/*conditionally-returning-jsx*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-2`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally returning JSX {/*conditionally-returning-jsx*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-3`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally returning nothing with `null` {/*conditionally-returning-nothing-with-null*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-4`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally returning nothing with `null` {/*conditionally-returning-nothing-with-null*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-5`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally including JSX {/*conditionally-including-jsx*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-6`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally including JSX {/*conditionally-including-jsx*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-7`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally including JSX {/*conditionally-including-jsx*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-8`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditional (ternary) operator (`? :`) {/*conditional-ternary-operator--*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-9`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditional (ternary) operator (`? :`) {/*conditional-ternary-operator--*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-10`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Are these two examples fully equivalent? {/*are-these-two-examples-fully-equivalent*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-11`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Logical AND operator (`&&`) {/*logical-and-operator-*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-12`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Logical AND operator (`&&`) {/*logical-and-operator-*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-13`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally assigning JSX to a variable {/*conditionally-assigning-jsx-to-a-variable*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-14`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally assigning JSX to a variable {/*conditionally-assigning-jsx-to-a-variable*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-15`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally assigning JSX to a variable {/*conditionally-assigning-jsx-to-a-variable*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-16`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally assigning JSX to a variable {/*conditionally-assigning-jsx-to-a-variable*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-17`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Conditionally assigning JSX to a variable {/*conditionally-assigning-jsx-to-a-variable*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-18`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Show an icon for incomplete items with `? :` {/*show-an-icon-for-incomplete-items-with--*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-19`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Show an icon for incomplete items with `? :` {/*show-an-icon-for-incomplete-items-with--*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-20`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Show the item importance with `&&` {/*show-the-item-importance-with-*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-21`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Show the item importance with `&&` {/*show-the-item-importance-with-*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-22`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Refactor a series of `? :` to `if` and variables {/*refactor-a-series-of---to-if-and-variables*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-23`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Refactor a series of `? :` to `if` and variables {/*refactor-a-series-of---to-if-and-variables*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-24`
+- js example in [learn/conditional-rendering.md](./learn/conditional-rendering.md)
+  - Section: Refactor a series of `? :` to `if` and variables {/*refactor-a-series-of---to-if-and-variables*/}
+  - Snippet id: `learn/conditional-rendering.md#snippet-25`
+- js example in [learn/creating-a-react-app.md](./learn/creating-a-react-app.md)
+  - Section: Which features make up the React team’s full-stack architecture vision? {/*which-features-make-up-the-react-teams-full-stack-architecture-vision*/}
+  - Snippet id: `learn/creating-a-react-app.md#snippet-1`
+- js example in [learn/creating-a-react-app.md](./learn/creating-a-react-app.md)
+  - Section: Which features make up the React team’s full-stack architecture vision? {/*which-features-make-up-the-react-teams-full-stack-architecture-vision*/}
+  - Snippet id: `learn/creating-a-react-app.md#snippet-2`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Your first component {/*your-first-component*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-1`
+- css example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Your first component {/*your-first-component*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-2`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Importing and exporting components {/*importing-and-exporting-components*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-3`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Importing and exporting components {/*importing-and-exporting-components*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-4`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Importing and exporting components {/*importing-and-exporting-components*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-5`
+- css example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Importing and exporting components {/*importing-and-exporting-components*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-6`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Writing markup with JSX {/*writing-markup-with-jsx*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-7`
+- css example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Writing markup with JSX {/*writing-markup-with-jsx*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-8`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Writing markup with JSX {/*writing-markup-with-jsx*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-9`
+- css example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Writing markup with JSX {/*writing-markup-with-jsx*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-10`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: JavaScript in JSX with curly braces {/*javascript-in-jsx-with-curly-braces*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-11`
+- css example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: JavaScript in JSX with curly braces {/*javascript-in-jsx-with-curly-braces*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-12`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Passing props to a component {/*passing-props-to-a-component*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-13`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Passing props to a component {/*passing-props-to-a-component*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-14`
+- css example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Passing props to a component {/*passing-props-to-a-component*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-15`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Conditional rendering {/*conditional-rendering*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-16`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Rendering lists {/*rendering-lists*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-17`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Rendering lists {/*rendering-lists*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-18`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Rendering lists {/*rendering-lists*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-19`
+- css example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Rendering lists {/*rendering-lists*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-20`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Keeping components pure {/*keeping-components-pure*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-21`
+- js example in [learn/describing-the-ui.md](./learn/describing-the-ui.md)
+  - Section: Keeping components pure {/*keeping-components-pure*/}
+  - Snippet id: `learn/describing-the-ui.md#snippet-22`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Referencing values with refs {/*referencing-values-with-refs*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-1`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Referencing values with refs {/*referencing-values-with-refs*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-2`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Manipulating the DOM with refs {/*manipulating-the-dom-with-refs*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-3`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Synchronizing with Effects {/*synchronizing-with-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-4`
+- css example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Synchronizing with Effects {/*synchronizing-with-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-5`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Synchronizing with Effects {/*synchronizing-with-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-6`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Synchronizing with Effects {/*synchronizing-with-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-7`
+- css example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Synchronizing with Effects {/*synchronizing-with-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-8`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: You Might Not Need An Effect {/*you-might-not-need-an-effect*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-9`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: You Might Not Need An Effect {/*you-might-not-need-an-effect*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-10`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Lifecycle of reactive effects {/*lifecycle-of-reactive-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-11`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Lifecycle of reactive effects {/*lifecycle-of-reactive-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-12`
+- css example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Lifecycle of reactive effects {/*lifecycle-of-reactive-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-13`
+- json example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-14`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-15`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-16`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-17`
+- css example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-18`
+- json example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-19`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-20`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-21`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-22`
+- css example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Separating events from Effects {/*separating-events-from-effects*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-23`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Removing Effect dependencies {/*removing-effect-dependencies*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-24`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Removing Effect dependencies {/*removing-effect-dependencies*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-25`
+- css example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Removing Effect dependencies {/*removing-effect-dependencies*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-26`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Removing Effect dependencies {/*removing-effect-dependencies*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-27`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Removing Effect dependencies {/*removing-effect-dependencies*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-28`
+- css example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Removing Effect dependencies {/*removing-effect-dependencies*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-29`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Reusing logic with custom Hooks {/*reusing-logic-with-custom-hooks*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-30`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Reusing logic with custom Hooks {/*reusing-logic-with-custom-hooks*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-31`
+- js example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Reusing logic with custom Hooks {/*reusing-logic-with-custom-hooks*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-32`
+- css example in [learn/escape-hatches.md](./learn/escape-hatches.md)
+  - Section: Reusing logic with custom Hooks {/*reusing-logic-with-custom-hooks*/}
+  - Snippet id: `learn/escape-hatches.md#snippet-33`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Consolidate state logic with a reducer {/*consolidate-state-logic-with-a-reducer*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-1`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Consolidate state logic with a reducer {/*consolidate-state-logic-with-a-reducer*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-2`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Consolidate state logic with a reducer {/*consolidate-state-logic-with-a-reducer*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-3`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Consolidate state logic with a reducer {/*consolidate-state-logic-with-a-reducer*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-4`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 1: Move from setting state to dispatching actions {/*step-1-move-from-setting-state-to-dispatching-actions*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-5`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 1: Move from setting state to dispatching actions {/*step-1-move-from-setting-state-to-dispatching-actions*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-6`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 1: Move from setting state to dispatching actions {/*step-1-move-from-setting-state-to-dispatching-actions*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-7`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 1: Move from setting state to dispatching actions {/*step-1-move-from-setting-state-to-dispatching-actions*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-8`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 2: Write a reducer function {/*step-2-write-a-reducer-function*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-9`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 2: Write a reducer function {/*step-2-write-a-reducer-function*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-10`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 2: Write a reducer function {/*step-2-write-a-reducer-function*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-11`
+- text example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Why are reducers called this way? {/*why-are-reducers-called-this-way*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-12`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Why are reducers called this way? {/*why-are-reducers-called-this-way*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-13`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Why are reducers called this way? {/*why-are-reducers-called-this-way*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-14`
+- html example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Why are reducers called this way? {/*why-are-reducers-called-this-way*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-15`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-16`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-17`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-18`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-19`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-20`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-21`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-22`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-23`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-24`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-25`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-26`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Step 3: Use the reducer from your component {/*step-3-use-the-reducer-from-your-component*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-27`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Writing concise reducers with Immer {/*writing-concise-reducers-with-immer*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-28`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Writing concise reducers with Immer {/*writing-concise-reducers-with-immer*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-29`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Writing concise reducers with Immer {/*writing-concise-reducers-with-immer*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-30`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Writing concise reducers with Immer {/*writing-concise-reducers-with-immer*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-31`
+- json example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Writing concise reducers with Immer {/*writing-concise-reducers-with-immer*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-32`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-33`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-34`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-35`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-36`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-37`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-38`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-39`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-40`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-41`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-42`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-43`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Dispatch actions from event handlers {/*dispatch-actions-from-event-handlers*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-44`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-45`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-46`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-47`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-48`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-49`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-50`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-51`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-52`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-53`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-54`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-55`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-56`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-57`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-58`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Clear the input on sending a message {/*clear-the-input-on-sending-a-message*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-59`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-60`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-61`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-62`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-63`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-64`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-65`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-66`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-67`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-68`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-69`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-70`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-71`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-72`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-73`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Restore input values when switching between tabs {/*restore-input-values-when-switching-between-tabs*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-74`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-75`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-76`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-77`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-78`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-79`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-80`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-81`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-82`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-83`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-84`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-85`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-86`
+- css example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-87`
+- js example in [learn/extracting-state-logic-into-a-reducer.md](./learn/extracting-state-logic-into-a-reducer.md)
+  - Section: Implement `useReducer` from scratch {/*implement-usereducer-from-scratch*/}
+  - Snippet id: `learn/extracting-state-logic-into-a-reducer.md#snippet-88`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: The root component file {/*the-root-component-file*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-1`
+- css example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: The root component file {/*the-root-component-file*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-2`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing a component {/*exporting-and-importing-a-component*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-3`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing a component {/*exporting-and-importing-a-component*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-4`
+- css example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing a component {/*exporting-and-importing-a-component*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-5`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing a component {/*exporting-and-importing-a-component*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-6`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing multiple components from the same file {/*exporting-and-importing-multiple-components-from-the-same-file*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-7`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing multiple components from the same file {/*exporting-and-importing-multiple-components-from-the-same-file*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-8`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing multiple components from the same file {/*exporting-and-importing-multiple-components-from-the-same-file*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-9`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing multiple components from the same file {/*exporting-and-importing-multiple-components-from-the-same-file*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-10`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing multiple components from the same file {/*exporting-and-importing-multiple-components-from-the-same-file*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-11`
+- css example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Exporting and importing multiple components from the same file {/*exporting-and-importing-multiple-components-from-the-same-file*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-12`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-13`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-14`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-15`
+- css example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-16`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-17`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-18`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-19`
+- css example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-20`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-21`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-22`
+- js example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-23`
+- css example in [learn/importing-and-exporting-components.md](./learn/importing-and-exporting-components.md)
+  - Section: Split the components further {/*split-the-components-further*/}
+  - Snippet id: `learn/importing-and-exporting-components.md#snippet-24`
+- js example in [learn/installation.md](./learn/installation.md)
+  - Section: Try React {/*try-react*/}
+  - Snippet id: `learn/installation.md#snippet-1`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Passing strings with quotes {/*passing-strings-with-quotes*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-1`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Passing strings with quotes {/*passing-strings-with-quotes*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-2`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Passing strings with quotes {/*passing-strings-with-quotes*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-3`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Passing strings with quotes {/*passing-strings-with-quotes*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-4`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Using curly braces: A window into the JavaScript world {/*using-curly-braces-a-window-into-the-javascript-world*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-5`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Using curly braces: A window into the JavaScript world {/*using-curly-braces-a-window-into-the-javascript-world*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-6`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Using "double curlies": CSS and other objects in JSX {/*using-double-curlies-css-and-other-objects-in-jsx*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-7`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Using "double curlies": CSS and other objects in JSX {/*using-double-curlies-css-and-other-objects-in-jsx*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-8`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Using "double curlies": CSS and other objects in JSX {/*using-double-curlies-css-and-other-objects-in-jsx*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-9`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: More fun with JavaScript objects and curly braces {/*more-fun-with-javascript-objects-and-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-10`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: More fun with JavaScript objects and curly braces {/*more-fun-with-javascript-objects-and-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-11`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: More fun with JavaScript objects and curly braces {/*more-fun-with-javascript-objects-and-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-12`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: More fun with JavaScript objects and curly braces {/*more-fun-with-javascript-objects-and-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-13`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Fix the mistake {/*fix-the-mistake*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-14`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Fix the mistake {/*fix-the-mistake*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-15`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Fix the mistake {/*fix-the-mistake*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-16`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Fix the mistake {/*fix-the-mistake*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-17`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Extract information into an object {/*extract-information-into-an-object*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-18`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Extract information into an object {/*extract-information-into-an-object*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-19`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Extract information into an object {/*extract-information-into-an-object*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-20`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Extract information into an object {/*extract-information-into-an-object*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-21`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Write an expression inside JSX curly braces {/*write-an-expression-inside-jsx-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-22`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Write an expression inside JSX curly braces {/*write-an-expression-inside-jsx-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-23`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Write an expression inside JSX curly braces {/*write-an-expression-inside-jsx-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-24`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Write an expression inside JSX curly braces {/*write-an-expression-inside-jsx-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-25`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Write an expression inside JSX curly braces {/*write-an-expression-inside-jsx-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-26`
+- js example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Write an expression inside JSX curly braces {/*write-an-expression-inside-jsx-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-27`
+- css example in [learn/javascript-in-jsx-with-curly-braces.md](./learn/javascript-in-jsx-with-curly-braces.md)
+  - Section: Write an expression inside JSX curly braces {/*write-an-expression-inside-jsx-curly-braces*/}
+  - Snippet id: `learn/javascript-in-jsx-with-curly-braces.md#snippet-28`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Purity: Components as formulas {/*purity-components-as-formulas*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-1`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Purity: Components as formulas {/*purity-components-as-formulas*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-2`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Side Effects: (un)intended consequences {/*side-effects-unintended-consequences*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-3`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Side Effects: (un)intended consequences {/*side-effects-unintended-consequences*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-4`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Local mutation: Your component's little secret {/*local-mutation-your-components-little-secret*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-5`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken clock {/*fix-a-broken-clock*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-6`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken clock {/*fix-a-broken-clock*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-7`
+- css example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken clock {/*fix-a-broken-clock*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-8`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken clock {/*fix-a-broken-clock*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-9`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken clock {/*fix-a-broken-clock*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-10`
+- css example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken clock {/*fix-a-broken-clock*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-11`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-12`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-13`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-14`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-15`
+- css example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-16`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-17`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-18`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-19`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-20`
+- css example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken profile {/*fix-a-broken-profile*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-21`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-22`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-23`
+- css example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-24`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-25`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-26`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-27`
+- css example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-28`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-29`
+- js example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-30`
+- css example in [learn/keeping-components-pure.md](./learn/keeping-components-pure.md)
+  - Section: Fix a broken story tray {/*fix-a-broken-story-tray*/}
+  - Snippet id: `learn/keeping-components-pure.md#snippet-31`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: The lifecycle of an Effect {/*the-lifecycle-of-an-effect*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-1`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: The lifecycle of an Effect {/*the-lifecycle-of-an-effect*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-2`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: The lifecycle of an Effect {/*the-lifecycle-of-an-effect*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-3`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Why synchronization may need to happen more than once {/*why-synchronization-may-need-to-happen-more-than-once*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-4`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Why synchronization may need to happen more than once {/*why-synchronization-may-need-to-happen-more-than-once*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-5`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Why synchronization may need to happen more than once {/*why-synchronization-may-need-to-happen-more-than-once*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-6`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: How React re-synchronizes your Effect {/*how-react-re-synchronizes-your-effect*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-7`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: How React re-synchronizes your Effect {/*how-react-re-synchronizes-your-effect*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-8`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Thinking from the Effect's perspective {/*thinking-from-the-effects-perspective*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-9`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: How React verifies that your Effect can re-synchronize {/*how-react-verifies-that-your-effect-can-re-synchronize*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-10`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: How React verifies that your Effect can re-synchronize {/*how-react-verifies-that-your-effect-can-re-synchronize*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-11`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: How React verifies that your Effect can re-synchronize {/*how-react-verifies-that-your-effect-can-re-synchronize*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-12`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: How React knows that it needs to re-synchronize the Effect {/*how-react-knows-that-it-needs-to-re-synchronize-the-effect*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-13`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Each Effect represents a separate synchronization process {/*each-effect-represents-a-separate-synchronization-process*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-14`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Each Effect represents a separate synchronization process {/*each-effect-represents-a-separate-synchronization-process*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-15`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Effects "react" to reactive values {/*effects-react-to-reactive-values*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-16`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Effects "react" to reactive values {/*effects-react-to-reactive-values*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-17`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Effects "react" to reactive values {/*effects-react-to-reactive-values*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-18`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Effects "react" to reactive values {/*effects-react-to-reactive-values*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-19`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Effects "react" to reactive values {/*effects-react-to-reactive-values*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-20`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: What an Effect with empty dependencies means {/*what-an-effect-with-empty-dependencies-means*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-21`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: What an Effect with empty dependencies means {/*what-an-effect-with-empty-dependencies-means*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-22`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: What an Effect with empty dependencies means {/*what-an-effect-with-empty-dependencies-means*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-23`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: What an Effect with empty dependencies means {/*what-an-effect-with-empty-dependencies-means*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-24`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: All variables declared in the component body are reactive {/*all-variables-declared-in-the-component-body-are-reactive*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-25`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: React verifies that you specified every reactive value as a dependency {/*react-verifies-that-you-specified-every-reactive-value-as-a-dependency*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-26`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: React verifies that you specified every reactive value as a dependency {/*react-verifies-that-you-specified-every-reactive-value-as-a-dependency*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-27`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: React verifies that you specified every reactive value as a dependency {/*react-verifies-that-you-specified-every-reactive-value-as-a-dependency*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-28`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: React verifies that you specified every reactive value as a dependency {/*react-verifies-that-you-specified-every-reactive-value-as-a-dependency*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-29`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: What to do when you don't want to re-synchronize {/*what-to-do-when-you-dont-want-to-re-synchronize*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-30`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: What to do when you don't want to re-synchronize {/*what-to-do-when-you-dont-want-to-re-synchronize*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-31`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: What to do when you don't want to re-synchronize {/*what-to-do-when-you-dont-want-to-re-synchronize*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-32`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix reconnecting on every keystroke {/*fix-reconnecting-on-every-keystroke*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-33`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix reconnecting on every keystroke {/*fix-reconnecting-on-every-keystroke*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-34`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix reconnecting on every keystroke {/*fix-reconnecting-on-every-keystroke*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-35`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix reconnecting on every keystroke {/*fix-reconnecting-on-every-keystroke*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-36`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix reconnecting on every keystroke {/*fix-reconnecting-on-every-keystroke*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-37`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix reconnecting on every keystroke {/*fix-reconnecting-on-every-keystroke*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-38`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Switch synchronization on and off {/*switch-synchronization-on-and-off*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-39`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Switch synchronization on and off {/*switch-synchronization-on-and-off*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-40`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Switch synchronization on and off {/*switch-synchronization-on-and-off*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-41`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Switch synchronization on and off {/*switch-synchronization-on-and-off*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-42`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Switch synchronization on and off {/*switch-synchronization-on-and-off*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-43`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Switch synchronization on and off {/*switch-synchronization-on-and-off*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-44`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Investigate a stale value bug {/*investigate-a-stale-value-bug*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-45`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Investigate a stale value bug {/*investigate-a-stale-value-bug*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-46`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Investigate a stale value bug {/*investigate-a-stale-value-bug*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-47`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Investigate a stale value bug {/*investigate-a-stale-value-bug*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-48`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Investigate a stale value bug {/*investigate-a-stale-value-bug*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-49`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Investigate a stale value bug {/*investigate-a-stale-value-bug*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-50`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-51`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-52`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-53`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-54`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-55`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-56`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-57`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-58`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-59`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-60`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-61`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Fix a connection switch {/*fix-a-connection-switch*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-62`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-63`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-64`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-65`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-66`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-67`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-68`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-69`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-70`
+- js example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-71`
+- css example in [learn/lifecycle-of-reactive-effects.md](./learn/lifecycle-of-reactive-effects.md)
+  - Section: Populate a chain of select boxes {/*populate-a-chain-of-select-boxes*/}
+  - Snippet id: `learn/lifecycle-of-reactive-effects.md#snippet-72`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Reacting to input with state {/*reacting-to-input-with-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-1`
+- css example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Reacting to input with state {/*reacting-to-input-with-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-2`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Choosing the state structure {/*choosing-the-state-structure*/}
+  - Snippet id: `learn/managing-state.md#snippet-3`
+- css example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Choosing the state structure {/*choosing-the-state-structure*/}
+  - Snippet id: `learn/managing-state.md#snippet-4`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Choosing the state structure {/*choosing-the-state-structure*/}
+  - Snippet id: `learn/managing-state.md#snippet-5`
+- css example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Choosing the state structure {/*choosing-the-state-structure*/}
+  - Snippet id: `learn/managing-state.md#snippet-6`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Sharing state between components {/*sharing-state-between-components*/}
+  - Snippet id: `learn/managing-state.md#snippet-7`
+- css example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Sharing state between components {/*sharing-state-between-components*/}
+  - Snippet id: `learn/managing-state.md#snippet-8`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Preserving and resetting state {/*preserving-and-resetting-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-9`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Preserving and resetting state {/*preserving-and-resetting-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-10`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Preserving and resetting state {/*preserving-and-resetting-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-11`
+- css example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Preserving and resetting state {/*preserving-and-resetting-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-12`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Preserving and resetting state {/*preserving-and-resetting-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-13`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Preserving and resetting state {/*preserving-and-resetting-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-14`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Preserving and resetting state {/*preserving-and-resetting-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-15`
+- css example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Preserving and resetting state {/*preserving-and-resetting-state*/}
+  - Snippet id: `learn/managing-state.md#snippet-16`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Extracting state logic into a reducer {/*extracting-state-logic-into-a-reducer*/}
+  - Snippet id: `learn/managing-state.md#snippet-17`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Extracting state logic into a reducer {/*extracting-state-logic-into-a-reducer*/}
+  - Snippet id: `learn/managing-state.md#snippet-18`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Extracting state logic into a reducer {/*extracting-state-logic-into-a-reducer*/}
+  - Snippet id: `learn/managing-state.md#snippet-19`
+- css example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Extracting state logic into a reducer {/*extracting-state-logic-into-a-reducer*/}
+  - Snippet id: `learn/managing-state.md#snippet-20`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Passing data deeply with context {/*passing-data-deeply-with-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-21`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Passing data deeply with context {/*passing-data-deeply-with-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-22`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Passing data deeply with context {/*passing-data-deeply-with-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-23`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Passing data deeply with context {/*passing-data-deeply-with-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-24`
+- css example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Passing data deeply with context {/*passing-data-deeply-with-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-25`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Scaling up with reducer and context {/*scaling-up-with-reducer-and-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-26`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Scaling up with reducer and context {/*scaling-up-with-reducer-and-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-27`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Scaling up with reducer and context {/*scaling-up-with-reducer-and-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-28`
+- js example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Scaling up with reducer and context {/*scaling-up-with-reducer-and-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-29`
+- css example in [learn/managing-state.md](./learn/managing-state.md)
+  - Section: Scaling up with reducer and context {/*scaling-up-with-reducer-and-context*/}
+  - Snippet id: `learn/managing-state.md#snippet-30`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Getting a ref to the node {/*getting-a-ref-to-the-node*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-1`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Getting a ref to the node {/*getting-a-ref-to-the-node*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-2`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Getting a ref to the node {/*getting-a-ref-to-the-node*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-3`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Getting a ref to the node {/*getting-a-ref-to-the-node*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-4`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Example: Focusing a text input {/*example-focusing-a-text-input*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-5`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Example: Scrolling to an element {/*example-scrolling-to-an-element*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-6`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Example: Scrolling to an element {/*example-scrolling-to-an-element*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-7`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: How to manage a list of refs using a ref callback {/*how-to-manage-a-list-of-refs-using-a-ref-callback*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-8`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: How to manage a list of refs using a ref callback {/*how-to-manage-a-list-of-refs-using-a-ref-callback*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-9`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: How to manage a list of refs using a ref callback {/*how-to-manage-a-list-of-refs-using-a-ref-callback*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-10`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: How to manage a list of refs using a ref callback {/*how-to-manage-a-list-of-refs-using-a-ref-callback*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-11`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Accessing another component's DOM nodes {/*accessing-another-components-dom-nodes*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-12`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Accessing another component's DOM nodes {/*accessing-another-components-dom-nodes*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-13`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Exposing a subset of the API with an imperative handle {/*exposing-a-subset-of-the-api-with-an-imperative-handle*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-14`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Flushing state updates synchronously with flushSync {/*flushing-state-updates-synchronously-with-flush-sync*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-15`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Flushing state updates synchronously with flushSync {/*flushing-state-updates-synchronously-with-flush-sync*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-16`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Flushing state updates synchronously with flushSync {/*flushing-state-updates-synchronously-with-flush-sync*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-17`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Flushing state updates synchronously with flushSync {/*flushing-state-updates-synchronously-with-flush-sync*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-18`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Best practices for DOM manipulation with refs {/*best-practices-for-dom-manipulation-with-refs*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-19`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Best practices for DOM manipulation with refs {/*best-practices-for-dom-manipulation-with-refs*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-20`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Play and pause the video {/*play-and-pause-the-video*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-21`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Play and pause the video {/*play-and-pause-the-video*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-22`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Play and pause the video {/*play-and-pause-the-video*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-23`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Play and pause the video {/*play-and-pause-the-video*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-24`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field {/*focus-the-search-field*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-25`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field {/*focus-the-search-field*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-26`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field {/*focus-the-search-field*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-27`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field {/*focus-the-search-field*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-28`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Scrolling an image carousel {/*scrolling-an-image-carousel*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-29`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Scrolling an image carousel {/*scrolling-an-image-carousel*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-30`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Scrolling an image carousel {/*scrolling-an-image-carousel*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-31`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Scrolling an image carousel {/*scrolling-an-image-carousel*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-32`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Scrolling an image carousel {/*scrolling-an-image-carousel*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-33`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Scrolling an image carousel {/*scrolling-an-image-carousel*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-34`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field with separate components {/*focus-the-search-field-with-separate-components*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-35`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field with separate components {/*focus-the-search-field-with-separate-components*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-36`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field with separate components {/*focus-the-search-field-with-separate-components*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-37`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field with separate components {/*focus-the-search-field-with-separate-components*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-38`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field with separate components {/*focus-the-search-field-with-separate-components*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-39`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field with separate components {/*focus-the-search-field-with-separate-components*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-40`
+- js example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field with separate components {/*focus-the-search-field-with-separate-components*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-41`
+- css example in [learn/manipulating-the-dom-with-refs.md](./learn/manipulating-the-dom-with-refs.md)
+  - Section: Focus the search field with separate components {/*focus-the-search-field-with-separate-components*/}
+  - Snippet id: `learn/manipulating-the-dom-with-refs.md#snippet-42`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-1`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-2`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-3`
+- css example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-4`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-5`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-6`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-7`
+- css example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-8`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-9`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context: an alternative to passing props {/*context-an-alternative-to-passing-props*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-10`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-11`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-12`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-13`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-14`
+- css example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-15`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-16`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-17`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-18`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-19`
+- jsx example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-20`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-21`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-22`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-23`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-24`
+- css example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 2: Use the context {/*step-2-use-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-25`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 3: Provide the context {/*step-3-provide-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-26`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 3: Provide the context {/*step-3-provide-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-27`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 3: Provide the context {/*step-3-provide-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-28`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 3: Provide the context {/*step-3-provide-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-29`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 3: Provide the context {/*step-3-provide-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-30`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 3: Provide the context {/*step-3-provide-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-31`
+- css example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Step 3: Provide the context {/*step-3-provide-the-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-32`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Using and providing context from the same component {/*using-and-providing-context-from-the-same-component*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-33`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Using and providing context from the same component {/*using-and-providing-context-from-the-same-component*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-34`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Using and providing context from the same component {/*using-and-providing-context-from-the-same-component*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-35`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Using and providing context from the same component {/*using-and-providing-context-from-the-same-component*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-36`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Using and providing context from the same component {/*using-and-providing-context-from-the-same-component*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-37`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Using and providing context from the same component {/*using-and-providing-context-from-the-same-component*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-38`
+- css example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Using and providing context from the same component {/*using-and-providing-context-from-the-same-component*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-39`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context passes through intermediate components {/*context-passes-through-intermediate-components*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-40`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context passes through intermediate components {/*context-passes-through-intermediate-components*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-41`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context passes through intermediate components {/*context-passes-through-intermediate-components*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-42`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context passes through intermediate components {/*context-passes-through-intermediate-components*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-43`
+- css example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Context passes through intermediate components {/*context-passes-through-intermediate-components*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-44`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-45`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-46`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-47`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-48`
+- css example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-49`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-50`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-51`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-52`
+- js example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-53`
+- css example in [learn/passing-data-deeply-with-context.md](./learn/passing-data-deeply-with-context.md)
+  - Section: Replace prop drilling with context {/*replace-prop-drilling-with-context*/}
+  - Snippet id: `learn/passing-data-deeply-with-context.md#snippet-54`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Familiar props {/*familiar-props*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-1`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Familiar props {/*familiar-props*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-2`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing props to a component {/*passing-props-to-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-3`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Step 1: Pass props to the child component {/*step-1-pass-props-to-the-child-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-4`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Step 2: Read props inside the child component {/*step-2-read-props-inside-the-child-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-5`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Step 2: Read props inside the child component {/*step-2-read-props-inside-the-child-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-6`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Step 2: Read props inside the child component {/*step-2-read-props-inside-the-child-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-7`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Step 2: Read props inside the child component {/*step-2-read-props-inside-the-child-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-8`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Step 2: Read props inside the child component {/*step-2-read-props-inside-the-child-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-9`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Step 2: Read props inside the child component {/*step-2-read-props-inside-the-child-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-10`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Step 2: Read props inside the child component {/*step-2-read-props-inside-the-child-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-11`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Specifying a default value for a prop {/*specifying-a-default-value-for-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-12`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Forwarding props with the JSX spread syntax {/*forwarding-props-with-the-jsx-spread-syntax*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-13`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Forwarding props with the JSX spread syntax {/*forwarding-props-with-the-jsx-spread-syntax*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-14`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX as children {/*passing-jsx-as-children*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-15`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX as children {/*passing-jsx-as-children*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-16`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX as children {/*passing-jsx-as-children*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-17`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX as children {/*passing-jsx-as-children*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-18`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX as children {/*passing-jsx-as-children*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-19`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX as children {/*passing-jsx-as-children*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-20`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: How props change over time {/*how-props-change-over-time*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-21`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: How props change over time {/*how-props-change-over-time*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-22`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Extract a component {/*extract-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-23`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Extract a component {/*extract-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-24`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Extract a component {/*extract-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-25`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Extract a component {/*extract-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-26`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Extract a component {/*extract-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-27`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Extract a component {/*extract-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-28`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Extract a component {/*extract-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-29`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Extract a component {/*extract-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-30`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Extract a component {/*extract-a-component*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-31`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Adjust the image size based on a prop {/*adjust-the-image-size-based-on-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-32`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Adjust the image size based on a prop {/*adjust-the-image-size-based-on-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-33`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Adjust the image size based on a prop {/*adjust-the-image-size-based-on-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-34`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Adjust the image size based on a prop {/*adjust-the-image-size-based-on-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-35`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Adjust the image size based on a prop {/*adjust-the-image-size-based-on-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-36`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Adjust the image size based on a prop {/*adjust-the-image-size-based-on-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-37`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Adjust the image size based on a prop {/*adjust-the-image-size-based-on-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-38`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Adjust the image size based on a prop {/*adjust-the-image-size-based-on-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-39`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Adjust the image size based on a prop {/*adjust-the-image-size-based-on-a-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-40`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX in a `children` prop {/*passing-jsx-in-a-children-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-41`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX in a `children` prop {/*passing-jsx-in-a-children-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-42`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX in a `children` prop {/*passing-jsx-in-a-children-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-43`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX in a `children` prop {/*passing-jsx-in-a-children-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-44`
+- js example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX in a `children` prop {/*passing-jsx-in-a-children-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-45`
+- css example in [learn/passing-props-to-a-component.md](./learn/passing-props-to-a-component.md)
+  - Section: Passing JSX in a `children` prop {/*passing-jsx-in-a-children-prop*/}
+  - Snippet id: `learn/passing-props-to-a-component.md#snippet-46`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: State is tied to a position in the render tree {/*state-is-tied-to-a-position-in-the-tree*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-1`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: State is tied to a position in the render tree {/*state-is-tied-to-a-position-in-the-tree*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-2`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: State is tied to a position in the render tree {/*state-is-tied-to-a-position-in-the-tree*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-3`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: State is tied to a position in the render tree {/*state-is-tied-to-a-position-in-the-tree*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-4`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: State is tied to a position in the render tree {/*state-is-tied-to-a-position-in-the-tree*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-5`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: State is tied to a position in the render tree {/*state-is-tied-to-a-position-in-the-tree*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-6`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Same component at the same position preserves state {/*same-component-at-the-same-position-preserves-state*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-7`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Same component at the same position preserves state {/*same-component-at-the-same-position-preserves-state*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-8`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Same component at the same position preserves state {/*same-component-at-the-same-position-preserves-state*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-9`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Same component at the same position preserves state {/*same-component-at-the-same-position-preserves-state*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-10`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Different components at the same position reset state {/*different-components-at-the-same-position-reset-state*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-11`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Different components at the same position reset state {/*different-components-at-the-same-position-reset-state*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-12`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Different components at the same position reset state {/*different-components-at-the-same-position-reset-state*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-13`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Different components at the same position reset state {/*different-components-at-the-same-position-reset-state*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-14`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Different components at the same position reset state {/*different-components-at-the-same-position-reset-state*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-15`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting state at the same position {/*resetting-state-at-the-same-position*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-16`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting state at the same position {/*resetting-state-at-the-same-position*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-17`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Option 1: Rendering a component in different positions {/*option-1-rendering-a-component-in-different-positions*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-18`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Option 1: Rendering a component in different positions {/*option-1-rendering-a-component-in-different-positions*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-19`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Option 2: Resetting state with a key {/*option-2-resetting-state-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-20`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Option 2: Resetting state with a key {/*option-2-resetting-state-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-21`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Option 2: Resetting state with a key {/*option-2-resetting-state-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-22`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting a form with a key {/*resetting-a-form-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-23`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting a form with a key {/*resetting-a-form-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-24`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting a form with a key {/*resetting-a-form-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-25`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting a form with a key {/*resetting-a-form-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-26`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting a form with a key {/*resetting-a-form-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-27`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting a form with a key {/*resetting-a-form-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-28`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting a form with a key {/*resetting-a-form-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-29`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting a form with a key {/*resetting-a-form-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-30`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Resetting a form with a key {/*resetting-a-form-with-a-key*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-31`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix disappearing input text {/*fix-disappearing-input-text*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-32`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix disappearing input text {/*fix-disappearing-input-text*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-33`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix disappearing input text {/*fix-disappearing-input-text*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-34`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix disappearing input text {/*fix-disappearing-input-text*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-35`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix disappearing input text {/*fix-disappearing-input-text*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-36`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix disappearing input text {/*fix-disappearing-input-text*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-37`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Swap two form fields {/*swap-two-form-fields*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-38`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Swap two form fields {/*swap-two-form-fields*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-39`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Swap two form fields {/*swap-two-form-fields*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-40`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Swap two form fields {/*swap-two-form-fields*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-41`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Reset a detail form {/*reset-a-detail-form*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-42`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Reset a detail form {/*reset-a-detail-form*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-43`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Reset a detail form {/*reset-a-detail-form*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-44`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Reset a detail form {/*reset-a-detail-form*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-45`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Reset a detail form {/*reset-a-detail-form*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-46`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Reset a detail form {/*reset-a-detail-form*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-47`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Reset a detail form {/*reset-a-detail-form*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-48`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Reset a detail form {/*reset-a-detail-form*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-49`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Clear an image while it's loading {/*clear-an-image-while-its-loading*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-50`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Clear an image while it's loading {/*clear-an-image-while-its-loading*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-51`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Clear an image while it's loading {/*clear-an-image-while-its-loading*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-52`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Clear an image while it's loading {/*clear-an-image-while-its-loading*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-53`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix misplaced state in the list {/*fix-misplaced-state-in-the-list*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-54`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix misplaced state in the list {/*fix-misplaced-state-in-the-list*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-55`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix misplaced state in the list {/*fix-misplaced-state-in-the-list*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-56`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix misplaced state in the list {/*fix-misplaced-state-in-the-list*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-57`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix misplaced state in the list {/*fix-misplaced-state-in-the-list*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-58`
+- js example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix misplaced state in the list {/*fix-misplaced-state-in-the-list*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-59`
+- css example in [learn/preserving-and-resetting-state.md](./learn/preserving-and-resetting-state.md)
+  - Section: Fix misplaced state in the list {/*fix-misplaced-state-in-the-list*/}
+  - Snippet id: `learn/preserving-and-resetting-state.md#snippet-60`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: React batches state updates {/*react-batches-state-updates*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-1`
+- css example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: React batches state updates {/*react-batches-state-updates*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-2`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: React batches state updates {/*react-batches-state-updates*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-3`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Updating the same state multiple times before the next render {/*updating-the-same-state-multiple-times-before-the-next-render*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-4`
+- css example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Updating the same state multiple times before the next render {/*updating-the-same-state-multiple-times-before-the-next-render*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-5`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Updating the same state multiple times before the next render {/*updating-the-same-state-multiple-times-before-the-next-render*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-6`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: What happens if you update state after replacing it {/*what-happens-if-you-update-state-after-replacing-it*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-7`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: What happens if you update state after replacing it {/*what-happens-if-you-update-state-after-replacing-it*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-8`
+- css example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: What happens if you update state after replacing it {/*what-happens-if-you-update-state-after-replacing-it*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-9`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: What happens if you replace state after updating it {/*what-happens-if-you-replace-state-after-updating-it*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-10`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: What happens if you replace state after updating it {/*what-happens-if-you-replace-state-after-updating-it*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-11`
+- css example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: What happens if you replace state after updating it {/*what-happens-if-you-replace-state-after-updating-it*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-12`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Naming conventions {/*naming-conventions*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-13`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Fix a request counter {/*fix-a-request-counter*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-14`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Fix a request counter {/*fix-a-request-counter*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-15`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Implement the state queue yourself {/*implement-the-state-queue-yourself*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-16`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Implement the state queue yourself {/*implement-the-state-queue-yourself*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-17`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Implement the state queue yourself {/*implement-the-state-queue-yourself*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-18`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Implement the state queue yourself {/*implement-the-state-queue-yourself*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-19`
+- js example in [learn/queueing-a-series-of-state-updates.md](./learn/queueing-a-series-of-state-updates.md)
+  - Section: Implement the state queue yourself {/*implement-the-state-queue-yourself*/}
+  - Snippet id: `learn/queueing-a-series-of-state-updates.md#snippet-20`
+- js example in [learn/react-compiler/debugging.md](./learn/react-compiler/debugging.md)
+  - Section: 1. Temporarily Disable Compilation {/*temporarily-disable-compilation*/}
+  - Snippet id: `learn/react-compiler/debugging.md#snippet-1`
+- js example in [learn/react-compiler/incremental-adoption.md](./learn/react-compiler/incremental-adoption.md)
+  - Section: Basic Configuration {/*basic-configuration*/}
+  - Snippet id: `learn/react-compiler/incremental-adoption.md#snippet-1`
+- js example in [learn/react-compiler/incremental-adoption.md](./learn/react-compiler/incremental-adoption.md)
+  - Section: Expanding Coverage {/*expanding-coverage*/}
+  - Snippet id: `learn/react-compiler/incremental-adoption.md#snippet-2`
+- js example in [learn/react-compiler/incremental-adoption.md](./learn/react-compiler/incremental-adoption.md)
+  - Section: With Compiler Options {/*with-compiler-options*/}
+  - Snippet id: `learn/react-compiler/incremental-adoption.md#snippet-3`
+- js example in [learn/react-compiler/incremental-adoption.md](./learn/react-compiler/incremental-adoption.md)
+  - Section: Annotation Mode Configuration {/*annotation-mode-configuration*/}
+  - Snippet id: `learn/react-compiler/incremental-adoption.md#snippet-4`
+- js example in [learn/react-compiler/incremental-adoption.md](./learn/react-compiler/incremental-adoption.md)
+  - Section: Using the Directive {/*using-the-directive*/}
+  - Snippet id: `learn/react-compiler/incremental-adoption.md#snippet-5`
+- js example in [learn/react-compiler/incremental-adoption.md](./learn/react-compiler/incremental-adoption.md)
+  - Section: Gating Configuration {/*gating-configuration*/}
+  - Snippet id: `learn/react-compiler/incremental-adoption.md#snippet-6`
+- js example in [learn/react-compiler/incremental-adoption.md](./learn/react-compiler/incremental-adoption.md)
+  - Section: Implementing the Feature Flag {/*implementing-the-feature-flag*/}
+  - Snippet id: `learn/react-compiler/incremental-adoption.md#snippet-7`
+- js example in [learn/react-compiler/installation.md](./learn/react-compiler/installation.md)
+  - Section: Babel {/*babel*/}
+  - Snippet id: `learn/react-compiler/installation.md#snippet-1`
+- js example in [learn/react-compiler/installation.md](./learn/react-compiler/installation.md)
+  - Section: Vite {/*vite*/}
+  - Snippet id: `learn/react-compiler/installation.md#snippet-2`
+- js example in [learn/react-compiler/installation.md](./learn/react-compiler/installation.md)
+  - Section: Vite {/*vite*/}
+  - Snippet id: `learn/react-compiler/installation.md#snippet-3`
+- js example in [learn/react-compiler/installation.md](./learn/react-compiler/installation.md)
+  - Section: Vite {/*vite*/}
+  - Snippet id: `learn/react-compiler/installation.md#snippet-4`
+- js example in [learn/react-compiler/installation.md](./learn/react-compiler/installation.md)
+  - Section: React Router {/*usage-with-react-router*/}
+  - Snippet id: `learn/react-compiler/installation.md#snippet-5`
+- js example in [learn/react-compiler/installation.md](./learn/react-compiler/installation.md)
+  - Section: Check Build Output {/*check-build-output*/}
+  - Snippet id: `learn/react-compiler/installation.md#snippet-6`
+- js example in [learn/react-compiler/installation.md](./learn/react-compiler/installation.md)
+  - Section: Opting out specific components {/*opting-out-specific-components*/}
+  - Snippet id: `learn/react-compiler/installation.md#snippet-7`
+- js example in [learn/react-compiler/introduction.md](./learn/react-compiler/introduction.md)
+  - Section: Before React Compiler {/*before-react-compiler*/}
+  - Snippet id: `learn/react-compiler/introduction.md#snippet-1`
+- js example in [learn/react-compiler/introduction.md](./learn/react-compiler/introduction.md)
+  - Section: Before React Compiler {/*before-react-compiler*/}
+  - Snippet id: `learn/react-compiler/introduction.md#snippet-2`
+- js example in [learn/react-compiler/introduction.md](./learn/react-compiler/introduction.md)
+  - Section: After React Compiler {/*after-react-compiler*/}
+  - Snippet id: `learn/react-compiler/introduction.md#snippet-3`
+- javascript example in [learn/react-compiler/introduction.md](./learn/react-compiler/introduction.md)
+  - Section: Optimizing Re-renders {/*optimizing-re-renders*/}
+  - Snippet id: `learn/react-compiler/introduction.md#snippet-4`
+- js example in [learn/react-compiler/introduction.md](./learn/react-compiler/introduction.md)
+  - Section: Expensive calculations also get memoized {/*expensive-calculations-also-get-memoized*/}
+  - Snippet id: `learn/react-compiler/introduction.md#snippet-5`
+- bash example in [learn/react-developer-tools.md](./learn/react-developer-tools.md)
+  - Section: Safari and other browsers {/*safari-and-other-browsers*/}
+  - Snippet id: `learn/react-developer-tools.md#snippet-1`
+- bash example in [learn/react-developer-tools.md](./learn/react-developer-tools.md)
+  - Section: Npm
+  - Snippet id: `learn/react-developer-tools.md#snippet-2`
+- html example in [learn/react-developer-tools.md](./learn/react-developer-tools.md)
+  - Section: Npm
+  - Snippet id: `learn/react-developer-tools.md#snippet-3`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: How declarative UI compares to imperative {/*how-declarative-ui-compares-to-imperative*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-1`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: How declarative UI compares to imperative {/*how-declarative-ui-compares-to-imperative*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-2`
+- html example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: How declarative UI compares to imperative {/*how-declarative-ui-compares-to-imperative*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-3`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Step 1: Identify your component's different visual states {/*step-1-identify-your-components-different-visual-states*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-4`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Step 1: Identify your component's different visual states {/*step-1-identify-your-components-different-visual-states*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-5`
+- css example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Step 1: Identify your component's different visual states {/*step-1-identify-your-components-different-visual-states*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-6`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Displaying many visual states at once {/*displaying-many-visual-states-at-once*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-7`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Displaying many visual states at once {/*displaying-many-visual-states-at-once*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-8`
+- css example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Displaying many visual states at once {/*displaying-many-visual-states-at-once*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-9`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Step 3: Represent the state in memory with `useState` {/*step-3-represent-the-state-in-memory-with-usestate*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-10`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Step 3: Represent the state in memory with `useState` {/*step-3-represent-the-state-in-memory-with-usestate*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-11`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Step 4: Remove any non-essential state variables {/*step-4-remove-any-non-essential-state-variables*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-12`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Step 5: Connect the event handlers to set state {/*step-5-connect-the-event-handlers-to-set-state*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-13`
+- css example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Step 5: Connect the event handlers to set state {/*step-5-connect-the-event-handlers-to-set-state*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-14`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Add and remove a CSS class {/*add-and-remove-a-css-class*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-15`
+- css example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Add and remove a CSS class {/*add-and-remove-a-css-class*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-16`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Add and remove a CSS class {/*add-and-remove-a-css-class*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-17`
+- css example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Add and remove a CSS class {/*add-and-remove-a-css-class*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-18`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Add and remove a CSS class {/*add-and-remove-a-css-class*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-19`
+- css example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Add and remove a CSS class {/*add-and-remove-a-css-class*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-20`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Profile editor {/*profile-editor*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-21`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Profile editor {/*profile-editor*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-22`
+- html example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Profile editor {/*profile-editor*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-23`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Profile editor {/*profile-editor*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-24`
+- css example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Profile editor {/*profile-editor*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-25`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Profile editor {/*profile-editor*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-26`
+- css example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Profile editor {/*profile-editor*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-27`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Refactor the imperative solution without React {/*refactor-the-imperative-solution-without-react*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-28`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Refactor the imperative solution without React {/*refactor-the-imperative-solution-without-react*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-29`
+- html example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Refactor the imperative solution without React {/*refactor-the-imperative-solution-without-react*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-30`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Refactor the imperative solution without React {/*refactor-the-imperative-solution-without-react*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-31`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Refactor the imperative solution without React {/*refactor-the-imperative-solution-without-react*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-32`
+- html example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Refactor the imperative solution without React {/*refactor-the-imperative-solution-without-react*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-33`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Refactor the imperative solution without React {/*refactor-the-imperative-solution-without-react*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-34`
+- js example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Refactor the imperative solution without React {/*refactor-the-imperative-solution-without-react*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-35`
+- html example in [learn/reacting-to-input-with-state.md](./learn/reacting-to-input-with-state.md)
+  - Section: Refactor the imperative solution without React {/*refactor-the-imperative-solution-without-react*/}
+  - Snippet id: `learn/reacting-to-input-with-state.md#snippet-36`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Adding a ref to your component {/*adding-a-ref-to-your-component*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-1`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Adding a ref to your component {/*adding-a-ref-to-your-component*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-2`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Adding a ref to your component {/*adding-a-ref-to-your-component*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-3`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Adding a ref to your component {/*adding-a-ref-to-your-component*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-4`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Example: building a stopwatch {/*example-building-a-stopwatch*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-5`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Example: building a stopwatch {/*example-building-a-stopwatch*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-6`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Example: building a stopwatch {/*example-building-a-stopwatch*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-7`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Differences between refs and state {/*differences-between-refs-and-state*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-8`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Differences between refs and state {/*differences-between-refs-and-state*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-9`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: How does useRef work inside? {/*how-does-use-ref-work-inside*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-10`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Best practices for refs {/*best-practices-for-refs*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-11`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Fix a broken chat input {/*fix-a-broken-chat-input*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-12`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Fix a broken chat input {/*fix-a-broken-chat-input*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-13`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Fix a component failing to re-render {/*fix-a-component-failing-to-re-render*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-14`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Fix a component failing to re-render {/*fix-a-component-failing-to-re-render*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-15`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Fix debouncing {/*fix-debouncing*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-16`
+- css example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Fix debouncing {/*fix-debouncing*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-17`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Fix debouncing {/*fix-debouncing*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-18`
+- css example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Fix debouncing {/*fix-debouncing*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-19`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Read the latest state {/*read-the-latest-state*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-20`
+- js example in [learn/referencing-values-with-refs.md](./learn/referencing-values-with-refs.md)
+  - Section: Read the latest state {/*read-the-latest-state*/}
+  - Snippet id: `learn/referencing-values-with-refs.md#snippet-21`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Dependencies should match the code {/*dependencies-should-match-the-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-1`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Dependencies should match the code {/*dependencies-should-match-the-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-2`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Dependencies should match the code {/*dependencies-should-match-the-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-3`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Dependencies should match the code {/*dependencies-should-match-the-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-4`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Dependencies should match the code {/*dependencies-should-match-the-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-5`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Dependencies should match the code {/*dependencies-should-match-the-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-6`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Dependencies should match the code {/*dependencies-should-match-the-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-7`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Dependencies should match the code {/*dependencies-should-match-the-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-8`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: To remove a dependency, prove that it's not a dependency {/*to-remove-a-dependency-prove-that-its-not-a-dependency*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-9`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: To remove a dependency, prove that it's not a dependency {/*to-remove-a-dependency-prove-that-its-not-a-dependency*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-10`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: To remove a dependency, prove that it's not a dependency {/*to-remove-a-dependency-prove-that-its-not-a-dependency*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-11`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: To remove a dependency, prove that it's not a dependency {/*to-remove-a-dependency-prove-that-its-not-a-dependency*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-12`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: To remove a dependency, prove that it's not a dependency {/*to-remove-a-dependency-prove-that-its-not-a-dependency*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-13`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: To remove a dependency, prove that it's not a dependency {/*to-remove-a-dependency-prove-that-its-not-a-dependency*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-14`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: To change the dependencies, change the code {/*to-change-the-dependencies-change-the-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-15`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Why is suppressing the dependency linter so dangerous? {/*why-is-suppressing-the-dependency-linter-so-dangerous*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-16`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Why is suppressing the dependency linter so dangerous? {/*why-is-suppressing-the-dependency-linter-so-dangerous*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-17`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Should this code move to an event handler? {/*should-this-code-move-to-an-event-handler*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-18`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Should this code move to an event handler? {/*should-this-code-move-to-an-event-handler*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-19`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Should this code move to an event handler? {/*should-this-code-move-to-an-event-handler*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-20`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Is your Effect doing several unrelated things? {/*is-your-effect-doing-several-unrelated-things*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-21`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Is your Effect doing several unrelated things? {/*is-your-effect-doing-several-unrelated-things*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-22`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Is your Effect doing several unrelated things? {/*is-your-effect-doing-several-unrelated-things*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-23`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Are you reading some state to calculate the next state? {/*are-you-reading-some-state-to-calculate-the-next-state*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-24`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Are you reading some state to calculate the next state? {/*are-you-reading-some-state-to-calculate-the-next-state*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-25`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Are you reading some state to calculate the next state? {/*are-you-reading-some-state-to-calculate-the-next-state*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-26`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Do you want to read a value without "reacting" to its changes? {/*do-you-want-to-read-a-value-without-reacting-to-its-changes*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-27`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Do you want to read a value without "reacting" to its changes? {/*do-you-want-to-read-a-value-without-reacting-to-its-changes*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-28`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Do you want to read a value without "reacting" to its changes? {/*do-you-want-to-read-a-value-without-reacting-to-its-changes*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-29`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Wrapping an event handler from the props {/*wrapping-an-event-handler-from-the-props*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-30`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Wrapping an event handler from the props {/*wrapping-an-event-handler-from-the-props*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-31`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Wrapping an event handler from the props {/*wrapping-an-event-handler-from-the-props*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-32`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Separating reactive and non-reactive code {/*separating-reactive-and-non-reactive-code*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-33`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Does some reactive value change unintentionally? {/*does-some-reactive-value-change-unintentionally*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-34`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Does some reactive value change unintentionally? {/*does-some-reactive-value-change-unintentionally*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-35`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Does some reactive value change unintentionally? {/*does-some-reactive-value-change-unintentionally*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-36`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Does some reactive value change unintentionally? {/*does-some-reactive-value-change-unintentionally*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-37`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Does some reactive value change unintentionally? {/*does-some-reactive-value-change-unintentionally*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-38`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Does some reactive value change unintentionally? {/*does-some-reactive-value-change-unintentionally*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-39`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Move static objects and functions outside your component {/*move-static-objects-and-functions-outside-your-component*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-40`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Move static objects and functions outside your component {/*move-static-objects-and-functions-outside-your-component*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-41`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Move dynamic objects and functions inside your Effect {/*move-dynamic-objects-and-functions-inside-your-effect*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-42`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Move dynamic objects and functions inside your Effect {/*move-dynamic-objects-and-functions-inside-your-effect*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-43`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Move dynamic objects and functions inside your Effect {/*move-dynamic-objects-and-functions-inside-your-effect*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-44`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Move dynamic objects and functions inside your Effect {/*move-dynamic-objects-and-functions-inside-your-effect*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-45`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Move dynamic objects and functions inside your Effect {/*move-dynamic-objects-and-functions-inside-your-effect*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-46`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Move dynamic objects and functions inside your Effect {/*move-dynamic-objects-and-functions-inside-your-effect*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-47`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Read primitive values from objects {/*read-primitive-values-from-objects*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-48`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Read primitive values from objects {/*read-primitive-values-from-objects*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-49`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Read primitive values from objects {/*read-primitive-values-from-objects*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-50`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Calculate primitive values from functions {/*calculate-primitive-values-from-functions*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-51`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Calculate primitive values from functions {/*calculate-primitive-values-from-functions*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-52`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a resetting interval {/*fix-a-resetting-interval*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-53`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a resetting interval {/*fix-a-resetting-interval*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-54`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a retriggering animation {/*fix-a-retriggering-animation*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-55`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a retriggering animation {/*fix-a-retriggering-animation*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-56`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a retriggering animation {/*fix-a-retriggering-animation*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-57`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a retriggering animation {/*fix-a-retriggering-animation*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-58`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a retriggering animation {/*fix-a-retriggering-animation*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-59`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a retriggering animation {/*fix-a-retriggering-animation*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-60`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-61`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-62`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-63`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-64`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-65`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-66`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-67`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-68`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-69`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-70`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-71`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat {/*fix-a-reconnecting-chat*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-72`
+- json example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-73`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-74`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-75`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-76`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-77`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-78`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-79`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-80`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-81`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-82`
+- json example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-83`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-84`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-85`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-86`
+- js example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-87`
+- css example in [learn/removing-effect-dependencies.md](./learn/removing-effect-dependencies.md)
+  - Section: Fix a reconnecting chat, again {/*fix-a-reconnecting-chat-again*/}
+  - Snippet id: `learn/removing-effect-dependencies.md#snippet-88`
+- js example in [learn/render-and-commit.md](./learn/render-and-commit.md)
+  - Section: Initial render {/*initial-render*/}
+  - Snippet id: `learn/render-and-commit.md#snippet-1`
+- js example in [learn/render-and-commit.md](./learn/render-and-commit.md)
+  - Section: Initial render {/*initial-render*/}
+  - Snippet id: `learn/render-and-commit.md#snippet-2`
+- js example in [learn/render-and-commit.md](./learn/render-and-commit.md)
+  - Section: Step 2: React renders your components {/*step-2-react-renders-your-components*/}
+  - Snippet id: `learn/render-and-commit.md#snippet-3`
+- js example in [learn/render-and-commit.md](./learn/render-and-commit.md)
+  - Section: Step 2: React renders your components {/*step-2-react-renders-your-components*/}
+  - Snippet id: `learn/render-and-commit.md#snippet-4`
+- css example in [learn/render-and-commit.md](./learn/render-and-commit.md)
+  - Section: Step 2: React renders your components {/*step-2-react-renders-your-components*/}
+  - Snippet id: `learn/render-and-commit.md#snippet-5`
+- js example in [learn/render-and-commit.md](./learn/render-and-commit.md)
+  - Section: Step 3: React commits changes to the DOM {/*step-3-react-commits-changes-to-the-dom*/}
+  - Snippet id: `learn/render-and-commit.md#snippet-6`
+- js example in [learn/render-and-commit.md](./learn/render-and-commit.md)
+  - Section: Step 3: React commits changes to the DOM {/*step-3-react-commits-changes-to-the-dom*/}
+  - Snippet id: `learn/render-and-commit.md#snippet-7`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Rendering data from arrays {/*rendering-data-from-arrays*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-1`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Rendering data from arrays {/*rendering-data-from-arrays*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-2`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Rendering data from arrays {/*rendering-data-from-arrays*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-3`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Rendering data from arrays {/*rendering-data-from-arrays*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-4`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Rendering data from arrays {/*rendering-data-from-arrays*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-5`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Rendering data from arrays {/*rendering-data-from-arrays*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-6`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-7`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-8`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-9`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-10`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-11`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-12`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-13`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-14`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-15`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Filtering arrays of items {/*filtering-arrays-of-items*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-16`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Keeping list items in order with `key` {/*keeping-list-items-in-order-with-key*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-17`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Keeping list items in order with `key` {/*keeping-list-items-in-order-with-key*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-18`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Keeping list items in order with `key` {/*keeping-list-items-in-order-with-key*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-19`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Keeping list items in order with `key` {/*keeping-list-items-in-order-with-key*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-20`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Keeping list items in order with `key` {/*keeping-list-items-in-order-with-key*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-21`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Displaying several DOM nodes for each list item {/*displaying-several-dom-nodes-for-each-list-item*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-22`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-23`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-24`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-25`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-26`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-27`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-28`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-29`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-30`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-31`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-32`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-33`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-34`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-35`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-36`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-37`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Splitting a list in two {/*splitting-a-list-in-two*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-38`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Nested lists in one component {/*nested-lists-in-one-component*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-39`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Nested lists in one component {/*nested-lists-in-one-component*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-40`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Nested lists in one component {/*nested-lists-in-one-component*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-41`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Nested lists in one component {/*nested-lists-in-one-component*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-42`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Extracting a list item component {/*extracting-a-list-item-component*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-43`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Extracting a list item component {/*extracting-a-list-item-component*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-44`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Extracting a list item component {/*extracting-a-list-item-component*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-45`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: Extracting a list item component {/*extracting-a-list-item-component*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-46`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: List with a separator {/*list-with-a-separator*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-47`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: List with a separator {/*list-with-a-separator*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-48`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: List with a separator {/*list-with-a-separator*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-49`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: List with a separator {/*list-with-a-separator*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-50`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: List with a separator {/*list-with-a-separator*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-51`
+- js example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: List with a separator {/*list-with-a-separator*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-52`
+- css example in [learn/rendering-lists.md](./learn/rendering-lists.md)
+  - Section: List with a separator {/*list-with-a-separator*/}
+  - Snippet id: `learn/rendering-lists.md#snippet-53`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Adding event handlers {/*adding-event-handlers*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-1`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Adding event handlers {/*adding-event-handlers*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-2`
+- css example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Adding event handlers {/*adding-event-handlers*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-3`
+- jsx example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Adding event handlers {/*adding-event-handlers*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-4`
+- jsx example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Adding event handlers {/*adding-event-handlers*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-5`
+- jsx example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Adding event handlers {/*adding-event-handlers*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-6`
+- jsx example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Adding event handlers {/*adding-event-handlers*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-7`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Reading props in event handlers {/*reading-props-in-event-handlers*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-8`
+- css example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Reading props in event handlers {/*reading-props-in-event-handlers*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-9`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Passing event handlers as props {/*passing-event-handlers-as-props*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-10`
+- css example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Passing event handlers as props {/*passing-event-handlers-as-props*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-11`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Naming event handler props {/*naming-event-handler-props*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-12`
+- css example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Naming event handler props {/*naming-event-handler-props*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-13`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Naming event handler props {/*naming-event-handler-props*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-14`
+- css example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Naming event handler props {/*naming-event-handler-props*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-15`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Event propagation {/*event-propagation*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-16`
+- css example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Event propagation {/*event-propagation*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-17`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Stopping propagation {/*stopping-propagation*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-18`
+- css example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Stopping propagation {/*stopping-propagation*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-19`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Capture phase events {/*capture-phase-events*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-20`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Passing handlers as alternative to propagation {/*passing-handlers-as-alternative-to-propagation*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-21`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Preventing default behavior {/*preventing-default-behavior*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-22`
+- css example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Preventing default behavior {/*preventing-default-behavior*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-23`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Preventing default behavior {/*preventing-default-behavior*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-24`
+- css example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Preventing default behavior {/*preventing-default-behavior*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-25`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Fix an event handler {/*fix-an-event-handler*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-26`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Fix an event handler {/*fix-an-event-handler*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-27`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Fix an event handler {/*fix-an-event-handler*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-28`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Wire up the events {/*wire-up-the-events*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-29`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Wire up the events {/*wire-up-the-events*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-30`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Wire up the events {/*wire-up-the-events*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-31`
+- js example in [learn/responding-to-events.md](./learn/responding-to-events.md)
+  - Section: Wire up the events {/*wire-up-the-events*/}
+  - Snippet id: `learn/responding-to-events.md#snippet-32`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks: Sharing logic between components {/*custom-hooks-sharing-logic-between-components*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-1`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks: Sharing logic between components {/*custom-hooks-sharing-logic-between-components*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-2`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extracting your own custom Hook from a component {/*extracting-your-own-custom-hook-from-a-component*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-3`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extracting your own custom Hook from a component {/*extracting-your-own-custom-hook-from-a-component*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-4`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extracting your own custom Hook from a component {/*extracting-your-own-custom-hook-from-a-component*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-5`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extracting your own custom Hook from a component {/*extracting-your-own-custom-hook-from-a-component*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-6`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Should all functions called during rendering start with the use prefix? {/*should-all-functions-called-during-rendering-start-with-the-use-prefix*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-7`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Should all functions called during rendering start with the use prefix? {/*should-all-functions-called-during-rendering-start-with-the-use-prefix*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-8`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Should all functions called during rendering start with the use prefix? {/*should-all-functions-called-during-rendering-start-with-the-use-prefix*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-9`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Should all functions called during rendering start with the use prefix? {/*should-all-functions-called-during-rendering-start-with-the-use-prefix*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-10`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks let you share stateful logic, not state itself {/*custom-hooks-let-you-share-stateful-logic-not-state-itself*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-11`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks let you share stateful logic, not state itself {/*custom-hooks-let-you-share-stateful-logic-not-state-itself*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-12`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks let you share stateful logic, not state itself {/*custom-hooks-let-you-share-stateful-logic-not-state-itself*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-13`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks let you share stateful logic, not state itself {/*custom-hooks-let-you-share-stateful-logic-not-state-itself*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-14`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks let you share stateful logic, not state itself {/*custom-hooks-let-you-share-stateful-logic-not-state-itself*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-15`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks let you share stateful logic, not state itself {/*custom-hooks-let-you-share-stateful-logic-not-state-itself*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-16`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks let you share stateful logic, not state itself {/*custom-hooks-let-you-share-stateful-logic-not-state-itself*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-17`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks let you share stateful logic, not state itself {/*custom-hooks-let-you-share-stateful-logic-not-state-itself*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-18`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-19`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-20`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-21`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-22`
+- json example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-23`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-24`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-25`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-26`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-27`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-28`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-29`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-30`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-31`
+- json example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-32`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-33`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-34`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing reactive values between Hooks {/*passing-reactive-values-between-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-35`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-36`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-37`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-38`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-39`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-40`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-41`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-42`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-43`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-44`
+- json example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-45`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Passing event handlers to custom Hooks {/*passing-event-handlers-to-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-46`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: When to use custom Hooks {/*when-to-use-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-47`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: When to use custom Hooks {/*when-to-use-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-48`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: When to use custom Hooks {/*when-to-use-custom-hooks*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-49`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Keep your custom Hooks focused on concrete high-level use cases {/*keep-your-custom-hooks-focused-on-concrete-high-level-use-cases*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-50`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Keep your custom Hooks focused on concrete high-level use cases {/*keep-your-custom-hooks-focused-on-concrete-high-level-use-cases*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-51`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Keep your custom Hooks focused on concrete high-level use cases {/*keep-your-custom-hooks-focused-on-concrete-high-level-use-cases*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-52`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks help you migrate to better patterns {/*custom-hooks-help-you-migrate-to-better-patterns*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-53`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks help you migrate to better patterns {/*custom-hooks-help-you-migrate-to-better-patterns*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-54`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks help you migrate to better patterns {/*custom-hooks-help-you-migrate-to-better-patterns*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-55`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks help you migrate to better patterns {/*custom-hooks-help-you-migrate-to-better-patterns*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-56`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Custom Hooks help you migrate to better patterns {/*custom-hooks-help-you-migrate-to-better-patterns*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-57`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Will React provide any built-in solution for data fetching? {/*will-react-provide-any-built-in-solution-for-data-fetching*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-58`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Will React provide any built-in solution for data fetching? {/*will-react-provide-any-built-in-solution-for-data-fetching*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-59`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-60`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-61`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-62`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-63`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-64`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-65`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-66`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-67`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-68`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-69`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-70`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-71`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-72`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-73`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: There is more than one way to do it {/*there-is-more-than-one-way-to-do-it*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-74`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract a `useCounter` Hook {/*extract-a-usecounter-hook*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-75`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract a `useCounter` Hook {/*extract-a-usecounter-hook*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-76`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract a `useCounter` Hook {/*extract-a-usecounter-hook*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-77`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract a `useCounter` Hook {/*extract-a-usecounter-hook*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-78`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract a `useCounter` Hook {/*extract-a-usecounter-hook*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-79`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Make the counter delay configurable {/*make-the-counter-delay-configurable*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-80`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Make the counter delay configurable {/*make-the-counter-delay-configurable*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-81`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Make the counter delay configurable {/*make-the-counter-delay-configurable*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-82`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Make the counter delay configurable {/*make-the-counter-delay-configurable*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-83`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract `useInterval` out of `useCounter` {/*extract-useinterval-out-of-usecounter*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-84`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract `useInterval` out of `useCounter` {/*extract-useinterval-out-of-usecounter*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-85`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract `useInterval` out of `useCounter` {/*extract-useinterval-out-of-usecounter*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-86`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract `useInterval` out of `useCounter` {/*extract-useinterval-out-of-usecounter*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-87`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract `useInterval` out of `useCounter` {/*extract-useinterval-out-of-usecounter*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-88`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract `useInterval` out of `useCounter` {/*extract-useinterval-out-of-usecounter*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-89`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Extract `useInterval` out of `useCounter` {/*extract-useinterval-out-of-usecounter*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-90`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Fix a resetting interval {/*fix-a-resetting-interval*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-91`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Fix a resetting interval {/*fix-a-resetting-interval*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-92`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Fix a resetting interval {/*fix-a-resetting-interval*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-93`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Fix a resetting interval {/*fix-a-resetting-interval*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-94`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Fix a resetting interval {/*fix-a-resetting-interval*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-95`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Fix a resetting interval {/*fix-a-resetting-interval*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-96`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Fix a resetting interval {/*fix-a-resetting-interval*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-97`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Implement a staggering movement {/*implement-a-staggering-movement*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-98`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Implement a staggering movement {/*implement-a-staggering-movement*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-99`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Implement a staggering movement {/*implement-a-staggering-movement*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-100`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Implement a staggering movement {/*implement-a-staggering-movement*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-101`
+- js example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Implement a staggering movement {/*implement-a-staggering-movement*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-102`
+- css example in [learn/reusing-logic-with-custom-hooks.md](./learn/reusing-logic-with-custom-hooks.md)
+  - Section: Implement a staggering movement {/*implement-a-staggering-movement*/}
+  - Snippet id: `learn/reusing-logic-with-custom-hooks.md#snippet-103`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Combining a reducer with context {/*combining-a-reducer-with-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-1`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Combining a reducer with context {/*combining-a-reducer-with-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-2`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Combining a reducer with context {/*combining-a-reducer-with-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-3`
+- css example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Combining a reducer with context {/*combining-a-reducer-with-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-4`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Combining a reducer with context {/*combining-a-reducer-with-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-5`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Combining a reducer with context {/*combining-a-reducer-with-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-6`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-7`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-8`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-9`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-10`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-11`
+- css example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 1: Create the context {/*step-1-create-the-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-12`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 2: Put state and dispatch into context {/*step-2-put-state-and-dispatch-into-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-13`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 2: Put state and dispatch into context {/*step-2-put-state-and-dispatch-into-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-14`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 2: Put state and dispatch into context {/*step-2-put-state-and-dispatch-into-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-15`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 2: Put state and dispatch into context {/*step-2-put-state-and-dispatch-into-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-16`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 2: Put state and dispatch into context {/*step-2-put-state-and-dispatch-into-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-17`
+- css example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 2: Put state and dispatch into context {/*step-2-put-state-and-dispatch-into-context*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-18`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 3: Use context anywhere in the tree {/*step-3-use-context-anywhere-in-the-tree*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-19`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 3: Use context anywhere in the tree {/*step-3-use-context-anywhere-in-the-tree*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-20`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 3: Use context anywhere in the tree {/*step-3-use-context-anywhere-in-the-tree*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-21`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 3: Use context anywhere in the tree {/*step-3-use-context-anywhere-in-the-tree*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-22`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 3: Use context anywhere in the tree {/*step-3-use-context-anywhere-in-the-tree*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-23`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 3: Use context anywhere in the tree {/*step-3-use-context-anywhere-in-the-tree*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-24`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 3: Use context anywhere in the tree {/*step-3-use-context-anywhere-in-the-tree*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-25`
+- css example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Step 3: Use context anywhere in the tree {/*step-3-use-context-anywhere-in-the-tree*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-26`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-27`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-28`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-29`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-30`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-31`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-32`
+- css example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-33`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-34`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-35`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-36`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-37`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-38`
+- js example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-39`
+- css example in [learn/scaling-up-with-reducer-and-context.md](./learn/scaling-up-with-reducer-and-context.md)
+  - Section: Moving all wiring into a single file {/*moving-all-wiring-into-a-single-file*/}
+  - Snippet id: `learn/scaling-up-with-reducer-and-context.md#snippet-40`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Event handlers run in response to specific interactions {/*event-handlers-run-in-response-to-specific-interactions*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-1`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Effects run whenever synchronization is needed {/*effects-run-whenever-synchronization-is-needed*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-2`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Effects run whenever synchronization is needed {/*effects-run-whenever-synchronization-is-needed*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-3`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Effects run whenever synchronization is needed {/*effects-run-whenever-synchronization-is-needed*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-4`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Effects run whenever synchronization is needed {/*effects-run-whenever-synchronization-is-needed*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-5`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Reactive values and reactive logic {/*reactive-values-and-reactive-logic*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-6`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Logic inside event handlers is not reactive {/*logic-inside-event-handlers-is-not-reactive*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-7`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Logic inside event handlers is not reactive {/*logic-inside-event-handlers-is-not-reactive*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-8`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Logic inside Effects is reactive {/*logic-inside-effects-is-reactive*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-9`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Logic inside Effects is reactive {/*logic-inside-effects-is-reactive*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-10`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Extracting non-reactive logic out of Effects {/*extracting-non-reactive-logic-out-of-effects*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-11`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Extracting non-reactive logic out of Effects {/*extracting-non-reactive-logic-out-of-effects*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-12`
+- json example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Extracting non-reactive logic out of Effects {/*extracting-non-reactive-logic-out-of-effects*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-13`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Extracting non-reactive logic out of Effects {/*extracting-non-reactive-logic-out-of-effects*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-14`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Extracting non-reactive logic out of Effects {/*extracting-non-reactive-logic-out-of-effects*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-15`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Extracting non-reactive logic out of Effects {/*extracting-non-reactive-logic-out-of-effects*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-16`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Extracting non-reactive logic out of Effects {/*extracting-non-reactive-logic-out-of-effects*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-17`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Extracting non-reactive logic out of Effects {/*extracting-non-reactive-logic-out-of-effects*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-18`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Declaring an Effect Event {/*declaring-an-effect-event*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-19`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Declaring an Effect Event {/*declaring-an-effect-event*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-20`
+- json example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Declaring an Effect Event {/*declaring-an-effect-event*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-21`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Declaring an Effect Event {/*declaring-an-effect-event*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-22`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Declaring an Effect Event {/*declaring-an-effect-event*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-23`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Declaring an Effect Event {/*declaring-an-effect-event*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-24`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Declaring an Effect Event {/*declaring-an-effect-event*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-25`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Reading latest props and state with Effect Events {/*reading-latest-props-and-state-with-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-26`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Reading latest props and state with Effect Events {/*reading-latest-props-and-state-with-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-27`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Reading latest props and state with Effect Events {/*reading-latest-props-and-state-with-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-28`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Reading latest props and state with Effect Events {/*reading-latest-props-and-state-with-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-29`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Reading latest props and state with Effect Events {/*reading-latest-props-and-state-with-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-30`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Reading latest props and state with Effect Events {/*reading-latest-props-and-state-with-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-31`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Reading latest props and state with Effect Events {/*reading-latest-props-and-state-with-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-32`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Reading latest props and state with Effect Events {/*reading-latest-props-and-state-with-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-33`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Is it okay to suppress the dependency linter instead? {/*is-it-okay-to-suppress-the-dependency-linter-instead*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-34`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Is it okay to suppress the dependency linter instead? {/*is-it-okay-to-suppress-the-dependency-linter-instead*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-35`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Is it okay to suppress the dependency linter instead? {/*is-it-okay-to-suppress-the-dependency-linter-instead*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-36`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Is it okay to suppress the dependency linter instead? {/*is-it-okay-to-suppress-the-dependency-linter-instead*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-37`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Is it okay to suppress the dependency linter instead? {/*is-it-okay-to-suppress-the-dependency-linter-instead*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-38`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Limitations of Effect Events {/*limitations-of-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-39`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Limitations of Effect Events {/*limitations-of-effect-events*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-40`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a variable that doesn't update {/*fix-a-variable-that-doesnt-update*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-41`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a variable that doesn't update {/*fix-a-variable-that-doesnt-update*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-42`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a variable that doesn't update {/*fix-a-variable-that-doesnt-update*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-43`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a variable that doesn't update {/*fix-a-variable-that-doesnt-update*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-44`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a freezing counter {/*fix-a-freezing-counter*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-45`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a freezing counter {/*fix-a-freezing-counter*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-46`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a freezing counter {/*fix-a-freezing-counter*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-47`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a freezing counter {/*fix-a-freezing-counter*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-48`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a non-adjustable delay {/*fix-a-non-adjustable-delay*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-49`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a non-adjustable delay {/*fix-a-non-adjustable-delay*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-50`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a non-adjustable delay {/*fix-a-non-adjustable-delay*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-51`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a non-adjustable delay {/*fix-a-non-adjustable-delay*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-52`
+- json example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-53`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-54`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-55`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-56`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-57`
+- json example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-58`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-59`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-60`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-61`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-62`
+- json example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-63`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-64`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-65`
+- js example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-66`
+- css example in [learn/separating-events-from-effects.md](./learn/separating-events-from-effects.md)
+  - Section: Fix a delayed notification {/*fix-a-delayed-notification*/}
+  - Snippet id: `learn/separating-events-from-effects.md#snippet-67`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Lifting state up by example {/*lifting-state-up-by-example*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-1`
+- css example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Lifting state up by example {/*lifting-state-up-by-example*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-2`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Step 1: Remove state from the child components {/*step-1-remove-state-from-the-child-components*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-3`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Step 1: Remove state from the child components {/*step-1-remove-state-from-the-child-components*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-4`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Step 2: Pass hardcoded data from the common parent {/*step-2-pass-hardcoded-data-from-the-common-parent*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-5`
+- css example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Step 2: Pass hardcoded data from the common parent {/*step-2-pass-hardcoded-data-from-the-common-parent*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-6`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Step 3: Add state to the common parent {/*step-3-add-state-to-the-common-parent*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-7`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Step 3: Add state to the common parent {/*step-3-add-state-to-the-common-parent*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-8`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Step 3: Add state to the common parent {/*step-3-add-state-to-the-common-parent*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-9`
+- css example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Step 3: Add state to the common parent {/*step-3-add-state-to-the-common-parent*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-10`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Synced inputs {/*synced-inputs*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-11`
+- css example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Synced inputs {/*synced-inputs*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-12`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Synced inputs {/*synced-inputs*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-13`
+- css example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Synced inputs {/*synced-inputs*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-14`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Filtering a list {/*filtering-a-list*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-15`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Filtering a list {/*filtering-a-list*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-16`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Filtering a list {/*filtering-a-list*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-17`
+- js example in [learn/sharing-state-between-components.md](./learn/sharing-state-between-components.md)
+  - Section: Filtering a list {/*filtering-a-list*/}
+  - Snippet id: `learn/sharing-state-between-components.md#snippet-18`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: When a regular variable isn’t enough {/*when-a-regular-variable-isnt-enough*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-1`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: When a regular variable isn’t enough {/*when-a-regular-variable-isnt-enough*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-2`
+- css example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: When a regular variable isn’t enough {/*when-a-regular-variable-isnt-enough*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-3`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Adding a state variable {/*adding-a-state-variable*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-4`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Adding a state variable {/*adding-a-state-variable*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-5`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Adding a state variable {/*adding-a-state-variable*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-6`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Adding a state variable {/*adding-a-state-variable*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-7`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Adding a state variable {/*adding-a-state-variable*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-8`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Adding a state variable {/*adding-a-state-variable*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-9`
+- css example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Adding a state variable {/*adding-a-state-variable*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-10`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Anatomy of `useState` {/*anatomy-of-usestate*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-11`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Anatomy of `useState` {/*anatomy-of-usestate*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-12`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Giving a component multiple state variables {/*giving-a-component-multiple-state-variables*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-13`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Giving a component multiple state variables {/*giving-a-component-multiple-state-variables*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-14`
+- css example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Giving a component multiple state variables {/*giving-a-component-multiple-state-variables*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-15`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: How does React know which state to return? {/*how-does-react-know-which-state-to-return*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-16`
+- html example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: How does React know which state to return? {/*how-does-react-know-which-state-to-return*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-17`
+- css example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: How does React know which state to return? {/*how-does-react-know-which-state-to-return*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-18`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: State is isolated and private {/*state-is-isolated-and-private*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-19`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: State is isolated and private {/*state-is-isolated-and-private*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-20`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: State is isolated and private {/*state-is-isolated-and-private*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-21`
+- css example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: State is isolated and private {/*state-is-isolated-and-private*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-22`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Complete the gallery {/*complete-the-gallery*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-23`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Complete the gallery {/*complete-the-gallery*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-24`
+- css example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Complete the gallery {/*complete-the-gallery*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-25`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Complete the gallery {/*complete-the-gallery*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-26`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Complete the gallery {/*complete-the-gallery*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-27`
+- css example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Complete the gallery {/*complete-the-gallery*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-28`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Fix stuck form inputs {/*fix-stuck-form-inputs*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-29`
+- css example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Fix stuck form inputs {/*fix-stuck-form-inputs*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-30`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Fix stuck form inputs {/*fix-stuck-form-inputs*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-31`
+- css example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Fix stuck form inputs {/*fix-stuck-form-inputs*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-32`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Fix a crash {/*fix-a-crash*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-33`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Fix a crash {/*fix-a-crash*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-34`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Fix a crash {/*fix-a-crash*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-35`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Remove unnecessary state {/*remove-unnecessary-state*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-36`
+- js example in [learn/state-a-components-memory.md](./learn/state-a-components-memory.md)
+  - Section: Remove unnecessary state {/*remove-unnecessary-state*/}
+  - Snippet id: `learn/state-a-components-memory.md#snippet-37`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Setting state triggers renders {/*setting-state-triggers-renders*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-1`
+- css example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Setting state triggers renders {/*setting-state-triggers-renders*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-2`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Rendering takes a snapshot in time {/*rendering-takes-a-snapshot-in-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-3`
+- css example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Rendering takes a snapshot in time {/*rendering-takes-a-snapshot-in-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-4`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Rendering takes a snapshot in time {/*rendering-takes-a-snapshot-in-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-5`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Rendering takes a snapshot in time {/*rendering-takes-a-snapshot-in-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-6`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Rendering takes a snapshot in time {/*rendering-takes-a-snapshot-in-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-7`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: State over time {/*state-over-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-8`
+- css example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: State over time {/*state-over-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-9`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: State over time {/*state-over-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-10`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: State over time {/*state-over-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-11`
+- css example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: State over time {/*state-over-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-12`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: State over time {/*state-over-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-13`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: State over time {/*state-over-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-14`
+- css example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: State over time {/*state-over-time*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-15`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Implement a traffic light {/*implement-a-traffic-light*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-16`
+- css example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Implement a traffic light {/*implement-a-traffic-light*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-17`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Implement a traffic light {/*implement-a-traffic-light*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-18`
+- css example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Implement a traffic light {/*implement-a-traffic-light*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-19`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Implement a traffic light {/*implement-a-traffic-light*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-20`
+- js example in [learn/state-as-a-snapshot.md](./learn/state-as-a-snapshot.md)
+  - Section: Implement a traffic light {/*implement-a-traffic-light*/}
+  - Snippet id: `learn/state-as-a-snapshot.md#snippet-21`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-1`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-2`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-3`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-4`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-5`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-6`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-7`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-8`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-9`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 1: Declare an Effect {/*step-1-declare-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-10`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 2: Specify the Effect dependencies {/*step-2-specify-the-effect-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-11`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 2: Specify the Effect dependencies {/*step-2-specify-the-effect-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-12`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 2: Specify the Effect dependencies {/*step-2-specify-the-effect-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-13`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 2: Specify the Effect dependencies {/*step-2-specify-the-effect-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-14`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 2: Specify the Effect dependencies {/*step-2-specify-the-effect-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-15`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 2: Specify the Effect dependencies {/*step-2-specify-the-effect-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-16`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 2: Specify the Effect dependencies {/*step-2-specify-the-effect-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-17`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 2: Specify the Effect dependencies {/*step-2-specify-the-effect-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-18`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 2: Specify the Effect dependencies {/*step-2-specify-the-effect-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-19`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Why was the ref omitted from the dependency array? {/*why-was-the-ref-omitted-from-the-dependency-array*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-20`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Why was the ref omitted from the dependency array? {/*why-was-the-ref-omitted-from-the-dependency-array*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-21`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 3: Add cleanup if needed {/*step-3-add-cleanup-if-needed*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-22`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 3: Add cleanup if needed {/*step-3-add-cleanup-if-needed*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-23`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 3: Add cleanup if needed {/*step-3-add-cleanup-if-needed*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-24`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 3: Add cleanup if needed {/*step-3-add-cleanup-if-needed*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-25`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 3: Add cleanup if needed {/*step-3-add-cleanup-if-needed*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-26`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 3: Add cleanup if needed {/*step-3-add-cleanup-if-needed*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-27`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 3: Add cleanup if needed {/*step-3-add-cleanup-if-needed*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-28`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 3: Add cleanup if needed {/*step-3-add-cleanup-if-needed*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-29`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Step 3: Add cleanup if needed {/*step-3-add-cleanup-if-needed*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-30`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Don't use refs to prevent Effects from firing {/*dont-use-refs-to-prevent-effects-from-firing*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-31`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Controlling non-React widgets {/*controlling-non-react-widgets*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-32`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Controlling non-React widgets {/*controlling-non-react-widgets*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-33`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Subscribing to events {/*subscribing-to-events*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-34`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Triggering animations {/*triggering-animations*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-35`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fetching data {/*fetching-data*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-36`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fetching data {/*fetching-data*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-37`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Sending analytics {/*sending-analytics*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-38`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Not an Effect: Initializing the application {/*not-an-effect-initializing-the-application*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-39`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Not an Effect: Buying a product {/*not-an-effect-buying-a-product*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-40`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Not an Effect: Buying a product {/*not-an-effect-buying-a-product*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-41`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Putting it all together {/*putting-it-all-together*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-42`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Each render has its own Effects {/*each-render-has-its-own-effects*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-43`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Initial render {/*initial-render*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-44`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Initial render {/*initial-render*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-45`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Re-render with same dependencies {/*re-render-with-same-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-46`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Re-render with same dependencies {/*re-render-with-same-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-47`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Re-render with different dependencies {/*re-render-with-different-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-48`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Re-render with different dependencies {/*re-render-with-different-dependencies*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-49`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field on mount {/*focus-a-field-on-mount*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-50`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field on mount {/*focus-a-field-on-mount*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-51`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field on mount {/*focus-a-field-on-mount*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-52`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field on mount {/*focus-a-field-on-mount*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-53`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field on mount {/*focus-a-field-on-mount*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-54`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field on mount {/*focus-a-field-on-mount*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-55`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field conditionally {/*focus-a-field-conditionally*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-56`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field conditionally {/*focus-a-field-conditionally*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-57`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field conditionally {/*focus-a-field-conditionally*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-58`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field conditionally {/*focus-a-field-conditionally*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-59`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field conditionally {/*focus-a-field-conditionally*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-60`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Focus a field conditionally {/*focus-a-field-conditionally*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-61`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix an interval that fires twice {/*fix-an-interval-that-fires-twice*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-62`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix an interval that fires twice {/*fix-an-interval-that-fires-twice*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-63`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix an interval that fires twice {/*fix-an-interval-that-fires-twice*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-64`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix an interval that fires twice {/*fix-an-interval-that-fires-twice*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-65`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix an interval that fires twice {/*fix-an-interval-that-fires-twice*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-66`
+- css example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix an interval that fires twice {/*fix-an-interval-that-fires-twice*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-67`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix fetching inside an Effect {/*fix-fetching-inside-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-68`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix fetching inside an Effect {/*fix-fetching-inside-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-69`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix fetching inside an Effect {/*fix-fetching-inside-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-70`
+- js example in [learn/synchronizing-with-effects.md](./learn/synchronizing-with-effects.md)
+  - Section: Fix fetching inside an Effect {/*fix-fetching-inside-an-effect*/}
+  - Snippet id: `learn/synchronizing-with-effects.md#snippet-71`
+- json example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Start with the mockup {/*start-with-the-mockup*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-1`
+- jsx example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 2: Build a static version in React {/*step-2-build-a-static-version-in-react*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-2`
+- css example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 2: Build a static version in React {/*step-2-build-a-static-version-in-react*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-3`
+- js example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 4: Identify where your state should live {/*step-4-identify-where-your-state-should-live*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-4`
+- js example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 4: Identify where your state should live {/*step-4-identify-where-your-state-should-live*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-5`
+- jsx example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 4: Identify where your state should live {/*step-4-identify-where-your-state-should-live*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-6`
+- css example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 4: Identify where your state should live {/*step-4-identify-where-your-state-should-live*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-7`
+- js example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 4: Identify where your state should live {/*step-4-identify-where-your-state-should-live*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-8`
+- js example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 5: Add inverse data flow {/*step-5-add-inverse-data-flow*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-9`
+- js example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 5: Add inverse data flow {/*step-5-add-inverse-data-flow*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-10`
+- jsx example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 5: Add inverse data flow {/*step-5-add-inverse-data-flow*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-11`
+- css example in [learn/thinking-in-react.md](./learn/thinking-in-react.md)
+  - Section: Step 5: Add inverse data flow {/*step-5-add-inverse-data-flow*/}
+  - Snippet id: `learn/thinking-in-react.md#snippet-12`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: What are you building? {/*what-are-you-building*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-1`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: What are you building? {/*what-are-you-building*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-2`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Setup for the tutorial {/*setup-for-the-tutorial*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-3`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Setup for the tutorial {/*setup-for-the-tutorial*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-4`
+- jsx example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Inspecting the starter code {/*inspecting-the-starter-code*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-5`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: `App.js` {/*appjs*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-6`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: `App.js` {/*appjs*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-7`
+- jsx example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: `index.js` {/*indexjs*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-8`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Building the board {/*building-the-board*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-9`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Building the board {/*building-the-board*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-10`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Building the board {/*building-the-board*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-11`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Building the board {/*building-the-board*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-12`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Building the board {/*building-the-board*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-13`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Building the board {/*building-the-board*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-14`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Passing data through props {/*passing-data-through-props*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-15`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Passing data through props {/*passing-data-through-props*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-16`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Passing data through props {/*passing-data-through-props*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-17`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Passing data through props {/*passing-data-through-props*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-18`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Passing data through props {/*passing-data-through-props*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-19`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Passing data through props {/*passing-data-through-props*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-20`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Passing data through props {/*passing-data-through-props*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-21`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Passing data through props {/*passing-data-through-props*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-22`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Making an interactive component {/*making-an-interactive-component*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-23`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Making an interactive component {/*making-an-interactive-component*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-24`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Making an interactive component {/*making-an-interactive-component*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-25`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Making an interactive component {/*making-an-interactive-component*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-26`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Making an interactive component {/*making-an-interactive-component*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-27`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Making an interactive component {/*making-an-interactive-component*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-28`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-29`
+- jsx example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-30`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-31`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-32`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-33`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-34`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-35`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-36`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-37`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-38`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-39`
+- jsx example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-40`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-41`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-42`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-43`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up {/*lifting-state-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-44`
+- jsx example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Why immutability is important {/*why-immutability-is-important*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-45`
+- jsx example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Why immutability is important {/*why-immutability-is-important*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-46`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Taking turns {/*taking-turns*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-47`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Taking turns {/*taking-turns*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-48`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Taking turns {/*taking-turns*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-49`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Taking turns {/*taking-turns*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-50`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Taking turns {/*taking-turns*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-51`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Declaring a winner {/*declaring-a-winner*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-52`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Declaring a winner {/*declaring-a-winner*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-53`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Declaring a winner {/*declaring-a-winner*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-54`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Declaring a winner {/*declaring-a-winner*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-55`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Declaring a winner {/*declaring-a-winner*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-56`
+- jsx example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Storing a history of moves {/*storing-a-history-of-moves*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-57`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up, again {/*lifting-state-up-again*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-58`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up, again {/*lifting-state-up-again*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-59`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up, again {/*lifting-state-up-again*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-60`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up, again {/*lifting-state-up-again*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-61`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up, again {/*lifting-state-up-again*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-62`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up, again {/*lifting-state-up-again*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-63`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up, again {/*lifting-state-up-again*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-64`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up, again {/*lifting-state-up-again*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-65`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Lifting state up, again {/*lifting-state-up-again*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-66`
+- jsx example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Showing the past moves {/*showing-the-past-moves*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-67`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Showing the past moves {/*showing-the-past-moves*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-68`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Showing the past moves {/*showing-the-past-moves*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-69`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Showing the past moves {/*showing-the-past-moves*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-70`
+- html example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Picking a key {/*picking-a-key*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-71`
+- html example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Picking a key {/*picking-a-key*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-72`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Picking a key {/*picking-a-key*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-73`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Implementing time travel {/*implementing-time-travel*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-74`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Implementing time travel {/*implementing-time-travel*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-75`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Implementing time travel {/*implementing-time-travel*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-76`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Implementing time travel {/*implementing-time-travel*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-77`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Implementing time travel {/*implementing-time-travel*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-78`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Implementing time travel {/*implementing-time-travel*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-79`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Implementing time travel {/*implementing-time-travel*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-80`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Implementing time travel {/*implementing-time-travel*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-81`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Implementing time travel {/*implementing-time-travel*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-82`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Final cleanup {/*final-cleanup*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-83`
+- js example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Wrapping up {/*wrapping-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-84`
+- css example in [learn/tutorial-tic-tac-toe.md](./learn/tutorial-tic-tac-toe.md)
+  - Section: Wrapping up {/*wrapping-up*/}
+  - Snippet id: `learn/tutorial-tic-tac-toe.md#snippet-85`
+- tsx example in [learn/typescript.md](./learn/typescript.md)
+  - Section: TypeScript with React Components {/*typescript-with-react-components*/}
+  - Snippet id: `learn/typescript.md#snippet-1`
+- js example in [learn/typescript.md](./learn/typescript.md)
+  - Section: TypeScript with React Components {/*typescript-with-react-components*/}
+  - Snippet id: `learn/typescript.md#snippet-2`
+- tsx example in [learn/typescript.md](./learn/typescript.md)
+  - Section: TypeScript with React Components {/*typescript-with-react-components*/}
+  - Snippet id: `learn/typescript.md#snippet-3`
+- js example in [learn/typescript.md](./learn/typescript.md)
+  - Section: TypeScript with React Components {/*typescript-with-react-components*/}
+  - Snippet id: `learn/typescript.md#snippet-4`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useState` {/*typing-usestate*/}
+  - Snippet id: `learn/typescript.md#snippet-5`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useState` {/*typing-usestate*/}
+  - Snippet id: `learn/typescript.md#snippet-6`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useState` {/*typing-usestate*/}
+  - Snippet id: `learn/typescript.md#snippet-7`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useState` {/*typing-usestate*/}
+  - Snippet id: `learn/typescript.md#snippet-8`
+- tsx example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useReducer` {/*typing-usereducer*/}
+  - Snippet id: `learn/typescript.md#snippet-9`
+- js example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useReducer` {/*typing-usereducer*/}
+  - Snippet id: `learn/typescript.md#snippet-10`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useReducer` {/*typing-usereducer*/}
+  - Snippet id: `learn/typescript.md#snippet-11`
+- tsx example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useContext` {/*typing-usecontext*/}
+  - Snippet id: `learn/typescript.md#snippet-12`
+- js example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useContext` {/*typing-usecontext*/}
+  - Snippet id: `learn/typescript.md#snippet-13`
+- js example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useContext` {/*typing-usecontext*/}
+  - Snippet id: `learn/typescript.md#snippet-14`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useMemo` {/*typing-usememo*/}
+  - Snippet id: `learn/typescript.md#snippet-15`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useCallback` {/*typing-usecallback*/}
+  - Snippet id: `learn/typescript.md#snippet-16`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: `useCallback` {/*typing-usecallback*/}
+  - Snippet id: `learn/typescript.md#snippet-17`
+- tsx example in [learn/typescript.md](./learn/typescript.md)
+  - Section: DOM Events {/*typing-dom-events*/}
+  - Snippet id: `learn/typescript.md#snippet-18`
+- js example in [learn/typescript.md](./learn/typescript.md)
+  - Section: DOM Events {/*typing-dom-events*/}
+  - Snippet id: `learn/typescript.md#snippet-19`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: Children {/*typing-children*/}
+  - Snippet id: `learn/typescript.md#snippet-20`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: Children {/*typing-children*/}
+  - Snippet id: `learn/typescript.md#snippet-21`
+- ts example in [learn/typescript.md](./learn/typescript.md)
+  - Section: Style Props {/*typing-style-props*/}
+  - Snippet id: `learn/typescript.md#snippet-22`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: The Render Tree {/*the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-1`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: The Render Tree {/*the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-2`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: The Render Tree {/*the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-3`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: The Render Tree {/*the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-4`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: The Render Tree {/*the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-5`
+- css example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: The Render Tree {/*the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-6`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: Where are the HTML tags in the render tree? {/*where-are-the-html-elements-in-the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-7`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: Where are the HTML tags in the render tree? {/*where-are-the-html-elements-in-the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-8`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: Where are the HTML tags in the render tree? {/*where-are-the-html-elements-in-the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-9`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: Where are the HTML tags in the render tree? {/*where-are-the-html-elements-in-the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-10`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: Where are the HTML tags in the render tree? {/*where-are-the-html-elements-in-the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-11`
+- js example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: Where are the HTML tags in the render tree? {/*where-are-the-html-elements-in-the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-12`
+- css example in [learn/understanding-your-ui-as-a-tree.md](./learn/understanding-your-ui-as-a-tree.md)
+  - Section: Where are the HTML tags in the render tree? {/*where-are-the-html-elements-in-the-render-tree*/}
+  - Snippet id: `learn/understanding-your-ui-as-a-tree.md#snippet-13`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Adding to an array {/*adding-to-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-1`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Adding to an array {/*adding-to-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-2`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Adding to an array {/*adding-to-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-3`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Adding to an array {/*adding-to-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-4`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Adding to an array {/*adding-to-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-5`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Adding to an array {/*adding-to-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-6`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Removing from an array {/*removing-from-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-7`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Removing from an array {/*removing-from-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-8`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Transforming an array {/*transforming-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-9`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Transforming an array {/*transforming-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-10`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Replacing items in an array {/*replacing-items-in-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-11`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Replacing items in an array {/*replacing-items-in-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-12`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Inserting into an array {/*inserting-into-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-13`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Inserting into an array {/*inserting-into-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-14`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Making other changes to an array {/*making-other-changes-to-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-15`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Making other changes to an array {/*making-other-changes-to-an-array*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-16`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Updating objects inside arrays {/*updating-objects-inside-arrays*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-17`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Updating objects inside arrays {/*updating-objects-inside-arrays*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-18`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Updating objects inside arrays {/*updating-objects-inside-arrays*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-19`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Updating objects inside arrays {/*updating-objects-inside-arrays*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-20`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Write concise update logic with Immer {/*write-concise-update-logic-with-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-21`
+- json example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Write concise update logic with Immer {/*write-concise-update-logic-with-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-22`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Write concise update logic with Immer {/*write-concise-update-logic-with-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-23`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Update an item in the shopping cart {/*update-an-item-in-the-shopping-cart*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-24`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Update an item in the shopping cart {/*update-an-item-in-the-shopping-cart*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-25`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Update an item in the shopping cart {/*update-an-item-in-the-shopping-cart*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-26`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Update an item in the shopping cart {/*update-an-item-in-the-shopping-cart*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-27`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Remove an item from the shopping cart {/*remove-an-item-from-the-shopping-cart*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-28`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Remove an item from the shopping cart {/*remove-an-item-from-the-shopping-cart*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-29`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Remove an item from the shopping cart {/*remove-an-item-from-the-shopping-cart*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-30`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Remove an item from the shopping cart {/*remove-an-item-from-the-shopping-cart*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-31`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using non-mutative methods {/*fix-the-mutations-using-non-mutative-methods*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-32`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using non-mutative methods {/*fix-the-mutations-using-non-mutative-methods*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-33`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using non-mutative methods {/*fix-the-mutations-using-non-mutative-methods*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-34`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using non-mutative methods {/*fix-the-mutations-using-non-mutative-methods*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-35`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using non-mutative methods {/*fix-the-mutations-using-non-mutative-methods*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-36`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using non-mutative methods {/*fix-the-mutations-using-non-mutative-methods*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-37`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using non-mutative methods {/*fix-the-mutations-using-non-mutative-methods*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-38`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using non-mutative methods {/*fix-the-mutations-using-non-mutative-methods*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-39`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-40`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-41`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-42`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-43`
+- json example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-44`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-45`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-46`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-47`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-48`
+- json example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-49`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-50`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-51`
+- js example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-52`
+- css example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-53`
+- json example in [learn/updating-arrays-in-state.md](./learn/updating-arrays-in-state.md)
+  - Section: Fix the mutations using Immer {/*fix-the-mutations-using-immer*/}
+  - Snippet id: `learn/updating-arrays-in-state.md#snippet-54`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: What's a mutation? {/*whats-a-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-1`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: What's a mutation? {/*whats-a-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-2`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: What's a mutation? {/*whats-a-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-3`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: What's a mutation? {/*whats-a-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-4`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Treat state as read-only {/*treat-state-as-read-only*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-5`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Treat state as read-only {/*treat-state-as-read-only*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-6`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Treat state as read-only {/*treat-state-as-read-only*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-7`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Treat state as read-only {/*treat-state-as-read-only*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-8`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Treat state as read-only {/*treat-state-as-read-only*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-9`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Treat state as read-only {/*treat-state-as-read-only*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-10`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Local mutation is fine {/*local-mutation-is-fine*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-11`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Local mutation is fine {/*local-mutation-is-fine*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-12`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Local mutation is fine {/*local-mutation-is-fine*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-13`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Copying objects with the spread syntax {/*copying-objects-with-the-spread-syntax*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-14`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Copying objects with the spread syntax {/*copying-objects-with-the-spread-syntax*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-15`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Copying objects with the spread syntax {/*copying-objects-with-the-spread-syntax*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-16`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Copying objects with the spread syntax {/*copying-objects-with-the-spread-syntax*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-17`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Copying objects with the spread syntax {/*copying-objects-with-the-spread-syntax*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-18`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Copying objects with the spread syntax {/*copying-objects-with-the-spread-syntax*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-19`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Copying objects with the spread syntax {/*copying-objects-with-the-spread-syntax*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-20`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Using a single event handler for multiple fields {/*using-a-single-event-handler-for-multiple-fields*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-21`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Using a single event handler for multiple fields {/*using-a-single-event-handler-for-multiple-fields*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-22`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Updating a nested object {/*updating-a-nested-object*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-23`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Updating a nested object {/*updating-a-nested-object*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-24`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Updating a nested object {/*updating-a-nested-object*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-25`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Updating a nested object {/*updating-a-nested-object*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-26`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Updating a nested object {/*updating-a-nested-object*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-27`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Updating a nested object {/*updating-a-nested-object*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-28`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Objects are not really nested {/*objects-are-not-really-nested*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-29`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Objects are not really nested {/*objects-are-not-really-nested*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-30`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Objects are not really nested {/*objects-are-not-really-nested*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-31`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Write concise update logic with Immer {/*write-concise-update-logic-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-32`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: How does Immer work? {/*how-does-immer-work*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-33`
+- json example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: How does Immer work? {/*how-does-immer-work*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-34`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: How does Immer work? {/*how-does-immer-work*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-35`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Fix incorrect state updates {/*fix-incorrect-state-updates*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-36`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Fix incorrect state updates {/*fix-incorrect-state-updates*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-37`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Fix incorrect state updates {/*fix-incorrect-state-updates*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-38`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Fix incorrect state updates {/*fix-incorrect-state-updates*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-39`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Find and fix the mutation {/*find-and-fix-the-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-40`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Find and fix the mutation {/*find-and-fix-the-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-41`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Find and fix the mutation {/*find-and-fix-the-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-42`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Find and fix the mutation {/*find-and-fix-the-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-43`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Find and fix the mutation {/*find-and-fix-the-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-44`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Find and fix the mutation {/*find-and-fix-the-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-45`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Find and fix the mutation {/*find-and-fix-the-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-46`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Find and fix the mutation {/*find-and-fix-the-mutation*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-47`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-48`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-49`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-50`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-51`
+- json example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-52`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-53`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-54`
+- js example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-55`
+- css example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-56`
+- json example in [learn/updating-objects-in-state.md](./learn/updating-objects-in-state.md)
+  - Section: Update an object with Immer {/*update-an-object-with-immer*/}
+  - Snippet id: `learn/updating-objects-in-state.md#snippet-57`
+- html example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Converting HTML to JSX {/*converting-html-to-jsx*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-1`
+- js example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Converting HTML to JSX {/*converting-html-to-jsx*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-2`
+- js example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Converting HTML to JSX {/*converting-html-to-jsx*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-3`
+- css example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Converting HTML to JSX {/*converting-html-to-jsx*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-4`
+- js example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: 1. Return a single root element {/*1-return-a-single-root-element*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-5`
+- js example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: 1. Return a single root element {/*1-return-a-single-root-element*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-6`
+- js example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: 2. Close all the tags {/*2-close-all-the-tags*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-7`
+- js example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: 3. camelCase <s>all</s> most of the things! {/*3-camelcase-salls-most-of-the-things*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-8`
+- js example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Pro-tip: Use a JSX Converter {/*pro-tip-use-a-jsx-converter*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-9`
+- css example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Pro-tip: Use a JSX Converter {/*pro-tip-use-a-jsx-converter*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-10`
+- js example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Convert some HTML to JSX {/*convert-some-html-to-jsx*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-11`
+- css example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Convert some HTML to JSX {/*convert-some-html-to-jsx*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-12`
+- js example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Convert some HTML to JSX {/*convert-some-html-to-jsx*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-13`
+- css example in [learn/writing-markup-with-jsx.md](./learn/writing-markup-with-jsx.md)
+  - Section: Convert some HTML to JSX {/*convert-some-html-to-jsx*/}
+  - Snippet id: `learn/writing-markup-with-jsx.md#snippet-14`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Updating state based on props or state {/*updating-state-based-on-props-or-state*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-1`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Updating state based on props or state {/*updating-state-based-on-props-or-state*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-2`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Caching expensive calculations {/*caching-expensive-calculations*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-3`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Caching expensive calculations {/*caching-expensive-calculations*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-4`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Caching expensive calculations {/*caching-expensive-calculations*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-5`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Caching expensive calculations {/*caching-expensive-calculations*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-6`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: How to tell if a calculation is expensive? {/*how-to-tell-if-a-calculation-is-expensive*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-7`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: How to tell if a calculation is expensive? {/*how-to-tell-if-a-calculation-is-expensive*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-8`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Resetting all state when a prop changes {/*resetting-all-state-when-a-prop-changes*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-9`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Resetting all state when a prop changes {/*resetting-all-state-when-a-prop-changes*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-10`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Adjusting some state when a prop changes {/*adjusting-some-state-when-a-prop-changes*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-11`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Adjusting some state when a prop changes {/*adjusting-some-state-when-a-prop-changes*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-12`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Adjusting some state when a prop changes {/*adjusting-some-state-when-a-prop-changes*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-13`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Sharing logic between event handlers {/*sharing-logic-between-event-handlers*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-14`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Sharing logic between event handlers {/*sharing-logic-between-event-handlers*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-15`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Sending a POST request {/*sending-a-post-request*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-16`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Sending a POST request {/*sending-a-post-request*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-17`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Chains of computations {/*chains-of-computations*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-18`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Chains of computations {/*chains-of-computations*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-19`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Initializing the application {/*initializing-the-application*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-20`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Initializing the application {/*initializing-the-application*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-21`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Initializing the application {/*initializing-the-application*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-22`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Notifying parent components about state changes {/*notifying-parent-components-about-state-changes*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-23`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Notifying parent components about state changes {/*notifying-parent-components-about-state-changes*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-24`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Notifying parent components about state changes {/*notifying-parent-components-about-state-changes*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-25`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Passing data to the parent {/*passing-data-to-the-parent*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-26`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Passing data to the parent {/*passing-data-to-the-parent*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-27`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Subscribing to an external store {/*subscribing-to-an-external-store*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-28`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Subscribing to an external store {/*subscribing-to-an-external-store*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-29`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Fetching data {/*fetching-data*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-30`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Fetching data {/*fetching-data*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-31`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Fetching data {/*fetching-data*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-32`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Transform data without Effects {/*transform-data-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-33`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Transform data without Effects {/*transform-data-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-34`
+- css example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Transform data without Effects {/*transform-data-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-35`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Transform data without Effects {/*transform-data-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-36`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Transform data without Effects {/*transform-data-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-37`
+- css example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Transform data without Effects {/*transform-data-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-38`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Cache a calculation without Effects {/*cache-a-calculation-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-39`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Cache a calculation without Effects {/*cache-a-calculation-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-40`
+- css example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Cache a calculation without Effects {/*cache-a-calculation-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-41`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Cache a calculation without Effects {/*cache-a-calculation-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-42`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Cache a calculation without Effects {/*cache-a-calculation-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-43`
+- css example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Cache a calculation without Effects {/*cache-a-calculation-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-44`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Cache a calculation without Effects {/*cache-a-calculation-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-45`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Cache a calculation without Effects {/*cache-a-calculation-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-46`
+- css example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Cache a calculation without Effects {/*cache-a-calculation-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-47`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Reset state without Effects {/*reset-state-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-48`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Reset state without Effects {/*reset-state-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-49`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Reset state without Effects {/*reset-state-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-50`
+- css example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Reset state without Effects {/*reset-state-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-51`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Reset state without Effects {/*reset-state-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-52`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Reset state without Effects {/*reset-state-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-53`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Reset state without Effects {/*reset-state-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-54`
+- css example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Reset state without Effects {/*reset-state-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-55`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Submit a form without Effects {/*submit-a-form-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-56`
+- css example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Submit a form without Effects {/*submit-a-form-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-57`
+- js example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Submit a form without Effects {/*submit-a-form-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-58`
+- css example in [learn/you-might-not-need-an-effect.md](./learn/you-might-not-need-an-effect.md)
+  - Section: Submit a form without Effects {/*submit-a-form-without-effects*/}
+  - Snippet id: `learn/you-might-not-need-an-effect.md#snippet-59`
+- html example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Components: UI building blocks {/*components-ui-building-blocks*/}
+  - Snippet id: `learn/your-first-component.md#snippet-1`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Components: UI building blocks {/*components-ui-building-blocks*/}
+  - Snippet id: `learn/your-first-component.md#snippet-2`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Defining a component {/*defining-a-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-3`
+- css example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Defining a component {/*defining-a-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-4`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Step 3: Add markup {/*step-3-add-markup*/}
+  - Snippet id: `learn/your-first-component.md#snippet-5`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Step 3: Add markup {/*step-3-add-markup*/}
+  - Snippet id: `learn/your-first-component.md#snippet-6`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Using a component {/*using-a-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-7`
+- css example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Using a component {/*using-a-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-8`
+- html example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: What the browser sees {/*what-the-browser-sees*/}
+  - Snippet id: `learn/your-first-component.md#snippet-9`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Nesting and organizing components {/*nesting-and-organizing-components*/}
+  - Snippet id: `learn/your-first-component.md#snippet-10`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Nesting and organizing components {/*nesting-and-organizing-components*/}
+  - Snippet id: `learn/your-first-component.md#snippet-11`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Export the component {/*export-the-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-12`
+- css example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Export the component {/*export-the-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-13`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Export the component {/*export-the-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-14`
+- css example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Export the component {/*export-the-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-15`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Fix the return statement {/*fix-the-return-statement*/}
+  - Snippet id: `learn/your-first-component.md#snippet-16`
+- css example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Fix the return statement {/*fix-the-return-statement*/}
+  - Snippet id: `learn/your-first-component.md#snippet-17`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Fix the return statement {/*fix-the-return-statement*/}
+  - Snippet id: `learn/your-first-component.md#snippet-18`
+- css example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Fix the return statement {/*fix-the-return-statement*/}
+  - Snippet id: `learn/your-first-component.md#snippet-19`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Fix the return statement {/*fix-the-return-statement*/}
+  - Snippet id: `learn/your-first-component.md#snippet-20`
+- css example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Fix the return statement {/*fix-the-return-statement*/}
+  - Snippet id: `learn/your-first-component.md#snippet-21`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Spot the mistake {/*spot-the-mistake*/}
+  - Snippet id: `learn/your-first-component.md#snippet-22`
+- css example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Spot the mistake {/*spot-the-mistake*/}
+  - Snippet id: `learn/your-first-component.md#snippet-23`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Spot the mistake {/*spot-the-mistake*/}
+  - Snippet id: `learn/your-first-component.md#snippet-24`
+- css example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Spot the mistake {/*spot-the-mistake*/}
+  - Snippet id: `learn/your-first-component.md#snippet-25`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Your own component {/*your-own-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-26`
+- js example in [learn/your-first-component.md](./learn/your-first-component.md)
+  - Section: Your own component {/*your-own-component*/}
+  - Snippet id: `learn/your-first-component.md#snippet-27`
+- js example in [reference/eslint-plugin-react-hooks/lints/component-hook-factories.md](./reference/eslint-plugin-react-hooks/lints/component-hook-factories.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/component-hook-factories.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/component-hook-factories.md](./reference/eslint-plugin-react-hooks/lints/component-hook-factories.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/component-hook-factories.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/component-hook-factories.md](./reference/eslint-plugin-react-hooks/lints/component-hook-factories.md)
+  - Section: I need dynamic component behavior {/*dynamic-behavior*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/component-hook-factories.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/component-hook-factories.md](./reference/eslint-plugin-react-hooks/lints/component-hook-factories.md)
+  - Section: I need dynamic component behavior {/*dynamic-behavior*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/component-hook-factories.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/config.md](./reference/eslint-plugin-react-hooks/lints/config.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/config.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/config.md](./reference/eslint-plugin-react-hooks/lints/config.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/config.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/config.md](./reference/eslint-plugin-react-hooks/lints/config.md)
+  - Section: Configuration not working as expected {/*config-not-working*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/config.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/config.md](./reference/eslint-plugin-react-hooks/lints/config.md)
+  - Section: Configuration not working as expected {/*config-not-working*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/config.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/error-boundaries.md](./reference/eslint-plugin-react-hooks/lints/error-boundaries.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/error-boundaries.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/error-boundaries.md](./reference/eslint-plugin-react-hooks/lints/error-boundaries.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/error-boundaries.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/error-boundaries.md](./reference/eslint-plugin-react-hooks/lints/error-boundaries.md)
+  - Section: Why is the linter telling me not to wrap `use` in `try`/`catch`? {/*why-is-the-linter-telling-me-not-to-wrap-use-in-trycatch*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/error-boundaries.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md](./reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md](./reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md](./reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md)
+  - Section: Adding a function dependency causes infinite loops {/*function-dependency-loops*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md](./reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md)
+  - Section: Adding a function dependency causes infinite loops {/*function-dependency-loops*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md](./reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md)
+  - Section: Adding a function dependency causes infinite loops {/*function-dependency-loops*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md#snippet-5`
+- js example in [reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md](./reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md)
+  - Section: Running an effect only once {/*effect-on-mount*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md#snippet-6`
+- js example in [reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md](./reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md)
+  - Section: Running an effect only once {/*effect-on-mount*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md#snippet-7`
+- js example in [reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md](./reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md)
+  - Section: Options {/*options*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md#snippet-8`
+- js example in [reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md](./reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md)
+  - Section: Options {/*options*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md#snippet-9`
+- js example in [reference/eslint-plugin-react-hooks/lints/gating.md](./reference/eslint-plugin-react-hooks/lints/gating.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/gating.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/gating.md](./reference/eslint-plugin-react-hooks/lints/gating.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/gating.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/globals.md](./reference/eslint-plugin-react-hooks/lints/globals.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/globals.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/globals.md](./reference/eslint-plugin-react-hooks/lints/globals.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/globals.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/immutability.md](./reference/eslint-plugin-react-hooks/lints/immutability.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/immutability.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/immutability.md](./reference/eslint-plugin-react-hooks/lints/immutability.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/immutability.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/immutability.md](./reference/eslint-plugin-react-hooks/lints/immutability.md)
+  - Section: I need to add items to an array {/*add-items-array*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/immutability.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/immutability.md](./reference/eslint-plugin-react-hooks/lints/immutability.md)
+  - Section: I need to add items to an array {/*add-items-array*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/immutability.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/immutability.md](./reference/eslint-plugin-react-hooks/lints/immutability.md)
+  - Section: I need to update nested objects {/*update-nested-objects*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/immutability.md#snippet-5`
+- js example in [reference/eslint-plugin-react-hooks/lints/immutability.md](./reference/eslint-plugin-react-hooks/lints/immutability.md)
+  - Section: I need to update nested objects {/*update-nested-objects*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/immutability.md#snippet-6`
+- js example in [reference/eslint-plugin-react-hooks/lints/incompatible-library.md](./reference/eslint-plugin-react-hooks/lints/incompatible-library.md)
+  - Section: Rule Details {/*rule-details*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/incompatible-library.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/incompatible-library.md](./reference/eslint-plugin-react-hooks/lints/incompatible-library.md)
+  - Section: Designing APIs that follow the Rules of React {/*designing-apis-that-follow-the-rules-of-react*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/incompatible-library.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/incompatible-library.md](./reference/eslint-plugin-react-hooks/lints/incompatible-library.md)
+  - Section: Designing APIs that follow the Rules of React {/*designing-apis-that-follow-the-rules-of-react*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/incompatible-library.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/incompatible-library.md](./reference/eslint-plugin-react-hooks/lints/incompatible-library.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/incompatible-library.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/incompatible-library.md](./reference/eslint-plugin-react-hooks/lints/incompatible-library.md)
+  - Section: MobX {/*mobx*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/incompatible-library.md#snippet-5`
+- js example in [reference/eslint-plugin-react-hooks/lints/incompatible-library.md](./reference/eslint-plugin-react-hooks/lints/incompatible-library.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/incompatible-library.md#snippet-6`
+- js example in [reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md](./reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md](./reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md](./reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md)
+  - Section: Should I remove my manual memoization? {/*remove-manual-memoization*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md](./reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md)
+  - Section: Should I remove my manual memoization? {/*remove-manual-memoization*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/purity.md](./reference/eslint-plugin-react-hooks/lints/purity.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/purity.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/purity.md](./reference/eslint-plugin-react-hooks/lints/purity.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/purity.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/purity.md](./reference/eslint-plugin-react-hooks/lints/purity.md)
+  - Section: I need to show the current time {/*current-time*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/purity.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/purity.md](./reference/eslint-plugin-react-hooks/lints/purity.md)
+  - Section: I need to show the current time {/*current-time*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/purity.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/refs.md](./reference/eslint-plugin-react-hooks/lints/refs.md)
+  - Section: How It Detects Refs {/*how-it-detects-refs*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/refs.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/refs.md](./reference/eslint-plugin-react-hooks/lints/refs.md)
+  - Section: How It Detects Refs {/*how-it-detects-refs*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/refs.md#snippet-2`
+- jsx example in [reference/eslint-plugin-react-hooks/lints/refs.md](./reference/eslint-plugin-react-hooks/lints/refs.md)
+  - Section: How It Detects Refs {/*how-it-detects-refs*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/refs.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/refs.md](./reference/eslint-plugin-react-hooks/lints/refs.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/refs.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/refs.md](./reference/eslint-plugin-react-hooks/lints/refs.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/refs.md#snippet-5`
+- js example in [reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md](./reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md)
+  - Section: `use` hook {/*use-hook*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md](./reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md](./reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md](./reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md)
+  - Section: I want to fetch data based on some condition {/*conditional-data-fetching*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md](./reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md)
+  - Section: I want to fetch data based on some condition {/*conditional-data-fetching*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md#snippet-5`
+- js example in [reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md](./reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md)
+  - Section: I need different state for different scenarios {/*conditional-state-initialization*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md#snippet-6`
+- js example in [reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md](./reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md)
+  - Section: I need different state for different scenarios {/*conditional-state-initialization*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md#snippet-7`
+- js example in [reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md](./reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md)
+  - Section: Options {/*options*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md#snippet-8`
+- js example in [reference/eslint-plugin-react-hooks/lints/set-state-in-effect.md](./reference/eslint-plugin-react-hooks/lints/set-state-in-effect.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/set-state-in-effect.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/set-state-in-effect.md](./reference/eslint-plugin-react-hooks/lints/set-state-in-effect.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/set-state-in-effect.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/set-state-in-render.md](./reference/eslint-plugin-react-hooks/lints/set-state-in-render.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/set-state-in-render.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/set-state-in-render.md](./reference/eslint-plugin-react-hooks/lints/set-state-in-render.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/set-state-in-render.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/set-state-in-render.md](./reference/eslint-plugin-react-hooks/lints/set-state-in-render.md)
+  - Section: I want to sync state to a prop {/*clamp-state-to-prop*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/set-state-in-render.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/set-state-in-render.md](./reference/eslint-plugin-react-hooks/lints/set-state-in-render.md)
+  - Section: I want to sync state to a prop {/*clamp-state-to-prop*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/set-state-in-render.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/static-components.md](./reference/eslint-plugin-react-hooks/lints/static-components.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/static-components.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/static-components.md](./reference/eslint-plugin-react-hooks/lints/static-components.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/static-components.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/static-components.md](./reference/eslint-plugin-react-hooks/lints/static-components.md)
+  - Section: I need to render different components conditionally {/*conditional-components*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/static-components.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/static-components.md](./reference/eslint-plugin-react-hooks/lints/static-components.md)
+  - Section: I need to render different components conditionally {/*conditional-components*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/static-components.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md](./reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md](./reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md](./reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md)
+  - Section: I need to evaluate dynamic code {/*evaluate-dynamic-code*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md](./reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md)
+  - Section: I need to evaluate dynamic code {/*evaluate-dynamic-code*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/use-memo.md](./reference/eslint-plugin-react-hooks/lints/use-memo.md)
+  - Section: Invalid {/*invalid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/use-memo.md#snippet-1`
+- js example in [reference/eslint-plugin-react-hooks/lints/use-memo.md](./reference/eslint-plugin-react-hooks/lints/use-memo.md)
+  - Section: Valid {/*valid*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/use-memo.md#snippet-2`
+- js example in [reference/eslint-plugin-react-hooks/lints/use-memo.md](./reference/eslint-plugin-react-hooks/lints/use-memo.md)
+  - Section: I need to run side effects when dependencies change {/*side-effects*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/use-memo.md#snippet-3`
+- js example in [reference/eslint-plugin-react-hooks/lints/use-memo.md](./reference/eslint-plugin-react-hooks/lints/use-memo.md)
+  - Section: I need to run side effects when dependencies change {/*side-effects*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/use-memo.md#snippet-4`
+- js example in [reference/eslint-plugin-react-hooks/lints/use-memo.md](./reference/eslint-plugin-react-hooks/lints/use-memo.md)
+  - Section: I need to run side effects when dependencies change {/*side-effects*/}
+  - Snippet id: `reference/eslint-plugin-react-hooks/lints/use-memo.md#snippet-5`
+- js example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: compilationMode.md
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-1`
+- text example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: Type {/*type*/}
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-2`
+- js example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: Default inference mode {/*default-inference-mode*/}
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-3`
+- js example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: Default inference mode {/*default-inference-mode*/}
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-4`
+- js example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: Incremental adoption with annotation mode {/*incremental-adoption*/}
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-5`
+- js example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: Incremental adoption with annotation mode {/*incremental-adoption*/}
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-6`
+- js example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: Using Flow syntax mode {/*flow-syntax-mode*/}
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-7`
+- js example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: Using Flow syntax mode {/*flow-syntax-mode*/}
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-8`
+- js example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: Opting out specific functions {/*opting-out*/}
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-9`
+- js example in [reference/react-compiler/compilationmode.md](./reference/react-compiler/compilationmode.md)
+  - Section: Component not being compiled in infer mode {/*component-not-compiled-infer*/}
+  - Snippet id: `reference/react-compiler/compilationmode.md#snippet-10`
+- js example in [reference/react-compiler/compiling-libraries.md](./reference/react-compiler/compiling-libraries.md)
+  - Section: Setting Up Compilation {/*setting-up-compilation*/}
+  - Snippet id: `reference/react-compiler/compiling-libraries.md#snippet-1`
+- json example in [reference/react-compiler/compiling-libraries.md](./reference/react-compiler/compiling-libraries.md)
+  - Section: 1. Install the runtime package {/*install-runtime-package*/}
+  - Snippet id: `reference/react-compiler/compiling-libraries.md#snippet-2`
+- js example in [reference/react-compiler/compiling-libraries.md](./reference/react-compiler/compiling-libraries.md)
+  - Section: 2. Configure the target version {/*configure-target-version*/}
+  - Snippet id: `reference/react-compiler/compiling-libraries.md#snippet-3`
+- js example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: configuration.md
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-1`
+- js example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: Compilation Control {/*compilation-control*/}
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-2`
+- js example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: Version Compatibility {/*version-compatibility*/}
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-3`
+- js example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: Error Handling {/*error-handling*/}
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-4`
+- js example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: Debugging {/*debugging*/}
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-5`
+- js example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: Feature Flags {/*feature-flags*/}
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-6`
+- js example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: Default configuration {/*default-configuration*/}
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-7`
+- bash example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: React 17/18 projects {/*react-17-18*/}
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-8`
+- js example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: React 17/18 projects {/*react-17-18*/}
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-9`
+- js example in [reference/react-compiler/configuration.md](./reference/react-compiler/configuration.md)
+  - Section: Incremental adoption {/*incremental-adoption*/}
+  - Snippet id: `reference/react-compiler/configuration.md#snippet-10`
+- js example in [reference/react-compiler/directives.md](./reference/react-compiler/directives.md)
+  - Section: directives.md
+  - Snippet id: `reference/react-compiler/directives.md#snippet-1`
+- js example in [reference/react-compiler/directives.md](./reference/react-compiler/directives.md)
+  - Section: Function-level directives {/*function-level*/}
+  - Snippet id: `reference/react-compiler/directives.md#snippet-2`
+- js example in [reference/react-compiler/directives.md](./reference/react-compiler/directives.md)
+  - Section: Module-level directives {/*module-level*/}
+  - Snippet id: `reference/react-compiler/directives.md#snippet-3`
+- js example in [reference/react-compiler/directives.md](./reference/react-compiler/directives.md)
+  - Section: Use directives sparingly {/*use-sparingly*/}
+  - Snippet id: `reference/react-compiler/directives.md#snippet-4`
+- js example in [reference/react-compiler/directives.md](./reference/react-compiler/directives.md)
+  - Section: Document directive usage {/*document-usage*/}
+  - Snippet id: `reference/react-compiler/directives.md#snippet-5`
+- js example in [reference/react-compiler/directives.md](./reference/react-compiler/directives.md)
+  - Section: Plan for removal {/*plan-removal*/}
+  - Snippet id: `reference/react-compiler/directives.md#snippet-6`
+- js example in [reference/react-compiler/directives.md](./reference/react-compiler/directives.md)
+  - Section: Gradual adoption {/*gradual-adoption*/}
+  - Snippet id: `reference/react-compiler/directives.md#snippet-7`
+- js example in [reference/react-compiler/directives/use-memo.md](./reference/react-compiler/directives/use-memo.md)
+  - Section: `"use memo"` {/*use-memo*/}
+  - Snippet id: `reference/react-compiler/directives/use-memo.md#snippet-1`
+- js example in [reference/react-compiler/directives/use-memo.md](./reference/react-compiler/directives/use-memo.md)
+  - Section: You're using annotation mode {/*annotation-mode-use*/}
+  - Snippet id: `reference/react-compiler/directives/use-memo.md#snippet-2`
+- js example in [reference/react-compiler/directives/use-memo.md](./reference/react-compiler/directives/use-memo.md)
+  - Section: You're gradually adopting React Compiler {/*gradual-adoption*/}
+  - Snippet id: `reference/react-compiler/directives/use-memo.md#snippet-3`
+- js example in [reference/react-compiler/directives/use-memo.md](./reference/react-compiler/directives/use-memo.md)
+  - Section: Working with different compilation modes {/*compilation-modes*/}
+  - Snippet id: `reference/react-compiler/directives/use-memo.md#snippet-4`
+- js example in [reference/react-compiler/directives/use-memo.md](./reference/react-compiler/directives/use-memo.md)
+  - Section: Annotation mode {/*annotation-mode-example*/}
+  - Snippet id: `reference/react-compiler/directives/use-memo.md#snippet-5`
+- js example in [reference/react-compiler/directives/use-memo.md](./reference/react-compiler/directives/use-memo.md)
+  - Section: Infer mode (default) {/*infer-mode-example*/}
+  - Snippet id: `reference/react-compiler/directives/use-memo.md#snippet-6`
+- js example in [reference/react-compiler/directives/use-no-memo.md](./reference/react-compiler/directives/use-no-memo.md)
+  - Section: `"use no memo"` {/*use-no-memo*/}
+  - Snippet id: `reference/react-compiler/directives/use-no-memo.md#snippet-1`
+- js example in [reference/react-compiler/directives/use-no-memo.md](./reference/react-compiler/directives/use-no-memo.md)
+  - Section: Debugging compiler issues {/*debugging-compiler*/}
+  - Snippet id: `reference/react-compiler/directives/use-no-memo.md#snippet-2`
+- js example in [reference/react-compiler/directives/use-no-memo.md](./reference/react-compiler/directives/use-no-memo.md)
+  - Section: Third-party library integration {/*third-party*/}
+  - Snippet id: `reference/react-compiler/directives/use-no-memo.md#snippet-3`
+- js example in [reference/react-compiler/directives/use-no-memo.md](./reference/react-compiler/directives/use-no-memo.md)
+  - Section: Usage {/*usage*/}
+  - Snippet id: `reference/react-compiler/directives/use-no-memo.md#snippet-4`
+- js example in [reference/react-compiler/directives/use-no-memo.md](./reference/react-compiler/directives/use-no-memo.md)
+  - Section: Usage {/*usage*/}
+  - Snippet id: `reference/react-compiler/directives/use-no-memo.md#snippet-5`
+- js example in [reference/react-compiler/directives/use-no-memo.md](./reference/react-compiler/directives/use-no-memo.md)
+  - Section: Directive not preventing compilation {/*not-preventing*/}
+  - Snippet id: `reference/react-compiler/directives/use-no-memo.md#snippet-6`
+- js example in [reference/react-compiler/directives/use-no-memo.md](./reference/react-compiler/directives/use-no-memo.md)
+  - Section: Best practices {/*best-practices*/}
+  - Snippet id: `reference/react-compiler/directives/use-no-memo.md#snippet-7`
+- js example in [reference/react-compiler/gating.md](./reference/react-compiler/gating.md)
+  - Section: gating.md
+  - Snippet id: `reference/react-compiler/gating.md#snippet-1`
+- text example in [reference/react-compiler/gating.md](./reference/react-compiler/gating.md)
+  - Section: Type {/*type*/}
+  - Snippet id: `reference/react-compiler/gating.md#snippet-2`
+- js example in [reference/react-compiler/gating.md](./reference/react-compiler/gating.md)
+  - Section: Basic feature flag setup {/*basic-setup*/}
+  - Snippet id: `reference/react-compiler/gating.md#snippet-3`
+- js example in [reference/react-compiler/gating.md](./reference/react-compiler/gating.md)
+  - Section: Basic feature flag setup {/*basic-setup*/}
+  - Snippet id: `reference/react-compiler/gating.md#snippet-4`
+- js example in [reference/react-compiler/gating.md](./reference/react-compiler/gating.md)
+  - Section: Basic feature flag setup {/*basic-setup*/}
+  - Snippet id: `reference/react-compiler/gating.md#snippet-5`
+- js example in [reference/react-compiler/gating.md](./reference/react-compiler/gating.md)
+  - Section: Feature flag not working {/*flag-not-working*/}
+  - Snippet id: `reference/react-compiler/gating.md#snippet-6`
+- js example in [reference/react-compiler/gating.md](./reference/react-compiler/gating.md)
+  - Section: Import errors {/*import-errors*/}
+  - Snippet id: `reference/react-compiler/gating.md#snippet-7`
+- js example in [reference/react-compiler/logger.md](./reference/react-compiler/logger.md)
+  - Section: logger.md
+  - Snippet id: `reference/react-compiler/logger.md#snippet-1`
+- text example in [reference/react-compiler/logger.md](./reference/react-compiler/logger.md)
+  - Section: Type {/*type*/}
+  - Snippet id: `reference/react-compiler/logger.md#snippet-2`
+- js example in [reference/react-compiler/logger.md](./reference/react-compiler/logger.md)
+  - Section: Basic logging {/*basic-logging*/}
+  - Snippet id: `reference/react-compiler/logger.md#snippet-3`
+- js example in [reference/react-compiler/logger.md](./reference/react-compiler/logger.md)
+  - Section: Detailed error logging {/*detailed-error-logging*/}
+  - Snippet id: `reference/react-compiler/logger.md#snippet-4`
+- js example in [reference/react-compiler/panicthreshold.md](./reference/react-compiler/panicthreshold.md)
+  - Section: panicThreshold.md
+  - Snippet id: `reference/react-compiler/panicthreshold.md#snippet-1`
+- text example in [reference/react-compiler/panicthreshold.md](./reference/react-compiler/panicthreshold.md)
+  - Section: Type {/*type*/}
+  - Snippet id: `reference/react-compiler/panicthreshold.md#snippet-2`
+- js example in [reference/react-compiler/panicthreshold.md](./reference/react-compiler/panicthreshold.md)
+  - Section: Production configuration (recommended) {/*production-configuration*/}
+  - Snippet id: `reference/react-compiler/panicthreshold.md#snippet-3`
+- js example in [reference/react-compiler/panicthreshold.md](./reference/react-compiler/panicthreshold.md)
+  - Section: Development debugging {/*development-debugging*/}
+  - Snippet id: `reference/react-compiler/panicthreshold.md#snippet-4`
+- js example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: target.md
+  - Snippet id: `reference/react-compiler/target.md#snippet-1`
+- text example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Type {/*type*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-2`
+- js example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Targeting React 19 (default) {/*targeting-react-19*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-3`
+- js example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Targeting React 19 (default) {/*targeting-react-19*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-4`
+- bash example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Targeting React 17 or 18 {/*targeting-react-17-or-18*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-5`
+- js example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Targeting React 17 or 18 {/*targeting-react-17-or-18*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-6`
+- js example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Targeting React 17 or 18 {/*targeting-react-17-or-18*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-7`
+- bash example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Runtime errors about missing compiler runtime {/*missing-runtime*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-8`
+- bash example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Runtime errors about missing compiler runtime {/*missing-runtime*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-9`
+- js example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Runtime errors about missing compiler runtime {/*missing-runtime*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-10`
+- js example in [reference/react-compiler/target.md](./reference/react-compiler/target.md)
+  - Section: Checking compiled output {/*checking-output*/}
+  - Snippet id: `reference/react-compiler/target.md#snippet-11`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: browser.md
+  - Snippet id: `reference/react-dom/browser.md#snippet-1`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: `browser(reason?)` {/*browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-2`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Rendering content only in the browser {/*rendering-content-only-in-the-browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-3`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Rendering content only in the browser {/*rendering-content-only-in-the-browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-4`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Rendering content only in the browser {/*rendering-content-only-in-the-browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-5`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Rendering content only in the browser {/*rendering-content-only-in-the-browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-6`
+- html example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Rendering content only in the browser {/*rendering-content-only-in-the-browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-7`
+- css example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Rendering content only in the browser {/*rendering-content-only-in-the-browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-8`
+- json example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Rendering content only in the browser {/*rendering-content-only-in-the-browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-9`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Rendering content only in the browser {/*rendering-content-only-in-the-browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-10`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Conditionally rendering on the server {/*conditionally-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-11`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Conditionally rendering on the server {/*conditionally-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-12`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Conditionally rendering on the server {/*conditionally-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-13`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Conditionally rendering on the server {/*conditionally-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-14`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Conditionally rendering on the server {/*conditionally-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-15`
+- html example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Conditionally rendering on the server {/*conditionally-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-16`
+- css example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Conditionally rendering on the server {/*conditionally-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-17`
+- json example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Conditionally rendering on the server {/*conditionally-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-18`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Conditionally rendering on the server {/*conditionally-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-19`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Reporting browser-only rendering on the server {/*reporting-browser-only-rendering-on-the-server*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-20`
+- js example in [reference/react-dom/browser.md](./reference/react-dom/browser.md)
+  - Section: Aborting pending server rendering for the browser {/*aborting-pending-server-rendering-for-the-browser*/}
+  - Snippet id: `reference/react-dom/browser.md#snippet-21`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: createRoot.md
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-1`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: `createRoot(domNode, options?)` {/*createroot*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-2`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: `createRoot(domNode, options?)` {/*createroot*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-3`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: `root.render(reactNode)` {/*root-render*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-4`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Caveats {/*root-render-caveats*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-5`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: `root.unmount()` {/*root-unmount*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-6`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering an app fully built with React {/*rendering-an-app-fully-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-7`
+- html example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering an app fully built with React {/*rendering-an-app-fully-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-8`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering an app fully built with React {/*rendering-an-app-fully-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-9`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering an app fully built with React {/*rendering-an-app-fully-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-10`
+- html example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering an app fully built with React {/*rendering-an-app-fully-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-11`
+- html example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering a page partially built with React {/*rendering-a-page-partially-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-12`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering a page partially built with React {/*rendering-a-page-partially-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-13`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering a page partially built with React {/*rendering-a-page-partially-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-14`
+- css example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering a page partially built with React {/*rendering-a-page-partially-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-15`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering a page partially built with React {/*rendering-a-page-partially-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-16`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Rendering a page partially built with React {/*rendering-a-page-partially-built-with-react*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-17`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Updating a root component {/*updating-a-root-component*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-18`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Updating a root component {/*updating-a-root-component*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-19`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Error logging in production {/*error-logging-in-production*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-20`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Error logging in production {/*error-logging-in-production*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-21`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Error logging in production {/*error-logging-in-production*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-22`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: Error logging in production {/*error-logging-in-production*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-23`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: I've created a root, but nothing is displayed {/*ive-created-a-root-but-nothing-is-displayed*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-24`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: I'm getting an error: "You passed a second argument to root.render" {/*im-getting-an-error-you-passed-a-second-argument-to-root-render*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-25`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: I'm getting an error: "Target container is not a DOM element" {/*im-getting-an-error-target-container-is-not-a-dom-element*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-26`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: I'm getting an error: "Functions are not valid as a React child." {/*im-getting-an-error-functions-are-not-valid-as-a-react-child*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-27`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: I'm getting an error: "Functions are not valid as a React child." {/*im-getting-an-error-functions-are-not-valid-as-a-react-child*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-28`
+- js example in [reference/react-dom/client/createroot.md](./reference/react-dom/client/createroot.md)
+  - Section: My server-rendered HTML gets re-created from scratch {/*my-server-rendered-html-gets-re-created-from-scratch*/}
+  - Snippet id: `reference/react-dom/client/createroot.md#snippet-29`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: hydrateRoot.md
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-1`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: `hydrateRoot(domNode, reactNode, options?)` {/*hydrateroot*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-2`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: `root.render(reactNode)` {/*root-render*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-3`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: `root.unmount()` {/*root-unmount*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-4`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Hydrating server-rendered HTML {/*hydrating-server-rendered-html*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-5`
+- html example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Hydrating server-rendered HTML {/*hydrating-server-rendered-html*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-6`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Hydrating server-rendered HTML {/*hydrating-server-rendered-html*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-7`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Hydrating server-rendered HTML {/*hydrating-server-rendered-html*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-8`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Hydrating an entire document {/*hydrating-an-entire-document*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-9`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Hydrating an entire document {/*hydrating-an-entire-document*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-10`
+- html example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Suppressing unavoidable hydration mismatch errors {/*suppressing-unavoidable-hydration-mismatch-errors*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-11`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Suppressing unavoidable hydration mismatch errors {/*suppressing-unavoidable-hydration-mismatch-errors*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-12`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Suppressing unavoidable hydration mismatch errors {/*suppressing-unavoidable-hydration-mismatch-errors*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-13`
+- html example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Handling different client and server content {/*handling-different-client-and-server-content*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-14`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Handling different client and server content {/*handling-different-client-and-server-content*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-15`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Handling different client and server content {/*handling-different-client-and-server-content*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-16`
+- html example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Updating a hydrated root component {/*updating-a-hydrated-root-component*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-17`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Updating a hydrated root component {/*updating-a-hydrated-root-component*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-18`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Updating a hydrated root component {/*updating-a-hydrated-root-component*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-19`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Error logging in production {/*error-logging-in-production*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-20`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Error logging in production {/*error-logging-in-production*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-21`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Error logging in production {/*error-logging-in-production*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-22`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Error logging in production {/*error-logging-in-production*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-23`
+- html example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: Error logging in production {/*error-logging-in-production*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-24`
+- js example in [reference/react-dom/client/hydrateroot.md](./reference/react-dom/client/hydrateroot.md)
+  - Section: I'm getting an error: "You passed a second argument to root.render" {/*im-getting-an-error-you-passed-a-second-argument-to-root-render*/}
+  - Snippet id: `reference/react-dom/client/hydrateroot.md#snippet-25`
+- jsx example in [reference/react-dom/components.md](./reference/react-dom/components.md)
+  - Section: Setting values on custom elements {/*attributes-vs-properties*/}
+  - Snippet id: `reference/react-dom/components.md#snippet-1`
+- jsx example in [reference/react-dom/components.md](./reference/react-dom/components.md)
+  - Section: Setting values on custom elements {/*attributes-vs-properties*/}
+  - Snippet id: `reference/react-dom/components.md#snippet-2`
+- js example in [reference/react-dom/components.md](./reference/react-dom/components.md)
+  - Section: Setting values on custom elements {/*attributes-vs-properties*/}
+  - Snippet id: `reference/react-dom/components.md#snippet-3`
+- js example in [reference/react-dom/components.md](./reference/react-dom/components.md)
+  - Section: Setting values on custom elements {/*attributes-vs-properties*/}
+  - Snippet id: `reference/react-dom/components.md#snippet-4`
+- js example in [reference/react-dom/components.md](./reference/react-dom/components.md)
+  - Section: Setting values on custom elements {/*attributes-vs-properties*/}
+  - Snippet id: `reference/react-dom/components.md#snippet-5`
+- js example in [reference/react-dom/components.md](./reference/react-dom/components.md)
+  - Section: Listening for events on custom elements {/*custom-element-events*/}
+  - Snippet id: `reference/react-dom/components.md#snippet-6`
+- javascript example in [reference/react-dom/components.md](./reference/react-dom/components.md)
+  - Section: Listening for events on custom elements {/*custom-element-events*/}
+  - Snippet id: `reference/react-dom/components.md#snippet-7`
+- jsx example in [reference/react-dom/components.md](./reference/react-dom/components.md)
+  - Section: Listening for events on custom elements {/*custom-element-events*/}
+  - Snippet id: `reference/react-dom/components.md#snippet-8`
+- jsx example in [reference/react-dom/components.md](./reference/react-dom/components.md)
+  - Section: Listening for events on custom elements {/*custom-element-events*/}
+  - Snippet id: `reference/react-dom/components.md#snippet-9`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Common components (e.g. `<div>`) {/*common*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-1`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `ref` callback function {/*ref-callback*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-2`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: React event object {/*react-event-object*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-3`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `AnimationEvent` handler function {/*animationevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-4`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `ClipboardEvent` handler function {/*clipboadevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-5`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `CompositionEvent` handler function {/*compositionevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-6`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `DragEvent` handler function {/*dragevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-7`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `FocusEvent` handler function {/*focusevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-8`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `InputEvent` handler function {/*inputevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-9`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `KeyboardEvent` handler function {/*keyboardevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-10`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `MouseEvent` handler function {/*mouseevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-11`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `PointerEvent` handler function {/*pointerevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-12`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `TouchEvent` handler function {/*touchevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-13`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `TransitionEvent` handler function {/*transitionevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-14`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `UIEvent` handler function {/*uievent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-15`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: `WheelEvent` handler function {/*wheelevent-handler*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-16`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Applying CSS styles {/*applying-css-styles*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-17`
+- css example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Applying CSS styles {/*applying-css-styles*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-18`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Applying CSS styles {/*applying-css-styles*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-19`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Applying CSS styles {/*applying-css-styles*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-20`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Applying CSS styles {/*applying-css-styles*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-21`
+- css example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Applying CSS styles {/*applying-css-styles*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-22`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: How to apply multiple CSS classes conditionally? {/*how-to-apply-multiple-css-classes-conditionally*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-23`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: How to apply multiple CSS classes conditionally? {/*how-to-apply-multiple-css-classes-conditionally*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-24`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Manipulating a DOM node with a ref {/*manipulating-a-dom-node-with-a-ref*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-25`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Manipulating a DOM node with a ref {/*manipulating-a-dom-node-with-a-ref*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-26`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Dangerously setting the inner HTML {/*dangerously-setting-the-inner-html*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-27`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Dangerously setting the inner HTML {/*dangerously-setting-the-inner-html*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-28`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Dangerously setting the inner HTML {/*dangerously-setting-the-inner-html*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-29`
+- json example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Dangerously setting the inner HTML {/*dangerously-setting-the-inner-html*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-30`
+- css example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Dangerously setting the inner HTML {/*dangerously-setting-the-inner-html*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-31`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Dangerously setting the inner HTML {/*dangerously-setting-the-inner-html*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-32`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Handling mouse events {/*handling-mouse-events*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-33`
+- css example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Handling mouse events {/*handling-mouse-events*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-34`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Handling pointer events {/*handling-pointer-events*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-35`
+- css example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Handling pointer events {/*handling-pointer-events*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-36`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Handling focus events {/*handling-focus-events*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-37`
+- css example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Handling focus events {/*handling-focus-events*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-38`
+- js example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Handling keyboard events {/*handling-keyboard-events*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-39`
+- css example in [reference/react-dom/components/common.md](./reference/react-dom/components/common.md)
+  - Section: Handling keyboard events {/*handling-keyboard-events*/}
+  - Snippet id: `reference/react-dom/components/common.md#snippet-40`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: form.md
+  - Snippet id: `reference/react-dom/components/form.md#snippet-1`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: `<form>` {/*form*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-2`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Handle form submission with an event handler {/*handle-form-submission-with-an-event-handler*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-3`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Handle form submission with an action prop {/*handle-form-submission-with-an-action-prop*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-4`
+- jsx example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Handle form submission with a Server Function {/*handle-form-submission-with-a-server-function*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-5`
+- jsx example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Handle form submission with a Server Function {/*handle-form-submission-with-a-server-function*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-6`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Display a pending state during form submission {/*display-a-pending-state-during-form-submission*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-7`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Display a pending state during form submission {/*display-a-pending-state-during-form-submission*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-8`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Optimistically updating form data {/*optimistically-updating-form-data*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-9`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Optimistically updating form data {/*optimistically-updating-form-data*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-10`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Handling form submission errors {/*handling-form-submission-errors*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-11`
+- json example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Handling form submission errors {/*handling-form-submission-errors*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-12`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Display a form submission error without JavaScript {/*display-a-form-submission-error-without-javascript*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-13`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Display a form submission error without JavaScript {/*display-a-form-submission-error-without-javascript*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-14`
+- js example in [reference/react-dom/components/form.md](./reference/react-dom/components/form.md)
+  - Section: Handling multiple submission types {/*handling-multiple-submission-types*/}
+  - Snippet id: `reference/react-dom/components/form.md#snippet-15`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: input.md
+  - Snippet id: `reference/react-dom/components/input.md#snippet-1`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: `<input>` {/*input*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-2`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Displaying inputs of different types {/*displaying-inputs-of-different-types*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-3`
+- css example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Displaying inputs of different types {/*displaying-inputs-of-different-types*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-4`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Providing a label for an input {/*providing-a-label-for-an-input*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-5`
+- css example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Providing a label for an input {/*providing-a-label-for-an-input*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-6`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Providing an initial value for an input {/*providing-an-initial-value-for-an-input*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-7`
+- css example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Providing an initial value for an input {/*providing-an-initial-value-for-an-input*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-8`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Reading the input values when submitting a form {/*reading-the-input-values-when-submitting-a-form*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-9`
+- css example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Reading the input values when submitting a form {/*reading-the-input-values-when-submitting-a-form*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-10`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Controlling an input with a state variable {/*controlling-an-input-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-11`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Controlling an input with a state variable {/*controlling-an-input-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-12`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Controlling an input with a state variable {/*controlling-an-input-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-13`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Controlling an input with a state variable {/*controlling-an-input-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-14`
+- css example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Controlling an input with a state variable {/*controlling-an-input-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-15`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Optimizing re-rendering on every keystroke {/*optimizing-re-rendering-on-every-keystroke*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-16`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: Optimizing re-rendering on every keystroke {/*optimizing-re-rendering-on-every-keystroke*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-17`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My text input doesn't update when I type into it {/*my-text-input-doesnt-update-when-i-type-into-it*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-18`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My text input doesn't update when I type into it {/*my-text-input-doesnt-update-when-i-type-into-it*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-19`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My text input doesn't update when I type into it {/*my-text-input-doesnt-update-when-i-type-into-it*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-20`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My text input doesn't update when I type into it {/*my-text-input-doesnt-update-when-i-type-into-it*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-21`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My checkbox doesn't update when I click on it {/*my-checkbox-doesnt-update-when-i-click-on-it*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-22`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My checkbox doesn't update when I click on it {/*my-checkbox-doesnt-update-when-i-click-on-it*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-23`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My checkbox doesn't update when I click on it {/*my-checkbox-doesnt-update-when-i-click-on-it*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-24`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My checkbox doesn't update when I click on it {/*my-checkbox-doesnt-update-when-i-click-on-it*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-25`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My input caret jumps to the beginning on every keystroke {/*my-input-caret-jumps-to-the-beginning-on-every-keystroke*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-26`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My input caret jumps to the beginning on every keystroke {/*my-input-caret-jumps-to-the-beginning-on-every-keystroke*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-27`
+- js example in [reference/react-dom/components/input.md](./reference/react-dom/components/input.md)
+  - Section: My input caret jumps to the beginning on every keystroke {/*my-input-caret-jumps-to-the-beginning-on-every-keystroke*/}
+  - Snippet id: `reference/react-dom/components/input.md#snippet-28`
+- js example in [reference/react-dom/components/link.md](./reference/react-dom/components/link.md)
+  - Section: link.md
+  - Snippet id: `reference/react-dom/components/link.md#snippet-1`
+- js example in [reference/react-dom/components/link.md](./reference/react-dom/components/link.md)
+  - Section: `<link>` {/*link*/}
+  - Snippet id: `reference/react-dom/components/link.md#snippet-2`
+- js example in [reference/react-dom/components/link.md](./reference/react-dom/components/link.md)
+  - Section: Linking to related resources {/*linking-to-related-resources*/}
+  - Snippet id: `reference/react-dom/components/link.md#snippet-3`
+- js example in [reference/react-dom/components/link.md](./reference/react-dom/components/link.md)
+  - Section: Linking to a stylesheet {/*linking-to-a-stylesheet*/}
+  - Snippet id: `reference/react-dom/components/link.md#snippet-4`
+- js example in [reference/react-dom/components/link.md](./reference/react-dom/components/link.md)
+  - Section: Controlling stylesheet precedence {/*controlling-stylesheet-precedence*/}
+  - Snippet id: `reference/react-dom/components/link.md#snippet-5`
+- js example in [reference/react-dom/components/link.md](./reference/react-dom/components/link.md)
+  - Section: Deduplicated stylesheet rendering {/*deduplicated-stylesheet-rendering*/}
+  - Snippet id: `reference/react-dom/components/link.md#snippet-6`
+- js example in [reference/react-dom/components/link.md](./reference/react-dom/components/link.md)
+  - Section: Annotating specific items within the document with links {/*annotating-specific-items-within-the-document-with-links*/}
+  - Snippet id: `reference/react-dom/components/link.md#snippet-7`
+- js example in [reference/react-dom/components/meta.md](./reference/react-dom/components/meta.md)
+  - Section: meta.md
+  - Snippet id: `reference/react-dom/components/meta.md#snippet-1`
+- js example in [reference/react-dom/components/meta.md](./reference/react-dom/components/meta.md)
+  - Section: `<meta>` {/*meta*/}
+  - Snippet id: `reference/react-dom/components/meta.md#snippet-2`
+- html example in [reference/react-dom/components/meta.md](./reference/react-dom/components/meta.md)
+  - Section: Annotating the document with metadata {/*annotating-the-document-with-metadata*/}
+  - Snippet id: `reference/react-dom/components/meta.md#snippet-3`
+- js example in [reference/react-dom/components/meta.md](./reference/react-dom/components/meta.md)
+  - Section: Annotating the document with metadata {/*annotating-the-document-with-metadata*/}
+  - Snippet id: `reference/react-dom/components/meta.md#snippet-4`
+- js example in [reference/react-dom/components/meta.md](./reference/react-dom/components/meta.md)
+  - Section: Annotating specific items within the document with metadata {/*annotating-specific-items-within-the-document-with-metadata*/}
+  - Snippet id: `reference/react-dom/components/meta.md#snippet-5`
+- js example in [reference/react-dom/components/option.md](./reference/react-dom/components/option.md)
+  - Section: option.md
+  - Snippet id: `reference/react-dom/components/option.md#snippet-1`
+- js example in [reference/react-dom/components/option.md](./reference/react-dom/components/option.md)
+  - Section: `<option>` {/*option*/}
+  - Snippet id: `reference/react-dom/components/option.md#snippet-2`
+- js example in [reference/react-dom/components/option.md](./reference/react-dom/components/option.md)
+  - Section: Displaying a select box with options {/*displaying-a-select-box-with-options*/}
+  - Snippet id: `reference/react-dom/components/option.md#snippet-3`
+- css example in [reference/react-dom/components/option.md](./reference/react-dom/components/option.md)
+  - Section: Displaying a select box with options {/*displaying-a-select-box-with-options*/}
+  - Snippet id: `reference/react-dom/components/option.md#snippet-4`
+- js example in [reference/react-dom/components/progress.md](./reference/react-dom/components/progress.md)
+  - Section: progress.md
+  - Snippet id: `reference/react-dom/components/progress.md#snippet-1`
+- js example in [reference/react-dom/components/progress.md](./reference/react-dom/components/progress.md)
+  - Section: `<progress>` {/*progress*/}
+  - Snippet id: `reference/react-dom/components/progress.md#snippet-2`
+- js example in [reference/react-dom/components/progress.md](./reference/react-dom/components/progress.md)
+  - Section: Controlling a progress indicator {/*controlling-a-progress-indicator*/}
+  - Snippet id: `reference/react-dom/components/progress.md#snippet-3`
+- css example in [reference/react-dom/components/progress.md](./reference/react-dom/components/progress.md)
+  - Section: Controlling a progress indicator {/*controlling-a-progress-indicator*/}
+  - Snippet id: `reference/react-dom/components/progress.md#snippet-4`
+- js example in [reference/react-dom/components/script.md](./reference/react-dom/components/script.md)
+  - Section: script.md
+  - Snippet id: `reference/react-dom/components/script.md#snippet-1`
+- js example in [reference/react-dom/components/script.md](./reference/react-dom/components/script.md)
+  - Section: `<script>` {/*script*/}
+  - Snippet id: `reference/react-dom/components/script.md#snippet-2`
+- js example in [reference/react-dom/components/script.md](./reference/react-dom/components/script.md)
+  - Section: Rendering an external script {/*rendering-an-external-script*/}
+  - Snippet id: `reference/react-dom/components/script.md#snippet-3`
+- js example in [reference/react-dom/components/script.md](./reference/react-dom/components/script.md)
+  - Section: Rendering an inline script {/*rendering-an-inline-script*/}
+  - Snippet id: `reference/react-dom/components/script.md#snippet-4`
+- js example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: select.md
+  - Snippet id: `reference/react-dom/components/select.md#snippet-1`
+- js example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: `<select>` {/*select*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-2`
+- js example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Displaying a select box with options {/*displaying-a-select-box-with-options*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-3`
+- css example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Displaying a select box with options {/*displaying-a-select-box-with-options*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-4`
+- js example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Providing a label for a select box {/*providing-a-label-for-a-select-box*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-5`
+- css example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Providing a label for a select box {/*providing-a-label-for-a-select-box*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-6`
+- js example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Providing an initially selected option {/*providing-an-initially-selected-option*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-7`
+- css example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Providing an initially selected option {/*providing-an-initially-selected-option*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-8`
+- js example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Enabling multiple selection {/*enabling-multiple-selection*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-9`
+- css example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Enabling multiple selection {/*enabling-multiple-selection*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-10`
+- js example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Reading the select box value when submitting a form {/*reading-the-select-box-value-when-submitting-a-form*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-11`
+- css example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Reading the select box value when submitting a form {/*reading-the-select-box-value-when-submitting-a-form*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-12`
+- js example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Controlling a select box with a state variable {/*controlling-a-select-box-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-13`
+- js example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Controlling a select box with a state variable {/*controlling-a-select-box-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-14`
+- css example in [reference/react-dom/components/select.md](./reference/react-dom/components/select.md)
+  - Section: Controlling a select box with a state variable {/*controlling-a-select-box-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/select.md#snippet-15`
+- js example in [reference/react-dom/components/style.md](./reference/react-dom/components/style.md)
+  - Section: style.md
+  - Snippet id: `reference/react-dom/components/style.md#snippet-1`
+- js example in [reference/react-dom/components/style.md](./reference/react-dom/components/style.md)
+  - Section: `<style>` {/*style*/}
+  - Snippet id: `reference/react-dom/components/style.md#snippet-2`
+- js example in [reference/react-dom/components/style.md](./reference/react-dom/components/style.md)
+  - Section: Rendering an inline CSS stylesheet {/*rendering-an-inline-css-stylesheet*/}
+  - Snippet id: `reference/react-dom/components/style.md#snippet-3`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: textarea.md
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-1`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: `<textarea>` {/*textarea*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-2`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Displaying a text area {/*displaying-a-text-area*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-3`
+- css example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Displaying a text area {/*displaying-a-text-area*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-4`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Providing a label for a text area {/*providing-a-label-for-a-text-area*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-5`
+- css example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Providing a label for a text area {/*providing-a-label-for-a-text-area*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-6`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Providing an initial value for a text area {/*providing-an-initial-value-for-a-text-area*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-7`
+- css example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Providing an initial value for a text area {/*providing-an-initial-value-for-a-text-area*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-8`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Reading the text area value when submitting a form {/*reading-the-text-area-value-when-submitting-a-form*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-9`
+- css example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Reading the text area value when submitting a form {/*reading-the-text-area-value-when-submitting-a-form*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-10`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Controlling a text area with a state variable {/*controlling-a-text-area-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-11`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Controlling a text area with a state variable {/*controlling-a-text-area-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-12`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Controlling a text area with a state variable {/*controlling-a-text-area-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-13`
+- json example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Controlling a text area with a state variable {/*controlling-a-text-area-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-14`
+- css example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: Controlling a text area with a state variable {/*controlling-a-text-area-with-a-state-variable*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-15`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: My text area doesn't update when I type into it {/*my-text-area-doesnt-update-when-i-type-into-it*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-16`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: My text area doesn't update when I type into it {/*my-text-area-doesnt-update-when-i-type-into-it*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-17`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: My text area doesn't update when I type into it {/*my-text-area-doesnt-update-when-i-type-into-it*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-18`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: My text area doesn't update when I type into it {/*my-text-area-doesnt-update-when-i-type-into-it*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-19`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: My text area caret jumps to the beginning on every keystroke {/*my-text-area-caret-jumps-to-the-beginning-on-every-keystroke*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-20`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: My text area caret jumps to the beginning on every keystroke {/*my-text-area-caret-jumps-to-the-beginning-on-every-keystroke*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-21`
+- js example in [reference/react-dom/components/textarea.md](./reference/react-dom/components/textarea.md)
+  - Section: My text area caret jumps to the beginning on every keystroke {/*my-text-area-caret-jumps-to-the-beginning-on-every-keystroke*/}
+  - Snippet id: `reference/react-dom/components/textarea.md#snippet-22`
+- js example in [reference/react-dom/components/title.md](./reference/react-dom/components/title.md)
+  - Section: title.md
+  - Snippet id: `reference/react-dom/components/title.md#snippet-1`
+- js example in [reference/react-dom/components/title.md](./reference/react-dom/components/title.md)
+  - Section: `<title>` {/*title*/}
+  - Snippet id: `reference/react-dom/components/title.md#snippet-2`
+- js example in [reference/react-dom/components/title.md](./reference/react-dom/components/title.md)
+  - Section: Set the document title {/*set-the-document-title*/}
+  - Snippet id: `reference/react-dom/components/title.md#snippet-3`
+- js example in [reference/react-dom/components/title.md](./reference/react-dom/components/title.md)
+  - Section: Use variables in the title {/*use-variables-in-the-title*/}
+  - Snippet id: `reference/react-dom/components/title.md#snippet-4`
+- js example in [reference/react-dom/components/title.md](./reference/react-dom/components/title.md)
+  - Section: Use variables in the title {/*use-variables-in-the-title*/}
+  - Snippet id: `reference/react-dom/components/title.md#snippet-5`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: createPortal.md
+  - Snippet id: `reference/react-dom/createportal.md#snippet-1`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: `createPortal(children, domNode, key?)` {/*createportal*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-2`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering to a different part of the DOM {/*rendering-to-a-different-part-of-the-dom*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-3`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering to a different part of the DOM {/*rendering-to-a-different-part-of-the-dom*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-4`
+- html example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering to a different part of the DOM {/*rendering-to-a-different-part-of-the-dom*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-5`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering a modal dialog with a portal {/*rendering-a-modal-dialog-with-a-portal*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-6`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering a modal dialog with a portal {/*rendering-a-modal-dialog-with-a-portal*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-7`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering a modal dialog with a portal {/*rendering-a-modal-dialog-with-a-portal*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-8`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering a modal dialog with a portal {/*rendering-a-modal-dialog-with-a-portal*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-9`
+- css example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering a modal dialog with a portal {/*rendering-a-modal-dialog-with-a-portal*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-10`
+- html example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React server markup {/*rendering-react-components-into-non-react-server-markup*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-11`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React server markup {/*rendering-react-components-into-non-react-server-markup*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-12`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React server markup {/*rendering-react-components-into-non-react-server-markup*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-13`
+- css example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React server markup {/*rendering-react-components-into-non-react-server-markup*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-14`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React DOM nodes {/*rendering-react-components-into-non-react-dom-nodes*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-15`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React DOM nodes {/*rendering-react-components-into-non-react-dom-nodes*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-16`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React DOM nodes {/*rendering-react-components-into-non-react-dom-nodes*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-17`
+- json example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React DOM nodes {/*rendering-react-components-into-non-react-dom-nodes*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-18`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React DOM nodes {/*rendering-react-components-into-non-react-dom-nodes*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-19`
+- js example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React DOM nodes {/*rendering-react-components-into-non-react-dom-nodes*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-20`
+- css example in [reference/react-dom/createportal.md](./reference/react-dom/createportal.md)
+  - Section: Rendering React components into non-React DOM nodes {/*rendering-react-components-into-non-react-dom-nodes*/}
+  - Snippet id: `reference/react-dom/createportal.md#snippet-21`
+- js example in [reference/react-dom/flushsync.md](./reference/react-dom/flushsync.md)
+  - Section: flushSync.md
+  - Snippet id: `reference/react-dom/flushsync.md#snippet-1`
+- js example in [reference/react-dom/flushsync.md](./reference/react-dom/flushsync.md)
+  - Section: `flushSync(callback)` {/*flushsync*/}
+  - Snippet id: `reference/react-dom/flushsync.md#snippet-2`
+- js example in [reference/react-dom/flushsync.md](./reference/react-dom/flushsync.md)
+  - Section: Flushing updates for third-party integrations {/*flushing-updates-for-third-party-integrations*/}
+  - Snippet id: `reference/react-dom/flushsync.md#snippet-3`
+- js example in [reference/react-dom/flushsync.md](./reference/react-dom/flushsync.md)
+  - Section: Flushing updates for third-party integrations {/*flushing-updates-for-third-party-integrations*/}
+  - Snippet id: `reference/react-dom/flushsync.md#snippet-4`
+- js example in [reference/react-dom/flushsync.md](./reference/react-dom/flushsync.md)
+  - Section: I'm getting an error: "flushSync was called from inside a lifecycle method" {/*im-getting-an-error-flushsync-was-called-from-inside-a-lifecycle-method*/}
+  - Snippet id: `reference/react-dom/flushsync.md#snippet-5`
+- js example in [reference/react-dom/flushsync.md](./reference/react-dom/flushsync.md)
+  - Section: I'm getting an error: "flushSync was called from inside a lifecycle method" {/*im-getting-an-error-flushsync-was-called-from-inside-a-lifecycle-method*/}
+  - Snippet id: `reference/react-dom/flushsync.md#snippet-6`
+- js example in [reference/react-dom/flushsync.md](./reference/react-dom/flushsync.md)
+  - Section: I'm getting an error: "flushSync was called from inside a lifecycle method" {/*im-getting-an-error-flushsync-was-called-from-inside-a-lifecycle-method*/}
+  - Snippet id: `reference/react-dom/flushsync.md#snippet-7`
+- js example in [reference/react-dom/hooks.md](./reference/react-dom/hooks.md)
+  - Section: Form Hooks {/*form-hooks*/}
+  - Snippet id: `reference/react-dom/hooks.md#snippet-1`
+- js example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: useFormStatus.md
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-1`
+- js example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: `useFormStatus()` {/*use-form-status*/}
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-2`
+- js example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: Display a pending state during form submission {/*display-a-pending-state-during-form-submission*/}
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-3`
+- js example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: Display a pending state during form submission {/*display-a-pending-state-during-form-submission*/}
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-4`
+- js example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: `useFormStatus` will not return status information for a `<form>` rendered in the same component. {/*useformstatus-will-not-return-status-information-for-a-form-rendered-in-the-same-component*/}
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-5`
+- js example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: `useFormStatus` will not return status information for a `<form>` rendered in the same component. {/*useformstatus-will-not-return-status-information-for-a-form-rendered-in-the-same-component*/}
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-6`
+- js example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: Read the form data being submitted {/*read-form-data-being-submitted*/}
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-7`
+- js example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: Read the form data being submitted {/*read-form-data-being-submitted*/}
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-8`
+- js example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: Read the form data being submitted {/*read-form-data-being-submitted*/}
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-9`
+- css example in [reference/react-dom/hooks/useformstatus.md](./reference/react-dom/hooks/useformstatus.md)
+  - Section: Read the form data being submitted {/*read-form-data-being-submitted*/}
+  - Snippet id: `reference/react-dom/hooks/useformstatus.md#snippet-10`
+- js example in [reference/react-dom/preconnect.md](./reference/react-dom/preconnect.md)
+  - Section: preconnect.md
+  - Snippet id: `reference/react-dom/preconnect.md#snippet-1`
+- js example in [reference/react-dom/preconnect.md](./reference/react-dom/preconnect.md)
+  - Section: `preconnect(href)` {/*preconnect*/}
+  - Snippet id: `reference/react-dom/preconnect.md#snippet-2`
+- js example in [reference/react-dom/preconnect.md](./reference/react-dom/preconnect.md)
+  - Section: Preconnecting when rendering {/*preconnecting-when-rendering*/}
+  - Snippet id: `reference/react-dom/preconnect.md#snippet-3`
+- js example in [reference/react-dom/preconnect.md](./reference/react-dom/preconnect.md)
+  - Section: Preconnecting in an event handler {/*preconnecting-in-an-event-handler*/}
+  - Snippet id: `reference/react-dom/preconnect.md#snippet-4`
+- js example in [reference/react-dom/prefetchdns.md](./reference/react-dom/prefetchdns.md)
+  - Section: prefetchDNS.md
+  - Snippet id: `reference/react-dom/prefetchdns.md#snippet-1`
+- js example in [reference/react-dom/prefetchdns.md](./reference/react-dom/prefetchdns.md)
+  - Section: `prefetchDNS(href)` {/*prefetchdns*/}
+  - Snippet id: `reference/react-dom/prefetchdns.md#snippet-2`
+- js example in [reference/react-dom/prefetchdns.md](./reference/react-dom/prefetchdns.md)
+  - Section: Prefetching DNS when rendering {/*prefetching-dns-when-rendering*/}
+  - Snippet id: `reference/react-dom/prefetchdns.md#snippet-3`
+- js example in [reference/react-dom/prefetchdns.md](./reference/react-dom/prefetchdns.md)
+  - Section: Prefetching DNS in an event handler {/*prefetching-dns-in-an-event-handler*/}
+  - Snippet id: `reference/react-dom/prefetchdns.md#snippet-4`
+- js example in [reference/react-dom/preinit.md](./reference/react-dom/preinit.md)
+  - Section: preinit.md
+  - Snippet id: `reference/react-dom/preinit.md#snippet-1`
+- js example in [reference/react-dom/preinit.md](./reference/react-dom/preinit.md)
+  - Section: `preinit(href, options)` {/*preinit*/}
+  - Snippet id: `reference/react-dom/preinit.md#snippet-2`
+- js example in [reference/react-dom/preinit.md](./reference/react-dom/preinit.md)
+  - Section: Preiniting an external script {/*preiniting-an-external-script*/}
+  - Snippet id: `reference/react-dom/preinit.md#snippet-3`
+- js example in [reference/react-dom/preinit.md](./reference/react-dom/preinit.md)
+  - Section: Preiniting a stylesheet {/*preiniting-a-stylesheet*/}
+  - Snippet id: `reference/react-dom/preinit.md#snippet-4`
+- js example in [reference/react-dom/preinit.md](./reference/react-dom/preinit.md)
+  - Section: Preiniting in an event handler {/*preiniting-in-an-event-handler*/}
+  - Snippet id: `reference/react-dom/preinit.md#snippet-5`
+- js example in [reference/react-dom/preinitmodule.md](./reference/react-dom/preinitmodule.md)
+  - Section: preinitModule.md
+  - Snippet id: `reference/react-dom/preinitmodule.md#snippet-1`
+- js example in [reference/react-dom/preinitmodule.md](./reference/react-dom/preinitmodule.md)
+  - Section: `preinitModule(href, options)` {/*preinitmodule*/}
+  - Snippet id: `reference/react-dom/preinitmodule.md#snippet-2`
+- js example in [reference/react-dom/preinitmodule.md](./reference/react-dom/preinitmodule.md)
+  - Section: Preloading when rendering {/*preloading-when-rendering*/}
+  - Snippet id: `reference/react-dom/preinitmodule.md#snippet-3`
+- js example in [reference/react-dom/preinitmodule.md](./reference/react-dom/preinitmodule.md)
+  - Section: Preloading in an event handler {/*preloading-in-an-event-handler*/}
+  - Snippet id: `reference/react-dom/preinitmodule.md#snippet-4`
+- js example in [reference/react-dom/preload.md](./reference/react-dom/preload.md)
+  - Section: preload.md
+  - Snippet id: `reference/react-dom/preload.md#snippet-1`
+- js example in [reference/react-dom/preload.md](./reference/react-dom/preload.md)
+  - Section: `preload(href, options)` {/*preload*/}
+  - Snippet id: `reference/react-dom/preload.md#snippet-2`
+- js example in [reference/react-dom/preload.md](./reference/react-dom/preload.md)
+  - Section: Preloading an external script {/*preloading-an-external-script*/}
+  - Snippet id: `reference/react-dom/preload.md#snippet-3`
+- js example in [reference/react-dom/preload.md](./reference/react-dom/preload.md)
+  - Section: Preloading a stylesheet {/*preloading-a-stylesheet*/}
+  - Snippet id: `reference/react-dom/preload.md#snippet-4`
+- js example in [reference/react-dom/preload.md](./reference/react-dom/preload.md)
+  - Section: Preloading a font {/*preloading-a-font*/}
+  - Snippet id: `reference/react-dom/preload.md#snippet-5`
+- js example in [reference/react-dom/preload.md](./reference/react-dom/preload.md)
+  - Section: Preloading an image {/*preloading-an-image*/}
+  - Snippet id: `reference/react-dom/preload.md#snippet-6`
+- js example in [reference/react-dom/preload.md](./reference/react-dom/preload.md)
+  - Section: Preloading in an event handler {/*preloading-in-an-event-handler*/}
+  - Snippet id: `reference/react-dom/preload.md#snippet-7`
+- js example in [reference/react-dom/preloadmodule.md](./reference/react-dom/preloadmodule.md)
+  - Section: preloadModule.md
+  - Snippet id: `reference/react-dom/preloadmodule.md#snippet-1`
+- js example in [reference/react-dom/preloadmodule.md](./reference/react-dom/preloadmodule.md)
+  - Section: `preloadModule(href, options)` {/*preloadmodule*/}
+  - Snippet id: `reference/react-dom/preloadmodule.md#snippet-2`
+- js example in [reference/react-dom/preloadmodule.md](./reference/react-dom/preloadmodule.md)
+  - Section: Preloading when rendering {/*preloading-when-rendering*/}
+  - Snippet id: `reference/react-dom/preloadmodule.md#snippet-3`
+- js example in [reference/react-dom/preloadmodule.md](./reference/react-dom/preloadmodule.md)
+  - Section: Preloading in an event handler {/*preloading-in-an-event-handler*/}
+  - Snippet id: `reference/react-dom/preloadmodule.md#snippet-4`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: renderToPipeableStream.md
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-1`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: `renderToPipeableStream(reactNode, options?)` {/*rendertopipeablestream*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-2`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Rendering a React tree as HTML to a Node.js Stream {/*rendering-a-react-tree-as-html-to-a-nodejs-stream*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-3`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Rendering a React tree as HTML to a Node.js Stream {/*rendering-a-react-tree-as-html-to-a-nodejs-stream*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-4`
+- html example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Rendering a React tree as HTML to a Node.js Stream {/*rendering-a-react-tree-as-html-to-a-nodejs-stream*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-5`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Rendering a React tree as HTML to a Node.js Stream {/*rendering-a-react-tree-as-html-to-a-nodejs-stream*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-6`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-7`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-8`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-9`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-10`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Streaming more content as it loads {/*streaming-more-content-as-it-loads*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-11`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Streaming more content as it loads {/*streaming-more-content-as-it-loads*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-12`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Streaming more content as it loads {/*streaming-more-content-as-it-loads*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-13`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Specifying what goes into the shell {/*specifying-what-goes-into-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-14`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Specifying what goes into the shell {/*specifying-what-goes-into-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-15`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Specifying what goes into the shell {/*specifying-what-goes-into-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-16`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Logging crashes on the server {/*logging-crashes-on-the-server*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-17`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Recovering from errors inside the shell {/*recovering-from-errors-inside-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-18`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Recovering from errors inside the shell {/*recovering-from-errors-inside-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-19`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Recovering from errors outside the shell {/*recovering-from-errors-outside-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-20`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Setting the status code {/*setting-the-status-code*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-21`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Setting the status code {/*setting-the-status-code*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-22`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Handling different errors in different ways {/*handling-different-errors-in-different-ways*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-23`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Waiting for all content to load for crawlers and static generation {/*waiting-for-all-content-to-load-for-crawlers-and-static-generation*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-24`
+- js example in [reference/react-dom/server/rendertopipeablestream.md](./reference/react-dom/server/rendertopipeablestream.md)
+  - Section: Aborting server rendering {/*aborting-server-rendering*/}
+  - Snippet id: `reference/react-dom/server/rendertopipeablestream.md#snippet-25`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: renderToReadableStream.md
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-1`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: `renderToReadableStream(reactNode, options?)` {/*rendertoreadablestream*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-2`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Rendering a React tree as HTML to a Readable Web Stream {/*rendering-a-react-tree-as-html-to-a-readable-web-stream*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-3`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Rendering a React tree as HTML to a Readable Web Stream {/*rendering-a-react-tree-as-html-to-a-readable-web-stream*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-4`
+- html example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Rendering a React tree as HTML to a Readable Web Stream {/*rendering-a-react-tree-as-html-to-a-readable-web-stream*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-5`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Rendering a React tree as HTML to a Readable Web Stream {/*rendering-a-react-tree-as-html-to-a-readable-web-stream*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-6`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-7`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-8`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-9`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-10`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Streaming more content as it loads {/*streaming-more-content-as-it-loads*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-11`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Streaming more content as it loads {/*streaming-more-content-as-it-loads*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-12`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Streaming more content as it loads {/*streaming-more-content-as-it-loads*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-13`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Specifying what goes into the shell {/*specifying-what-goes-into-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-14`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Specifying what goes into the shell {/*specifying-what-goes-into-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-15`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Specifying what goes into the shell {/*specifying-what-goes-into-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-16`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Logging crashes on the server {/*logging-crashes-on-the-server*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-17`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Recovering from errors inside the shell {/*recovering-from-errors-inside-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-18`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Recovering from errors inside the shell {/*recovering-from-errors-inside-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-19`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Recovering from errors outside the shell {/*recovering-from-errors-outside-the-shell*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-20`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Setting the status code {/*setting-the-status-code*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-21`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Setting the status code {/*setting-the-status-code*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-22`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Handling different errors in different ways {/*handling-different-errors-in-different-ways*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-23`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Waiting for all content to load for crawlers and static generation {/*waiting-for-all-content-to-load-for-crawlers-and-static-generation*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-24`
+- js example in [reference/react-dom/server/rendertoreadablestream.md](./reference/react-dom/server/rendertoreadablestream.md)
+  - Section: Aborting server rendering {/*aborting-server-rendering*/}
+  - Snippet id: `reference/react-dom/server/rendertoreadablestream.md#snippet-25`
+- js example in [reference/react-dom/server/rendertostaticmarkup.md](./reference/react-dom/server/rendertostaticmarkup.md)
+  - Section: renderToStaticMarkup.md
+  - Snippet id: `reference/react-dom/server/rendertostaticmarkup.md#snippet-1`
+- js example in [reference/react-dom/server/rendertostaticmarkup.md](./reference/react-dom/server/rendertostaticmarkup.md)
+  - Section: `renderToStaticMarkup(reactNode, options?)` {/*rendertostaticmarkup*/}
+  - Snippet id: `reference/react-dom/server/rendertostaticmarkup.md#snippet-2`
+- js example in [reference/react-dom/server/rendertostaticmarkup.md](./reference/react-dom/server/rendertostaticmarkup.md)
+  - Section: Rendering a non-interactive React tree as HTML to a string {/*rendering-a-non-interactive-react-tree-as-html-to-a-string*/}
+  - Snippet id: `reference/react-dom/server/rendertostaticmarkup.md#snippet-3`
+- js example in [reference/react-dom/server/rendertostring.md](./reference/react-dom/server/rendertostring.md)
+  - Section: renderToString.md
+  - Snippet id: `reference/react-dom/server/rendertostring.md#snippet-1`
+- js example in [reference/react-dom/server/rendertostring.md](./reference/react-dom/server/rendertostring.md)
+  - Section: `renderToString(reactNode, options?)` {/*rendertostring*/}
+  - Snippet id: `reference/react-dom/server/rendertostring.md#snippet-2`
+- js example in [reference/react-dom/server/rendertostring.md](./reference/react-dom/server/rendertostring.md)
+  - Section: Rendering a React tree as HTML to a string {/*rendering-a-react-tree-as-html-to-a-string*/}
+  - Snippet id: `reference/react-dom/server/rendertostring.md#snippet-3`
+- js example in [reference/react-dom/server/rendertostring.md](./reference/react-dom/server/rendertostring.md)
+  - Section: Removing `renderToString` from the client code {/*removing-rendertostring-from-the-client-code*/}
+  - Snippet id: `reference/react-dom/server/rendertostring.md#snippet-4`
+- js example in [reference/react-dom/server/rendertostring.md](./reference/react-dom/server/rendertostring.md)
+  - Section: Removing `renderToString` from the client code {/*removing-rendertostring-from-the-client-code*/}
+  - Snippet id: `reference/react-dom/server/rendertostring.md#snippet-5`
+- js example in [reference/react-dom/server/resume.md](./reference/react-dom/server/resume.md)
+  - Section: resume.md
+  - Snippet id: `reference/react-dom/server/resume.md#snippet-1`
+- js example in [reference/react-dom/server/resume.md](./reference/react-dom/server/resume.md)
+  - Section: `resume(node, postponedState, options?)` {/*resume*/}
+  - Snippet id: `reference/react-dom/server/resume.md#snippet-2`
+- js example in [reference/react-dom/server/resume.md](./reference/react-dom/server/resume.md)
+  - Section: Resuming a prerender {/*resuming-a-prerender*/}
+  - Snippet id: `reference/react-dom/server/resume.md#snippet-3`
+- html example in [reference/react-dom/server/resume.md](./reference/react-dom/server/resume.md)
+  - Section: Resuming a prerender {/*resuming-a-prerender*/}
+  - Snippet id: `reference/react-dom/server/resume.md#snippet-4`
+- js example in [reference/react-dom/server/resume.md](./reference/react-dom/server/resume.md)
+  - Section: Resuming a prerender {/*resuming-a-prerender*/}
+  - Snippet id: `reference/react-dom/server/resume.md#snippet-5`
+- js example in [reference/react-dom/server/resume.md](./reference/react-dom/server/resume.md)
+  - Section: Resuming a prerender {/*resuming-a-prerender*/}
+  - Snippet id: `reference/react-dom/server/resume.md#snippet-6`
+- js example in [reference/react-dom/server/resumetopipeablestream.md](./reference/react-dom/server/resumetopipeablestream.md)
+  - Section: resumeToPipeableStream.md
+  - Snippet id: `reference/react-dom/server/resumetopipeablestream.md#snippet-1`
+- js example in [reference/react-dom/server/resumetopipeablestream.md](./reference/react-dom/server/resumetopipeablestream.md)
+  - Section: `resumeToPipeableStream(node, postponed, options?)` {/*resume-to-pipeable-stream*/}
+  - Snippet id: `reference/react-dom/server/resumetopipeablestream.md#snippet-2`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: prerender.md
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-1`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: `prerender(reactNode, options?)` {/*prerender*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-2`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Rendering a React tree to a stream of static HTML {/*rendering-a-react-tree-to-a-stream-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-3`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Rendering a React tree to a stream of static HTML {/*rendering-a-react-tree-to-a-stream-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-4`
+- html example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Rendering a React tree to a stream of static HTML {/*rendering-a-react-tree-to-a-stream-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-5`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Rendering a React tree to a stream of static HTML {/*rendering-a-react-tree-to-a-stream-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-6`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-7`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-8`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-9`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-10`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Rendering a React tree to a string of static HTML {/*rendering-a-react-tree-to-a-string-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-11`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Waiting for all data to load {/*waiting-for-all-data-to-load*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-12`
+- js example in [reference/react-dom/static/prerender.md](./reference/react-dom/static/prerender.md)
+  - Section: Aborting prerendering {/*aborting-prerendering*/}
+  - Snippet id: `reference/react-dom/static/prerender.md#snippet-13`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: prerenderToNodeStream.md
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-1`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: `prerenderToNodeStream(reactNode, options?)` {/*prerender*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-2`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Rendering a React tree to a stream of static HTML {/*rendering-a-react-tree-to-a-stream-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-3`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Rendering a React tree to a stream of static HTML {/*rendering-a-react-tree-to-a-stream-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-4`
+- html example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Rendering a React tree to a stream of static HTML {/*rendering-a-react-tree-to-a-stream-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-5`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Rendering a React tree to a stream of static HTML {/*rendering-a-react-tree-to-a-stream-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-6`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-7`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-8`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-9`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Reading CSS and JS asset paths from the build output {/*reading-css-and-js-asset-paths-from-the-build-output*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-10`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Rendering a React tree to a string of static HTML {/*rendering-a-react-tree-to-a-string-of-static-html*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-11`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Waiting for all data to load {/*waiting-for-all-data-to-load*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-12`
+- js example in [reference/react-dom/static/prerendertonodestream.md](./reference/react-dom/static/prerendertonodestream.md)
+  - Section: Aborting prerendering {/*aborting-prerendering*/}
+  - Snippet id: `reference/react-dom/static/prerendertonodestream.md#snippet-13`
+- js example in [reference/react-dom/static/resumeandprerender.md](./reference/react-dom/static/resumeandprerender.md)
+  - Section: resumeAndPrerender.md
+  - Snippet id: `reference/react-dom/static/resumeandprerender.md#snippet-1`
+- js example in [reference/react-dom/static/resumeandprerender.md](./reference/react-dom/static/resumeandprerender.md)
+  - Section: `resumeAndPrerender(reactNode, postponedState, options?)` {/*resumeandprerender*/}
+  - Snippet id: `reference/react-dom/static/resumeandprerender.md#snippet-2`
+- js example in [reference/react-dom/static/resumeandprerendertonodestream.md](./reference/react-dom/static/resumeandprerendertonodestream.md)
+  - Section: resumeAndPrerenderToNodeStream.md
+  - Snippet id: `reference/react-dom/static/resumeandprerendertonodestream.md#snippet-1`
+- js example in [reference/react-dom/static/resumeandprerendertonodestream.md](./reference/react-dom/static/resumeandprerendertonodestream.md)
+  - Section: `resumeAndPrerenderToNodeStream(reactNode, postponedState, options?)` {/*resumeandprerendertolnodestream*/}
+  - Snippet id: `reference/react-dom/static/resumeandprerendertonodestream.md#snippet-2`
+- js example in [reference/react/act.md](./reference/react/act.md)
+  - Section: act.md
+  - Snippet id: `reference/react/act.md#snippet-1`
+- js example in [reference/react/act.md](./reference/react/act.md)
+  - Section: `await act(async actFn)` {/*await-act-async-actfn*/}
+  - Snippet id: `reference/react/act.md#snippet-2`
+- js example in [reference/react/act.md](./reference/react/act.md)
+  - Section: Usage {/*usage*/}
+  - Snippet id: `reference/react/act.md#snippet-3`
+- js example in [reference/react/act.md](./reference/react/act.md)
+  - Section: Rendering components in tests {/*rendering-components-in-tests*/}
+  - Snippet id: `reference/react/act.md#snippet-4`
+- js example in [reference/react/act.md](./reference/react/act.md)
+  - Section: Dispatching events in tests {/*dispatching-events-in-tests*/}
+  - Snippet id: `reference/react/act.md#snippet-5`
+- js example in [reference/react/act.md](./reference/react/act.md)
+  - Section: I'm getting an error: "The current testing environment is not configured to support act(...)" {/*error-the-current-testing-environment-is-not-configured-to-support-act*/}
+  - Snippet id: `reference/react/act.md#snippet-6`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Activity.md
+  - Snippet id: `reference/react/activity.md#snippet-1`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: `<Activity>` {/*activity*/}
+  - Snippet id: `reference/react/activity.md#snippet-2`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the state of hidden components {/*restoring-the-state-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-3`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the state of hidden components {/*restoring-the-state-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-4`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the state of hidden components {/*restoring-the-state-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-5`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the state of hidden components {/*restoring-the-state-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-6`
+- css example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the state of hidden components {/*restoring-the-state-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-7`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the state of hidden components {/*restoring-the-state-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-8`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the state of hidden components {/*restoring-the-state-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-9`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the state of hidden components {/*restoring-the-state-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-10`
+- css example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the state of hidden components {/*restoring-the-state-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-11`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-12`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-13`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-14`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-15`
+- css example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-16`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-17`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-18`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-19`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-20`
+- css example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Restoring the DOM of hidden components {/*restoring-the-dom-of-hidden-components*/}
+  - Snippet id: `reference/react/activity.md#snippet-21`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-22`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-23`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-24`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-25`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-26`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-27`
+- css example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-28`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-29`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-30`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-31`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-32`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-33`
+- css example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Pre-rendering content that's likely to become visible {/*pre-rendering-content-thats-likely-to-become-visible*/}
+  - Snippet id: `reference/react/activity.md#snippet-34`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Speeding up interactions during page load {/*speeding-up-interactions-during-page-load*/}
+  - Snippet id: `reference/react/activity.md#snippet-35`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Speeding up interactions during page load {/*speeding-up-interactions-during-page-load*/}
+  - Snippet id: `reference/react/activity.md#snippet-36`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Speeding up interactions during page load {/*speeding-up-interactions-during-page-load*/}
+  - Snippet id: `reference/react/activity.md#snippet-37`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Speeding up interactions during page load {/*speeding-up-interactions-during-page-load*/}
+  - Snippet id: `reference/react/activity.md#snippet-38`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: Speeding up interactions during page load {/*speeding-up-interactions-during-page-load*/}
+  - Snippet id: `reference/react/activity.md#snippet-39`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-40`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-41`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-42`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-43`
+- css example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-44`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-45`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-46`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-47`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-48`
+- css example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-49`
+- jsx example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-50`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-51`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-52`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-53`
+- js example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-54`
+- css example in [reference/react/activity.md](./reference/react/activity.md)
+  - Section: My hidden components have unwanted side effects {/*my-hidden-components-have-unwanted-side-effects*/}
+  - Snippet id: `reference/react/activity.md#snippet-55`
+- js example in [reference/react/addtransitiontype.md](./reference/react/addtransitiontype.md)
+  - Section: addTransitionType.md
+  - Snippet id: `reference/react/addtransitiontype.md#snippet-1`
+- [[1, example in [reference/react/addtransitiontype.md](./reference/react/addtransitiontype.md)
+  - Section: Adding the cause of a transition {/*adding-the-cause-of-a-transition*/}
+  - Snippet id: `reference/react/addtransitiontype.md#snippet-2`
+- js example in [reference/react/addtransitiontype.md](./reference/react/addtransitiontype.md)
+  - Section: Customize animations using browser view transition types {/*customize-animations-using-browser-view-transition-types*/}
+  - Snippet id: `reference/react/addtransitiontype.md#snippet-3`
+- css example in [reference/react/addtransitiontype.md](./reference/react/addtransitiontype.md)
+  - Section: Customize animations using browser view transition types {/*customize-animations-using-browser-view-transition-types*/}
+  - Snippet id: `reference/react/addtransitiontype.md#snippet-4`
+- js example in [reference/react/addtransitiontype.md](./reference/react/addtransitiontype.md)
+  - Section: Customize animations using `View Transition` Class {/*customize-animations-using-view-transition-class*/}
+  - Snippet id: `reference/react/addtransitiontype.md#snippet-5`
+- js example in [reference/react/addtransitiontype.md](./reference/react/addtransitiontype.md)
+  - Section: Customize animations using `View Transition` Class {/*customize-animations-using-view-transition-class*/}
+  - Snippet id: `reference/react/addtransitiontype.md#snippet-6`
+- text example in [reference/react/addtransitiontype.md](./reference/react/addtransitiontype.md)
+  - Section: Customize animations using `ViewTransition` events {/*customize-animations-using-viewtransition-events*/}
+  - Snippet id: `reference/react/addtransitiontype.md#snippet-7`
+- js example in [reference/react/apis.md](./reference/react/apis.md)
+  - Section: Resource APIs {/*resource-apis*/}
+  - Snippet id: `reference/react/apis.md#snippet-1`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: cache.md
+  - Snippet id: `reference/react/cache.md#snippet-1`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: `cache(fn)` {/*cache*/}
+  - Snippet id: `reference/react/cache.md#snippet-2`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Cache an expensive computation {/*cache-expensive-computation*/}
+  - Snippet id: `reference/react/cache.md#snippet-3`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Calling different memoized functions will read from different caches. {/*pitfall-different-memoized-functions*/}
+  - Snippet id: `reference/react/cache.md#snippet-4`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Calling different memoized functions will read from different caches. {/*pitfall-different-memoized-functions*/}
+  - Snippet id: `reference/react/cache.md#snippet-5`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Calling different memoized functions will read from different caches. {/*pitfall-different-memoized-functions*/}
+  - Snippet id: `reference/react/cache.md#snippet-6`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Calling different memoized functions will read from different caches. {/*pitfall-different-memoized-functions*/}
+  - Snippet id: `reference/react/cache.md#snippet-7`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Calling different memoized functions will read from different caches. {/*pitfall-different-memoized-functions*/}
+  - Snippet id: `reference/react/cache.md#snippet-8`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Share a snapshot of data {/*take-and-share-snapshot-of-data*/}
+  - Snippet id: `reference/react/cache.md#snippet-9`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Share a snapshot of data {/*take-and-share-snapshot-of-data*/}
+  - Snippet id: `reference/react/cache.md#snippet-10`
+- jsx example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Preload data {/*preload-data*/}
+  - Snippet id: `reference/react/cache.md#snippet-11`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Caching asynchronous work {/*caching-asynchronous-work*/}
+  - Snippet id: `reference/react/cache.md#snippet-12`
+- jsx example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: Calling a memoized function outside of a component will not use the cache. {/*pitfall-memoized-call-outside-component*/}
+  - Snippet id: `reference/react/cache.md#snippet-13`
+- jsx example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: `useMemo` {/*deep-dive-use-memo*/}
+  - Snippet id: `reference/react/cache.md#snippet-14`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: `cache` {/*deep-dive-cache*/}
+  - Snippet id: `reference/react/cache.md#snippet-15`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: `memo` {/*deep-dive-memo*/}
+  - Snippet id: `reference/react/cache.md#snippet-16`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: My memoized function still runs even though I've called it with the same arguments {/*memoized-function-still-runs*/}
+  - Snippet id: `reference/react/cache.md#snippet-17`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: My memoized function still runs even though I've called it with the same arguments {/*memoized-function-still-runs*/}
+  - Snippet id: `reference/react/cache.md#snippet-18`
+- js example in [reference/react/cache.md](./reference/react/cache.md)
+  - Section: My memoized function still runs even though I've called it with the same arguments {/*memoized-function-still-runs*/}
+  - Snippet id: `reference/react/cache.md#snippet-19`
+- js example in [reference/react/cachesignal.md](./reference/react/cachesignal.md)
+  - Section: cacheSignal.md
+  - Snippet id: `reference/react/cachesignal.md#snippet-1`
+- js example in [reference/react/cachesignal.md](./reference/react/cachesignal.md)
+  - Section: `cacheSignal` {/*cachesignal*/}
+  - Snippet id: `reference/react/cachesignal.md#snippet-2`
+- js example in [reference/react/cachesignal.md](./reference/react/cachesignal.md)
+  - Section: Cancel in-flight requests {/*cancel-in-flight-requests*/}
+  - Snippet id: `reference/react/cachesignal.md#snippet-3`
+- js example in [reference/react/cachesignal.md](./reference/react/cachesignal.md)
+  - Section: Cancel in-flight requests {/*cancel-in-flight-requests*/}
+  - Snippet id: `reference/react/cachesignal.md#snippet-4`
+- js example in [reference/react/cachesignal.md](./reference/react/cachesignal.md)
+  - Section: Ignore errors after React has finished rendering {/*ignore-errors-after-react-has-finished-rendering*/}
+  - Snippet id: `reference/react/cachesignal.md#snippet-5`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: captureOwnerStack.md
+  - Snippet id: `reference/react/captureownerstack.md#snippet-1`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: `captureOwnerStack()` {/*captureownerstack*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-2`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Owner Stack vs Component Stack {/*owner-stack-vs-component-stack*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-3`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Owner Stack vs Component Stack {/*owner-stack-vs-component-stack*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-4`
+- html example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Owner Stack vs Component Stack {/*owner-stack-vs-component-stack*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-5`
+- text example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Owner Stack vs Component Stack {/*owner-stack-vs-component-stack*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-6`
+- text example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Owner Stack vs Component Stack {/*owner-stack-vs-component-stack*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-7`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Enhance a custom error overlay {/*enhance-a-custom-error-overlay*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-8`
+- css example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Enhance a custom error overlay {/*enhance-a-custom-error-overlay*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-9`
+- html example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Enhance a custom error overlay {/*enhance-a-custom-error-overlay*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-10`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Enhance a custom error overlay {/*enhance-a-custom-error-overlay*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-11`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Enhance a custom error overlay {/*enhance-a-custom-error-overlay*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-12`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: Enhance a custom error overlay {/*enhance-a-custom-error-overlay*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-13`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: The Owner Stack is `null` {/*the-owner-stack-is-null*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-14`
+- js example in [reference/react/captureownerstack.md](./reference/react/captureownerstack.md)
+  - Section: `captureOwnerStack` is not available {/*captureownerstack-is-not-available*/}
+  - Snippet id: `reference/react/captureownerstack.md#snippet-15`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Children.md
+  - Snippet id: `reference/react/children.md#snippet-1`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: `Children.count(children)` {/*children-count*/}
+  - Snippet id: `reference/react/children.md#snippet-2`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: `Children.forEach(children, fn, thisArg?)` {/*children-foreach*/}
+  - Snippet id: `reference/react/children.md#snippet-3`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: `Children.map(children, fn, thisArg?)` {/*children-map*/}
+  - Snippet id: `reference/react/children.md#snippet-4`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: `Children.only(children)` {/*children-only*/}
+  - Snippet id: `reference/react/children.md#snippet-5`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: `Children.toArray(children)` {/*children-toarray*/}
+  - Snippet id: `reference/react/children.md#snippet-6`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Transforming children {/*transforming-children*/}
+  - Snippet id: `reference/react/children.md#snippet-7`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Transforming children {/*transforming-children*/}
+  - Snippet id: `reference/react/children.md#snippet-8`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Transforming children {/*transforming-children*/}
+  - Snippet id: `reference/react/children.md#snippet-9`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Transforming children {/*transforming-children*/}
+  - Snippet id: `reference/react/children.md#snippet-10`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Transforming children {/*transforming-children*/}
+  - Snippet id: `reference/react/children.md#snippet-11`
+- css example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Transforming children {/*transforming-children*/}
+  - Snippet id: `reference/react/children.md#snippet-12`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Why is the children prop not always an array? {/*why-is-the-children-prop-not-always-an-array*/}
+  - Snippet id: `reference/react/children.md#snippet-13`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Why is the children prop not always an array? {/*why-is-the-children-prop-not-always-an-array*/}
+  - Snippet id: `reference/react/children.md#snippet-14`
+- css example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Why is the children prop not always an array? {/*why-is-the-children-prop-not-always-an-array*/}
+  - Snippet id: `reference/react/children.md#snippet-15`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Running some code for each child {/*running-some-code-for-each-child*/}
+  - Snippet id: `reference/react/children.md#snippet-16`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Running some code for each child {/*running-some-code-for-each-child*/}
+  - Snippet id: `reference/react/children.md#snippet-17`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Counting children {/*counting-children*/}
+  - Snippet id: `reference/react/children.md#snippet-18`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Counting children {/*counting-children*/}
+  - Snippet id: `reference/react/children.md#snippet-19`
+- css example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Counting children {/*counting-children*/}
+  - Snippet id: `reference/react/children.md#snippet-20`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Converting children to an array {/*converting-children-to-an-array*/}
+  - Snippet id: `reference/react/children.md#snippet-21`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Converting children to an array {/*converting-children-to-an-array*/}
+  - Snippet id: `reference/react/children.md#snippet-22`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Alternatives {/*alternatives*/}
+  - Snippet id: `reference/react/children.md#snippet-23`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Exposing multiple components {/*exposing-multiple-components*/}
+  - Snippet id: `reference/react/children.md#snippet-24`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Exposing multiple components {/*exposing-multiple-components*/}
+  - Snippet id: `reference/react/children.md#snippet-25`
+- css example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Exposing multiple components {/*exposing-multiple-components*/}
+  - Snippet id: `reference/react/children.md#snippet-26`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Exposing multiple components {/*exposing-multiple-components*/}
+  - Snippet id: `reference/react/children.md#snippet-27`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Exposing multiple components {/*exposing-multiple-components*/}
+  - Snippet id: `reference/react/children.md#snippet-28`
+- css example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Exposing multiple components {/*exposing-multiple-components*/}
+  - Snippet id: `reference/react/children.md#snippet-29`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Accepting an array of objects as a prop {/*accepting-an-array-of-objects-as-a-prop*/}
+  - Snippet id: `reference/react/children.md#snippet-30`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Accepting an array of objects as a prop {/*accepting-an-array-of-objects-as-a-prop*/}
+  - Snippet id: `reference/react/children.md#snippet-31`
+- css example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Accepting an array of objects as a prop {/*accepting-an-array-of-objects-as-a-prop*/}
+  - Snippet id: `reference/react/children.md#snippet-32`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Accepting an array of objects as a prop {/*accepting-an-array-of-objects-as-a-prop*/}
+  - Snippet id: `reference/react/children.md#snippet-33`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Accepting an array of objects as a prop {/*accepting-an-array-of-objects-as-a-prop*/}
+  - Snippet id: `reference/react/children.md#snippet-34`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Calling a render prop to customize rendering {/*calling-a-render-prop-to-customize-rendering*/}
+  - Snippet id: `reference/react/children.md#snippet-35`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Calling a render prop to customize rendering {/*calling-a-render-prop-to-customize-rendering*/}
+  - Snippet id: `reference/react/children.md#snippet-36`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Calling a render prop to customize rendering {/*calling-a-render-prop-to-customize-rendering*/}
+  - Snippet id: `reference/react/children.md#snippet-37`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Calling a render prop to customize rendering {/*calling-a-render-prop-to-customize-rendering*/}
+  - Snippet id: `reference/react/children.md#snippet-38`
+- css example in [reference/react/children.md](./reference/react/children.md)
+  - Section: Calling a render prop to customize rendering {/*calling-a-render-prop-to-customize-rendering*/}
+  - Snippet id: `reference/react/children.md#snippet-39`
+- js example in [reference/react/children.md](./reference/react/children.md)
+  - Section: I pass a custom component, but the `Children` methods don't show its render result {/*i-pass-a-custom-component-but-the-children-methods-dont-show-its-render-result*/}
+  - Snippet id: `reference/react/children.md#snippet-40`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: cloneElement.md
+  - Snippet id: `reference/react/cloneelement.md#snippet-1`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: `cloneElement(element, props, ...children)` {/*cloneelement*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-2`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Overriding props of an element {/*overriding-props-of-an-element*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-3`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Overriding props of an element {/*overriding-props-of-an-element*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-4`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Overriding props of an element {/*overriding-props-of-an-element*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-5`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Overriding props of an element {/*overriding-props-of-an-element*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-6`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Overriding props of an element {/*overriding-props-of-an-element*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-7`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Overriding props of an element {/*overriding-props-of-an-element*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-8`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Overriding props of an element {/*overriding-props-of-an-element*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-9`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Overriding props of an element {/*overriding-props-of-an-element*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-10`
+- css example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Overriding props of an element {/*overriding-props-of-an-element*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-11`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data with a render prop {/*passing-data-with-a-render-prop*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-12`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data with a render prop {/*passing-data-with-a-render-prop*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-13`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data with a render prop {/*passing-data-with-a-render-prop*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-14`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data with a render prop {/*passing-data-with-a-render-prop*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-15`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data with a render prop {/*passing-data-with-a-render-prop*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-16`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data with a render prop {/*passing-data-with-a-render-prop*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-17`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data with a render prop {/*passing-data-with-a-render-prop*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-18`
+- css example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data with a render prop {/*passing-data-with-a-render-prop*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-19`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-20`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-21`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-22`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-23`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-24`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-25`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-26`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-27`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-28`
+- css example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Passing data through context {/*passing-data-through-context*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-29`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Extracting logic into a custom Hook {/*extracting-logic-into-a-custom-hook*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-30`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Extracting logic into a custom Hook {/*extracting-logic-into-a-custom-hook*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-31`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Extracting logic into a custom Hook {/*extracting-logic-into-a-custom-hook*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-32`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Extracting logic into a custom Hook {/*extracting-logic-into-a-custom-hook*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-33`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Extracting logic into a custom Hook {/*extracting-logic-into-a-custom-hook*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-34`
+- js example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Extracting logic into a custom Hook {/*extracting-logic-into-a-custom-hook*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-35`
+- css example in [reference/react/cloneelement.md](./reference/react/cloneelement.md)
+  - Section: Extracting logic into a custom Hook {/*extracting-logic-into-a-custom-hook*/}
+  - Snippet id: `reference/react/cloneelement.md#snippet-36`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Component.md
+  - Snippet id: `reference/react/component.md#snippet-1`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `Component` {/*component*/}
+  - Snippet id: `reference/react/component.md#snippet-2`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `context` {/*context*/}
+  - Snippet id: `reference/react/component.md#snippet-3`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `props` {/*props*/}
+  - Snippet id: `reference/react/component.md#snippet-4`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `state` {/*state*/}
+  - Snippet id: `reference/react/component.md#snippet-5`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `constructor(props)` {/*constructor*/}
+  - Snippet id: `reference/react/component.md#snippet-6`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `constructor(props)` {/*constructor*/}
+  - Snippet id: `reference/react/component.md#snippet-7`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `componentDidMount()` {/*componentdidmount*/}
+  - Snippet id: `reference/react/component.md#snippet-8`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `componentDidUpdate(prevProps, prevState, snapshot?)` {/*componentdidupdate*/}
+  - Snippet id: `reference/react/component.md#snippet-9`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `componentWillUnmount()` {/*componentwillunmount*/}
+  - Snippet id: `reference/react/component.md#snippet-10`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `getSnapshotBeforeUpdate(prevProps, prevState)` {/*getsnapshotbeforeupdate*/}
+  - Snippet id: `reference/react/component.md#snippet-11`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `render()` {/*render*/}
+  - Snippet id: `reference/react/component.md#snippet-12`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `setState(nextState, callback?)` {/*setstate*/}
+  - Snippet id: `reference/react/component.md#snippet-13`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `setState(nextState, callback?)` {/*setstate*/}
+  - Snippet id: `reference/react/component.md#snippet-14`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `setState(nextState, callback?)` {/*setstate*/}
+  - Snippet id: `reference/react/component.md#snippet-15`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `shouldComponentUpdate(nextProps, nextState, nextContext)` {/*shouldcomponentupdate*/}
+  - Snippet id: `reference/react/component.md#snippet-16`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `static contextType` {/*static-contexttype*/}
+  - Snippet id: `reference/react/component.md#snippet-17`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `static defaultProps` {/*static-defaultprops*/}
+  - Snippet id: `reference/react/component.md#snippet-18`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `static defaultProps` {/*static-defaultprops*/}
+  - Snippet id: `reference/react/component.md#snippet-19`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: `static getDerivedStateFromProps(props, state)` {/*static-getderivedstatefromprops*/}
+  - Snippet id: `reference/react/component.md#snippet-20`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Defining a class component {/*defining-a-class-component*/}
+  - Snippet id: `reference/react/component.md#snippet-21`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Defining a class component {/*defining-a-class-component*/}
+  - Snippet id: `reference/react/component.md#snippet-22`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Adding state to a class component {/*adding-state-to-a-class-component*/}
+  - Snippet id: `reference/react/component.md#snippet-23`
+- css example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Adding state to a class component {/*adding-state-to-a-class-component*/}
+  - Snippet id: `reference/react/component.md#snippet-24`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Adding lifecycle methods to a class component {/*adding-lifecycle-methods-to-a-class-component*/}
+  - Snippet id: `reference/react/component.md#snippet-25`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Adding lifecycle methods to a class component {/*adding-lifecycle-methods-to-a-class-component*/}
+  - Snippet id: `reference/react/component.md#snippet-26`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Adding lifecycle methods to a class component {/*adding-lifecycle-methods-to-a-class-component*/}
+  - Snippet id: `reference/react/component.md#snippet-27`
+- css example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Adding lifecycle methods to a class component {/*adding-lifecycle-methods-to-a-class-component*/}
+  - Snippet id: `reference/react/component.md#snippet-28`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Catching rendering errors with an Error Boundary {/*catching-rendering-errors-with-an-error-boundary*/}
+  - Snippet id: `reference/react/component.md#snippet-29`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Catching rendering errors with an Error Boundary {/*catching-rendering-errors-with-an-error-boundary*/}
+  - Snippet id: `reference/react/component.md#snippet-30`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a simple component from a class to a function {/*migrating-a-simple-component-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-31`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a simple component from a class to a function {/*migrating-a-simple-component-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-32`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a simple component from a class to a function {/*migrating-a-simple-component-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-33`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a simple component from a class to a function {/*migrating-a-simple-component-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-34`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with state from a class to a function {/*migrating-a-component-with-state-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-35`
+- css example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with state from a class to a function {/*migrating-a-component-with-state-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-36`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with state from a class to a function {/*migrating-a-component-with-state-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-37`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with state from a class to a function {/*migrating-a-component-with-state-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-38`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with state from a class to a function {/*migrating-a-component-with-state-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-39`
+- css example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with state from a class to a function {/*migrating-a-component-with-state-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-40`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with lifecycle methods from a class to a function {/*migrating-a-component-with-lifecycle-methods-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-41`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with lifecycle methods from a class to a function {/*migrating-a-component-with-lifecycle-methods-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-42`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with lifecycle methods from a class to a function {/*migrating-a-component-with-lifecycle-methods-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-43`
+- css example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with lifecycle methods from a class to a function {/*migrating-a-component-with-lifecycle-methods-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-44`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with lifecycle methods from a class to a function {/*migrating-a-component-with-lifecycle-methods-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-45`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with lifecycle methods from a class to a function {/*migrating-a-component-with-lifecycle-methods-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-46`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with lifecycle methods from a class to a function {/*migrating-a-component-with-lifecycle-methods-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-47`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with lifecycle methods from a class to a function {/*migrating-a-component-with-lifecycle-methods-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-48`
+- css example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with lifecycle methods from a class to a function {/*migrating-a-component-with-lifecycle-methods-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-49`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with context from a class to a function {/*migrating-a-component-with-context-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-50`
+- css example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with context from a class to a function {/*migrating-a-component-with-context-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-51`
+- js example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with context from a class to a function {/*migrating-a-component-with-context-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-52`
+- css example in [reference/react/component.md](./reference/react/component.md)
+  - Section: Migrating a component with context from a class to a function {/*migrating-a-component-with-context-from-a-class-to-a-function*/}
+  - Snippet id: `reference/react/component.md#snippet-53`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: createContext.md
+  - Snippet id: `reference/react/createcontext.md#snippet-1`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: `createContext(defaultValue)` {/*createcontext*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-2`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: `SomeContext` Provider {/*provider*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-3`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: `SomeContext.Consumer` {/*consumer*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-4`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: `SomeContext.Consumer` {/*consumer*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-5`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: Creating context {/*creating-context*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-6`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: Creating context {/*creating-context*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-7`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: Creating context {/*creating-context*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-8`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: Importing and exporting context from a file {/*importing-and-exporting-context-from-a-file*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-9`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: Importing and exporting context from a file {/*importing-and-exporting-context-from-a-file*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-10`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: Importing and exporting context from a file {/*importing-and-exporting-context-from-a-file*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-11`
+- js example in [reference/react/createcontext.md](./reference/react/createcontext.md)
+  - Section: I can't find a way to change the context value {/*i-cant-find-a-way-to-change-the-context-value*/}
+  - Snippet id: `reference/react/createcontext.md#snippet-12`
+- js example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: createElement.md
+  - Snippet id: `reference/react/createelement.md#snippet-1`
+- js example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: `createElement(type, props, ...children)` {/*createelement*/}
+  - Snippet id: `reference/react/createelement.md#snippet-2`
+- js example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: Creating an element without JSX {/*creating-an-element-without-jsx*/}
+  - Snippet id: `reference/react/createelement.md#snippet-3`
+- js example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: Creating an element without JSX {/*creating-an-element-without-jsx*/}
+  - Snippet id: `reference/react/createelement.md#snippet-4`
+- js example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: Creating an element without JSX {/*creating-an-element-without-jsx*/}
+  - Snippet id: `reference/react/createelement.md#snippet-5`
+- js example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: Creating an element without JSX {/*creating-an-element-without-jsx*/}
+  - Snippet id: `reference/react/createelement.md#snippet-6`
+- js example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: Creating an element without JSX {/*creating-an-element-without-jsx*/}
+  - Snippet id: `reference/react/createelement.md#snippet-7`
+- css example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: Creating an element without JSX {/*creating-an-element-without-jsx*/}
+  - Snippet id: `reference/react/createelement.md#snippet-8`
+- js example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: Creating an element without JSX {/*creating-an-element-without-jsx*/}
+  - Snippet id: `reference/react/createelement.md#snippet-9`
+- css example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: Creating an element without JSX {/*creating-an-element-without-jsx*/}
+  - Snippet id: `reference/react/createelement.md#snippet-10`
+- js example in [reference/react/createelement.md](./reference/react/createelement.md)
+  - Section: What is a React element, exactly? {/*what-is-a-react-element-exactly*/}
+  - Snippet id: `reference/react/createelement.md#snippet-11`
+- js example in [reference/react/createref.md](./reference/react/createref.md)
+  - Section: createRef.md
+  - Snippet id: `reference/react/createref.md#snippet-1`
+- js example in [reference/react/createref.md](./reference/react/createref.md)
+  - Section: `createRef()` {/*createref*/}
+  - Snippet id: `reference/react/createref.md#snippet-2`
+- js example in [reference/react/createref.md](./reference/react/createref.md)
+  - Section: Declaring a ref in a class component {/*declaring-a-ref-in-a-class-component*/}
+  - Snippet id: `reference/react/createref.md#snippet-3`
+- js example in [reference/react/createref.md](./reference/react/createref.md)
+  - Section: Declaring a ref in a class component {/*declaring-a-ref-in-a-class-component*/}
+  - Snippet id: `reference/react/createref.md#snippet-4`
+- js example in [reference/react/createref.md](./reference/react/createref.md)
+  - Section: Migrating from a class with `createRef` to a function with `useRef` {/*migrating-from-a-class-with-createref-to-a-function-with-useref*/}
+  - Snippet id: `reference/react/createref.md#snippet-5`
+- js example in [reference/react/createref.md](./reference/react/createref.md)
+  - Section: Migrating from a class with `createRef` to a function with `useRef` {/*migrating-from-a-class-with-createref-to-a-function-with-useref*/}
+  - Snippet id: `reference/react/createref.md#snippet-6`
+- js example in [reference/react/experimental-taintobjectreference.md](./reference/react/experimental-taintobjectreference.md)
+  - Section: experimental_taintObjectReference.md
+  - Snippet id: `reference/react/experimental-taintobjectreference.md#snippet-1`
+- js example in [reference/react/experimental-taintobjectreference.md](./reference/react/experimental-taintobjectreference.md)
+  - Section: `taintObjectReference(message, object)` {/*taintobjectreference*/}
+  - Snippet id: `reference/react/experimental-taintobjectreference.md#snippet-2`
+- js example in [reference/react/experimental-taintobjectreference.md](./reference/react/experimental-taintobjectreference.md)
+  - Section: Prevent user data from unintentionally reaching the client {/*prevent-user-data-from-unintentionally-reaching-the-client*/}
+  - Snippet id: `reference/react/experimental-taintobjectreference.md#snippet-3`
+- js example in [reference/react/experimental-taintobjectreference.md](./reference/react/experimental-taintobjectreference.md)
+  - Section: Protecting against leaks in data fetching {/*protecting-against-leaks-in-data-fetching*/}
+  - Snippet id: `reference/react/experimental-taintobjectreference.md#snippet-4`
+- js example in [reference/react/experimental-taintobjectreference.md](./reference/react/experimental-taintobjectreference.md)
+  - Section: Protecting against leaks in data fetching {/*protecting-against-leaks-in-data-fetching*/}
+  - Snippet id: `reference/react/experimental-taintobjectreference.md#snippet-5`
+- js example in [reference/react/experimental-taintobjectreference.md](./reference/react/experimental-taintobjectreference.md)
+  - Section: Protecting against leaks in data fetching {/*protecting-against-leaks-in-data-fetching*/}
+  - Snippet id: `reference/react/experimental-taintobjectreference.md#snippet-6`
+- js example in [reference/react/experimental-taintobjectreference.md](./reference/react/experimental-taintobjectreference.md)
+  - Section: Protecting against leaks in data fetching {/*protecting-against-leaks-in-data-fetching*/}
+  - Snippet id: `reference/react/experimental-taintobjectreference.md#snippet-7`
+- js example in [reference/react/experimental-taintuniquevalue.md](./reference/react/experimental-taintuniquevalue.md)
+  - Section: experimental_taintUniqueValue.md
+  - Snippet id: `reference/react/experimental-taintuniquevalue.md#snippet-1`
+- js example in [reference/react/experimental-taintuniquevalue.md](./reference/react/experimental-taintuniquevalue.md)
+  - Section: `taintUniqueValue(message, lifetime, value)` {/*taintuniquevalue*/}
+  - Snippet id: `reference/react/experimental-taintuniquevalue.md#snippet-2`
+- js example in [reference/react/experimental-taintuniquevalue.md](./reference/react/experimental-taintuniquevalue.md)
+  - Section: Prevent a token from being passed to Client Components {/*prevent-a-token-from-being-passed-to-client-components*/}
+  - Snippet id: `reference/react/experimental-taintuniquevalue.md#snippet-3`
+- js example in [reference/react/experimental-taintuniquevalue.md](./reference/react/experimental-taintuniquevalue.md)
+  - Section: Prevent a token from being passed to Client Components {/*prevent-a-token-from-being-passed-to-client-components*/}
+  - Snippet id: `reference/react/experimental-taintuniquevalue.md#snippet-4`
+- js example in [reference/react/experimental-taintuniquevalue.md](./reference/react/experimental-taintuniquevalue.md)
+  - Section: Prevent a token from being passed to Client Components {/*prevent-a-token-from-being-passed-to-client-components*/}
+  - Snippet id: `reference/react/experimental-taintuniquevalue.md#snippet-5`
+- js example in [reference/react/experimental-taintuniquevalue.md](./reference/react/experimental-taintuniquevalue.md)
+  - Section: Using `server-only` and `taintUniqueValue` to prevent leaking secrets {/*using-server-only-and-taintuniquevalue-to-prevent-leaking-secrets*/}
+  - Snippet id: `reference/react/experimental-taintuniquevalue.md#snippet-6`
+- js example in [reference/react/experimental-taintuniquevalue.md](./reference/react/experimental-taintuniquevalue.md)
+  - Section: Using `server-only` and `taintUniqueValue` to prevent leaking secrets {/*using-server-only-and-taintuniquevalue-to-prevent-leaking-secrets*/}
+  - Snippet id: `reference/react/experimental-taintuniquevalue.md#snippet-7`
+- js example in [reference/react/experimental-taintuniquevalue.md](./reference/react/experimental-taintuniquevalue.md)
+  - Section: Using `server-only` and `taintUniqueValue` to prevent leaking secrets {/*using-server-only-and-taintuniquevalue-to-prevent-leaking-secrets*/}
+  - Snippet id: `reference/react/experimental-taintuniquevalue.md#snippet-8`
+- js example in [reference/react/experimental-taintuniquevalue.md](./reference/react/experimental-taintuniquevalue.md)
+  - Section: Using `server-only` and `taintUniqueValue` to prevent leaking secrets {/*using-server-only-and-taintuniquevalue-to-prevent-leaking-secrets*/}
+  - Snippet id: `reference/react/experimental-taintuniquevalue.md#snippet-9`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: forwardRef.md
+  - Snippet id: `reference/react/forwardref.md#snippet-1`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: `forwardRef(render)` {/*forwardref*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-2`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: `render` function {/*render-function*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-3`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Exposing a DOM node to the parent component {/*exposing-a-dom-node-to-the-parent-component*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-4`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Exposing a DOM node to the parent component {/*exposing-a-dom-node-to-the-parent-component*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-5`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Exposing a DOM node to the parent component {/*exposing-a-dom-node-to-the-parent-component*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-6`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Focusing a text input {/*focusing-a-text-input*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-7`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Focusing a text input {/*focusing-a-text-input*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-8`
+- css example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Focusing a text input {/*focusing-a-text-input*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-9`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Playing and pausing a video {/*playing-and-pausing-a-video*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-10`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Playing and pausing a video {/*playing-and-pausing-a-video*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-11`
+- css example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Playing and pausing a video {/*playing-and-pausing-a-video*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-12`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Forwarding a ref through multiple components {/*forwarding-a-ref-through-multiple-components*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-13`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Forwarding a ref through multiple components {/*forwarding-a-ref-through-multiple-components*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-14`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Forwarding a ref through multiple components {/*forwarding-a-ref-through-multiple-components*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-15`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Forwarding a ref through multiple components {/*forwarding-a-ref-through-multiple-components*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-16`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Forwarding a ref through multiple components {/*forwarding-a-ref-through-multiple-components*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-17`
+- css example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Forwarding a ref through multiple components {/*forwarding-a-ref-through-multiple-components*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-18`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Exposing an imperative handle instead of a DOM node {/*exposing-an-imperative-handle-instead-of-a-dom-node*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-19`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Exposing an imperative handle instead of a DOM node {/*exposing-an-imperative-handle-instead-of-a-dom-node*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-20`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Exposing an imperative handle instead of a DOM node {/*exposing-an-imperative-handle-instead-of-a-dom-node*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-21`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Exposing an imperative handle instead of a DOM node {/*exposing-an-imperative-handle-instead-of-a-dom-node*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-22`
+- css example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: Exposing an imperative handle instead of a DOM node {/*exposing-an-imperative-handle-instead-of-a-dom-node*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-23`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: My component is wrapped in `forwardRef`, but the `ref` to it is always `null` {/*my-component-is-wrapped-in-forwardref-but-the-ref-to-it-is-always-null*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-24`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: My component is wrapped in `forwardRef`, but the `ref` to it is always `null` {/*my-component-is-wrapped-in-forwardref-but-the-ref-to-it-is-always-null*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-25`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: My component is wrapped in `forwardRef`, but the `ref` to it is always `null` {/*my-component-is-wrapped-in-forwardref-but-the-ref-to-it-is-always-null*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-26`
+- js example in [reference/react/forwardref.md](./reference/react/forwardref.md)
+  - Section: My component is wrapped in `forwardRef`, but the `ref` to it is always `null` {/*my-component-is-wrapped-in-forwardref-but-the-ref-to-it-is-always-null*/}
+  - Snippet id: `reference/react/forwardref.md#snippet-27`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: Fragment.md
+  - Snippet id: `reference/react/fragment.md#snippet-1`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `addEventListener(type, listener, options?)` {/*addeventlistener*/}
+  - Snippet id: `reference/react/fragment.md#snippet-2`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `removeEventListener(type, listener, options?)` {/*removeeventlistener*/}
+  - Snippet id: `reference/react/fragment.md#snippet-3`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `dispatchEvent(event)` {/*dispatchevent*/}
+  - Snippet id: `reference/react/fragment.md#snippet-4`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `focus(options?)` {/*focus*/}
+  - Snippet id: `reference/react/fragment.md#snippet-5`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `focusLast(options?)` {/*focuslast*/}
+  - Snippet id: `reference/react/fragment.md#snippet-6`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `blur()` {/*blur*/}
+  - Snippet id: `reference/react/fragment.md#snippet-7`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `observeUsing(observer)` {/*observeusing*/}
+  - Snippet id: `reference/react/fragment.md#snippet-8`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `unobserveUsing(observer)` {/*unobserveusing*/}
+  - Snippet id: `reference/react/fragment.md#snippet-9`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `getClientRects()` {/*getclientrects*/}
+  - Snippet id: `reference/react/fragment.md#snippet-10`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `getRootNode(options?)` {/*getrootnode*/}
+  - Snippet id: `reference/react/fragment.md#snippet-11`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `compareDocumentPosition(otherNode)` {/*comparedocumentposition*/}
+  - Snippet id: `reference/react/fragment.md#snippet-12`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: `scrollIntoView(alignToTop?)` {/*scrollintoview*/}
+  - Snippet id: `reference/react/fragment.md#snippet-13`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: Returning multiple elements {/*returning-multiple-elements*/}
+  - Snippet id: `reference/react/fragment.md#snippet-14`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: Returning multiple elements {/*returning-multiple-elements*/}
+  - Snippet id: `reference/react/fragment.md#snippet-15`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: How to write a Fragment without the special syntax? {/*how-to-write-a-fragment-without-the-special-syntax*/}
+  - Snippet id: `reference/react/fragment.md#snippet-16`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: Assigning multiple elements to a variable {/*assigning-multiple-elements-to-a-variable*/}
+  - Snippet id: `reference/react/fragment.md#snippet-17`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: Grouping elements with text {/*grouping-elements-with-text*/}
+  - Snippet id: `reference/react/fragment.md#snippet-18`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: Rendering a list of Fragments {/*rendering-a-list-of-fragments*/}
+  - Snippet id: `reference/react/fragment.md#snippet-19`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: Rendering a list of Fragments {/*rendering-a-list-of-fragments*/}
+  - Snippet id: `reference/react/fragment.md#snippet-20`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Adding event listeners without a wrapper element {/*adding-event-listeners-without-wrapper*/}
+  - Snippet id: `reference/react/fragment.md#snippet-21`
+- json example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Adding event listeners without a wrapper element {/*adding-event-listeners-without-wrapper*/}
+  - Snippet id: `reference/react/fragment.md#snippet-22`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: Which children does a Fragment ref target? {/*which-children-does-a-fragment-ref-target*/}
+  - Snippet id: `reference/react/fragment.md#snippet-23`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Managing focus across a group of elements {/*managing-focus-across-elements*/}
+  - Snippet id: `reference/react/fragment.md#snippet-24`
+- css example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Managing focus across a group of elements {/*managing-focus-across-elements*/}
+  - Snippet id: `reference/react/fragment.md#snippet-25`
+- json example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Managing focus across a group of elements {/*managing-focus-across-elements*/}
+  - Snippet id: `reference/react/fragment.md#snippet-26`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Scrolling a group of elements into view {/*scrolling-group-into-view*/}
+  - Snippet id: `reference/react/fragment.md#snippet-27`
+- css example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Scrolling a group of elements into view {/*scrolling-group-into-view*/}
+  - Snippet id: `reference/react/fragment.md#snippet-28`
+- json example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Scrolling a group of elements into view {/*scrolling-group-into-view*/}
+  - Snippet id: `reference/react/fragment.md#snippet-29`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Observing visibility without a wrapper element {/*observing-visibility-without-wrapper*/}
+  - Snippet id: `reference/react/fragment.md#snippet-30`
+- css example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Observing visibility without a wrapper element {/*observing-visibility-without-wrapper*/}
+  - Snippet id: `reference/react/fragment.md#snippet-31`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Observing visibility without a wrapper element {/*observing-visibility-without-wrapper*/}
+  - Snippet id: `reference/react/fragment.md#snippet-32`
+- json example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Observing visibility without a wrapper element {/*observing-visibility-without-wrapper*/}
+  - Snippet id: `reference/react/fragment.md#snippet-33`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Caching a global IntersectionObserver {/*caching-global-intersection-observer*/}
+  - Snippet id: `reference/react/fragment.md#snippet-34`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Caching a global IntersectionObserver {/*caching-global-intersection-observer*/}
+  - Snippet id: `reference/react/fragment.md#snippet-35`
+- css example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Caching a global IntersectionObserver {/*caching-global-intersection-observer*/}
+  - Snippet id: `reference/react/fragment.md#snippet-36`
+- js example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Caching a global IntersectionObserver {/*caching-global-intersection-observer*/}
+  - Snippet id: `reference/react/fragment.md#snippet-37`
+- json example in [reference/react/fragment.md](./reference/react/fragment.md)
+  - Section: <CanaryBadge /> Caching a global IntersectionObserver {/*caching-global-intersection-observer*/}
+  - Snippet id: `reference/react/fragment.md#snippet-38`
+- js example in [reference/react/hooks.md](./reference/react/hooks.md)
+  - Section: State Hooks {/*state-hooks*/}
+  - Snippet id: `reference/react/hooks.md#snippet-1`
+- js example in [reference/react/hooks.md](./reference/react/hooks.md)
+  - Section: Context Hooks {/*context-hooks*/}
+  - Snippet id: `reference/react/hooks.md#snippet-2`
+- js example in [reference/react/hooks.md](./reference/react/hooks.md)
+  - Section: Ref Hooks {/*ref-hooks*/}
+  - Snippet id: `reference/react/hooks.md#snippet-3`
+- js example in [reference/react/hooks.md](./reference/react/hooks.md)
+  - Section: Effect Hooks {/*effect-hooks*/}
+  - Snippet id: `reference/react/hooks.md#snippet-4`
+- js example in [reference/react/hooks.md](./reference/react/hooks.md)
+  - Section: Performance Hooks {/*performance-hooks*/}
+  - Snippet id: `reference/react/hooks.md#snippet-5`
+- js example in [reference/react/isvalidelement.md](./reference/react/isvalidelement.md)
+  - Section: isValidElement.md
+  - Snippet id: `reference/react/isvalidelement.md#snippet-1`
+- js example in [reference/react/isvalidelement.md](./reference/react/isvalidelement.md)
+  - Section: `isValidElement(value)` {/*isvalidelement*/}
+  - Snippet id: `reference/react/isvalidelement.md#snippet-2`
+- js example in [reference/react/isvalidelement.md](./reference/react/isvalidelement.md)
+  - Section: Checking if something is a React element {/*checking-if-something-is-a-react-element*/}
+  - Snippet id: `reference/react/isvalidelement.md#snippet-3`
+- js example in [reference/react/isvalidelement.md](./reference/react/isvalidelement.md)
+  - Section: Checking if something is a React element {/*checking-if-something-is-a-react-element*/}
+  - Snippet id: `reference/react/isvalidelement.md#snippet-4`
+- js example in [reference/react/isvalidelement.md](./reference/react/isvalidelement.md)
+  - Section: React elements vs React nodes {/*react-elements-vs-react-nodes*/}
+  - Snippet id: `reference/react/isvalidelement.md#snippet-5`
+- js example in [reference/react/isvalidelement.md](./reference/react/isvalidelement.md)
+  - Section: React elements vs React nodes {/*react-elements-vs-react-nodes*/}
+  - Snippet id: `reference/react/isvalidelement.md#snippet-6`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: lazy.md
+  - Snippet id: `reference/react/lazy.md#snippet-1`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: `lazy(load)` {/*lazy*/}
+  - Snippet id: `reference/react/lazy.md#snippet-2`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: Lazy-loading components with Suspense {/*suspense-for-code-splitting*/}
+  - Snippet id: `reference/react/lazy.md#snippet-3`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: Lazy-loading components with Suspense {/*suspense-for-code-splitting*/}
+  - Snippet id: `reference/react/lazy.md#snippet-4`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: Lazy-loading components with Suspense {/*suspense-for-code-splitting*/}
+  - Snippet id: `reference/react/lazy.md#snippet-5`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: Lazy-loading components with Suspense {/*suspense-for-code-splitting*/}
+  - Snippet id: `reference/react/lazy.md#snippet-6`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: Lazy-loading components with Suspense {/*suspense-for-code-splitting*/}
+  - Snippet id: `reference/react/lazy.md#snippet-7`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: Lazy-loading components with Suspense {/*suspense-for-code-splitting*/}
+  - Snippet id: `reference/react/lazy.md#snippet-8`
+- json example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: Lazy-loading components with Suspense {/*suspense-for-code-splitting*/}
+  - Snippet id: `reference/react/lazy.md#snippet-9`
+- css example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: Lazy-loading components with Suspense {/*suspense-for-code-splitting*/}
+  - Snippet id: `reference/react/lazy.md#snippet-10`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: My `lazy` component's state gets reset unexpectedly {/*my-lazy-components-state-gets-reset-unexpectedly*/}
+  - Snippet id: `reference/react/lazy.md#snippet-11`
+- js example in [reference/react/lazy.md](./reference/react/lazy.md)
+  - Section: My `lazy` component's state gets reset unexpectedly {/*my-lazy-components-state-gets-reset-unexpectedly*/}
+  - Snippet id: `reference/react/lazy.md#snippet-12`
+- text example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: memo.md
+  - Snippet id: `reference/react/memo.md#snippet-1`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: `memo(Component, arePropsEqual?)` {/*memo*/}
+  - Snippet id: `reference/react/memo.md#snippet-2`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Skipping re-rendering when props are unchanged {/*skipping-re-rendering-when-props-are-unchanged*/}
+  - Snippet id: `reference/react/memo.md#snippet-3`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Skipping re-rendering when props are unchanged {/*skipping-re-rendering-when-props-are-unchanged*/}
+  - Snippet id: `reference/react/memo.md#snippet-4`
+- css example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Skipping re-rendering when props are unchanged {/*skipping-re-rendering-when-props-are-unchanged*/}
+  - Snippet id: `reference/react/memo.md#snippet-5`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Updating a memoized component using state {/*updating-a-memoized-component-using-state*/}
+  - Snippet id: `reference/react/memo.md#snippet-6`
+- css example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Updating a memoized component using state {/*updating-a-memoized-component-using-state*/}
+  - Snippet id: `reference/react/memo.md#snippet-7`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Updating a memoized component using a context {/*updating-a-memoized-component-using-a-context*/}
+  - Snippet id: `reference/react/memo.md#snippet-8`
+- css example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Updating a memoized component using a context {/*updating-a-memoized-component-using-a-context*/}
+  - Snippet id: `reference/react/memo.md#snippet-9`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Minimizing props changes {/*minimizing-props-changes*/}
+  - Snippet id: `reference/react/memo.md#snippet-10`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Minimizing props changes {/*minimizing-props-changes*/}
+  - Snippet id: `reference/react/memo.md#snippet-11`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Minimizing props changes {/*minimizing-props-changes*/}
+  - Snippet id: `reference/react/memo.md#snippet-12`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Specifying a custom comparison function {/*specifying-a-custom-comparison-function*/}
+  - Snippet id: `reference/react/memo.md#snippet-13`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Do I still need React.memo if I use React Compiler? {/*react-compiler-memo*/}
+  - Snippet id: `reference/react/memo.md#snippet-14`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Do I still need React.memo if I use React Compiler? {/*react-compiler-memo*/}
+  - Snippet id: `reference/react/memo.md#snippet-15`
+- js example in [reference/react/memo.md](./reference/react/memo.md)
+  - Section: Do I still need React.memo if I use React Compiler? {/*react-compiler-memo*/}
+  - Snippet id: `reference/react/memo.md#snippet-16`
+- js example in [reference/react/profiler.md](./reference/react/profiler.md)
+  - Section: Profiler.md
+  - Snippet id: `reference/react/profiler.md#snippet-1`
+- js example in [reference/react/profiler.md](./reference/react/profiler.md)
+  - Section: `<Profiler>` {/*profiler*/}
+  - Snippet id: `reference/react/profiler.md#snippet-2`
+- js example in [reference/react/profiler.md](./reference/react/profiler.md)
+  - Section: `onRender` callback {/*onrender-callback*/}
+  - Snippet id: `reference/react/profiler.md#snippet-3`
+- js example in [reference/react/profiler.md](./reference/react/profiler.md)
+  - Section: Measuring rendering performance programmatically {/*measuring-rendering-performance-programmatically*/}
+  - Snippet id: `reference/react/profiler.md#snippet-4`
+- js example in [reference/react/profiler.md](./reference/react/profiler.md)
+  - Section: Measuring different parts of the application {/*measuring-different-parts-of-the-application*/}
+  - Snippet id: `reference/react/profiler.md#snippet-5`
+- js example in [reference/react/profiler.md](./reference/react/profiler.md)
+  - Section: Measuring different parts of the application {/*measuring-different-parts-of-the-application*/}
+  - Snippet id: `reference/react/profiler.md#snippet-6`
+- js example in [reference/react/purecomponent.md](./reference/react/purecomponent.md)
+  - Section: PureComponent.md
+  - Snippet id: `reference/react/purecomponent.md#snippet-1`
+- js example in [reference/react/purecomponent.md](./reference/react/purecomponent.md)
+  - Section: `PureComponent` {/*purecomponent*/}
+  - Snippet id: `reference/react/purecomponent.md#snippet-2`
+- js example in [reference/react/purecomponent.md](./reference/react/purecomponent.md)
+  - Section: Skipping unnecessary re-renders for class components {/*skipping-unnecessary-re-renders-for-class-components*/}
+  - Snippet id: `reference/react/purecomponent.md#snippet-3`
+- js example in [reference/react/purecomponent.md](./reference/react/purecomponent.md)
+  - Section: Skipping unnecessary re-renders for class components {/*skipping-unnecessary-re-renders-for-class-components*/}
+  - Snippet id: `reference/react/purecomponent.md#snippet-4`
+- css example in [reference/react/purecomponent.md](./reference/react/purecomponent.md)
+  - Section: Skipping unnecessary re-renders for class components {/*skipping-unnecessary-re-renders-for-class-components*/}
+  - Snippet id: `reference/react/purecomponent.md#snippet-5`
+- js example in [reference/react/purecomponent.md](./reference/react/purecomponent.md)
+  - Section: Migrating from a `PureComponent` class component to a function {/*migrating-from-a-purecomponent-class-component-to-a-function*/}
+  - Snippet id: `reference/react/purecomponent.md#snippet-6`
+- css example in [reference/react/purecomponent.md](./reference/react/purecomponent.md)
+  - Section: Migrating from a `PureComponent` class component to a function {/*migrating-from-a-purecomponent-class-component-to-a-function*/}
+  - Snippet id: `reference/react/purecomponent.md#snippet-7`
+- js example in [reference/react/purecomponent.md](./reference/react/purecomponent.md)
+  - Section: Migrating from a `PureComponent` class component to a function {/*migrating-from-a-purecomponent-class-component-to-a-function*/}
+  - Snippet id: `reference/react/purecomponent.md#snippet-8`
+- css example in [reference/react/purecomponent.md](./reference/react/purecomponent.md)
+  - Section: Migrating from a `PureComponent` class component to a function {/*migrating-from-a-purecomponent-class-component-to-a-function*/}
+  - Snippet id: `reference/react/purecomponent.md#snippet-9`
+- js example in [reference/react/starttransition.md](./reference/react/starttransition.md)
+  - Section: startTransition.md
+  - Snippet id: `reference/react/starttransition.md#snippet-1`
+- js example in [reference/react/starttransition.md](./reference/react/starttransition.md)
+  - Section: `startTransition(action)` {/*starttransition*/}
+  - Snippet id: `reference/react/starttransition.md#snippet-2`
+- js example in [reference/react/starttransition.md](./reference/react/starttransition.md)
+  - Section: Marking a state update as a non-blocking Transition {/*marking-a-state-update-as-a-non-blocking-transition*/}
+  - Snippet id: `reference/react/starttransition.md#snippet-3`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: StrictMode.md
+  - Snippet id: `reference/react/strictmode.md#snippet-1`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: `<StrictMode>` {/*strictmode*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-2`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Enabling Strict Mode for entire app {/*enabling-strict-mode-for-entire-app*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-3`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Enabling Strict Mode for a part of the app {/*enabling-strict-mode-for-a-part-of-the-app*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-4`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-5`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-6`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-7`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-8`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-9`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-10`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-11`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-12`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-13`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-14`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-15`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-16`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-17`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-18`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-19`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-20`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by double rendering in development {/*fixing-bugs-found-by-double-rendering-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-21`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-22`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-23`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-24`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-25`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-26`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-27`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-28`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-29`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-30`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-31`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-32`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-33`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-34`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-35`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-36`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-37`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running Effects in development {/*fixing-bugs-found-by-re-running-effects-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-38`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-39`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-40`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-41`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-42`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-43`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-44`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-45`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-46`
+- js example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-47`
+- css example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-48`
+- text example in [reference/react/strictmode.md](./reference/react/strictmode.md)
+  - Section: Fixing bugs found by re-running ref callbacks in development {/*fixing-bugs-found-by-re-running-ref-callbacks-in-development*/}
+  - Snippet id: `reference/react/strictmode.md#snippet-49`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Suspense.md
+  - Snippet id: `reference/react/suspense.md#snippet-1`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-2`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-3`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-4`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-5`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-6`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-7`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-8`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-9`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-10`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-11`
+- html example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-12`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-13`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Displaying a fallback while content is loading {/*displaying-a-fallback-while-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-14`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing content together at once {/*revealing-content-together-at-once*/}
+  - Snippet id: `reference/react/suspense.md#snippet-15`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing content together at once {/*revealing-content-together-at-once*/}
+  - Snippet id: `reference/react/suspense.md#snippet-16`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing content together at once {/*revealing-content-together-at-once*/}
+  - Snippet id: `reference/react/suspense.md#snippet-17`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing content together at once {/*revealing-content-together-at-once*/}
+  - Snippet id: `reference/react/suspense.md#snippet-18`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing content together at once {/*revealing-content-together-at-once*/}
+  - Snippet id: `reference/react/suspense.md#snippet-19`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing content together at once {/*revealing-content-together-at-once*/}
+  - Snippet id: `reference/react/suspense.md#snippet-20`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing content together at once {/*revealing-content-together-at-once*/}
+  - Snippet id: `reference/react/suspense.md#snippet-21`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing content together at once {/*revealing-content-together-at-once*/}
+  - Snippet id: `reference/react/suspense.md#snippet-22`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing content together at once {/*revealing-content-together-at-once*/}
+  - Snippet id: `reference/react/suspense.md#snippet-23`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing nested content as it loads {/*revealing-nested-content-as-it-loads*/}
+  - Snippet id: `reference/react/suspense.md#snippet-24`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing nested content as it loads {/*revealing-nested-content-as-it-loads*/}
+  - Snippet id: `reference/react/suspense.md#snippet-25`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing nested content as it loads {/*revealing-nested-content-as-it-loads*/}
+  - Snippet id: `reference/react/suspense.md#snippet-26`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing nested content as it loads {/*revealing-nested-content-as-it-loads*/}
+  - Snippet id: `reference/react/suspense.md#snippet-27`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing nested content as it loads {/*revealing-nested-content-as-it-loads*/}
+  - Snippet id: `reference/react/suspense.md#snippet-28`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing nested content as it loads {/*revealing-nested-content-as-it-loads*/}
+  - Snippet id: `reference/react/suspense.md#snippet-29`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing nested content as it loads {/*revealing-nested-content-as-it-loads*/}
+  - Snippet id: `reference/react/suspense.md#snippet-30`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Revealing nested content as it loads {/*revealing-nested-content-as-it-loads*/}
+  - Snippet id: `reference/react/suspense.md#snippet-31`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-32`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-33`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-34`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-35`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-36`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-37`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-38`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-39`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-40`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/suspense.md#snippet-41`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-42`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-43`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-44`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-45`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-46`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-47`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-48`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-49`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-50`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-51`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-52`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-53`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-54`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-55`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-56`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-57`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-58`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-59`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Preventing already revealed content from hiding {/*preventing-already-revealed-content-from-hiding*/}
+  - Snippet id: `reference/react/suspense.md#snippet-60`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Indicating that a Transition is happening {/*indicating-that-a-transition-is-happening*/}
+  - Snippet id: `reference/react/suspense.md#snippet-61`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Indicating that a Transition is happening {/*indicating-that-a-transition-is-happening*/}
+  - Snippet id: `reference/react/suspense.md#snippet-62`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Indicating that a Transition is happening {/*indicating-that-a-transition-is-happening*/}
+  - Snippet id: `reference/react/suspense.md#snippet-63`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Indicating that a Transition is happening {/*indicating-that-a-transition-is-happening*/}
+  - Snippet id: `reference/react/suspense.md#snippet-64`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Indicating that a Transition is happening {/*indicating-that-a-transition-is-happening*/}
+  - Snippet id: `reference/react/suspense.md#snippet-65`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Indicating that a Transition is happening {/*indicating-that-a-transition-is-happening*/}
+  - Snippet id: `reference/react/suspense.md#snippet-66`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Indicating that a Transition is happening {/*indicating-that-a-transition-is-happening*/}
+  - Snippet id: `reference/react/suspense.md#snippet-67`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Indicating that a Transition is happening {/*indicating-that-a-transition-is-happening*/}
+  - Snippet id: `reference/react/suspense.md#snippet-68`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Indicating that a Transition is happening {/*indicating-that-a-transition-is-happening*/}
+  - Snippet id: `reference/react/suspense.md#snippet-69`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Resetting Suspense boundaries on navigation {/*resetting-suspense-boundaries-on-navigation*/}
+  - Snippet id: `reference/react/suspense.md#snippet-70`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Resetting Suspense boundaries on navigation {/*resetting-suspense-boundaries-on-navigation*/}
+  - Snippet id: `reference/react/suspense.md#snippet-71`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Resetting Suspense boundaries on navigation {/*resetting-suspense-boundaries-on-navigation*/}
+  - Snippet id: `reference/react/suspense.md#snippet-72`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Resetting Suspense boundaries on navigation {/*resetting-suspense-boundaries-on-navigation*/}
+  - Snippet id: `reference/react/suspense.md#snippet-73`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Resetting Suspense boundaries on navigation {/*resetting-suspense-boundaries-on-navigation*/}
+  - Snippet id: `reference/react/suspense.md#snippet-74`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Resetting Suspense boundaries on navigation {/*resetting-suspense-boundaries-on-navigation*/}
+  - Snippet id: `reference/react/suspense.md#snippet-75`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Providing a fallback for server errors and client-only content {/*providing-a-fallback-for-server-errors-and-client-only-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-76`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Providing a fallback for browser-only content {/*providing-a-fallback-for-browser-only-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-77`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Providing a fallback for browser-only content {/*providing-a-fallback-for-browser-only-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-78`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Providing a fallback for browser-only content {/*providing-a-fallback-for-browser-only-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-79`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Providing a fallback for browser-only content {/*providing-a-fallback-for-browser-only-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-80`
+- html example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Providing a fallback for browser-only content {/*providing-a-fallback-for-browser-only-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-81`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Providing a fallback for browser-only content {/*providing-a-fallback-for-browser-only-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-82`
+- json example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Providing a fallback for browser-only content {/*providing-a-fallback-for-browser-only-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-83`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Waiting for a stylesheet to load {/*waiting-for-a-stylesheet-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-84`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Waiting for a stylesheet to load {/*waiting-for-a-stylesheet-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-85`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Waiting for a stylesheet to load {/*waiting-for-a-stylesheet-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-86`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: Waiting for a stylesheet to load {/*waiting-for-a-stylesheet-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-87`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-88`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-89`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-90`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-91`
+- json example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/suspense.md#snippet-92`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for a font to load {/*waiting-for-a-font-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-93`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for a font to load {/*waiting-for-a-font-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-94`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for a font to load {/*waiting-for-a-font-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-95`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for a font to load {/*waiting-for-a-font-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-96`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for a font to load {/*waiting-for-a-font-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-97`
+- json example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for a font to load {/*waiting-for-a-font-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-98`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for an image to load {/*waiting-for-an-image-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-99`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for an image to load {/*waiting-for-an-image-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-100`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for an image to load {/*waiting-for-an-image-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-101`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for an image to load {/*waiting-for-an-image-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-102`
+- json example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Waiting for an image to load {/*waiting-for-an-image-to-load*/}
+  - Snippet id: `reference/react/suspense.md#snippet-103`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Coordinating fonts, images, and stylesheets {/*coordinating-fonts-images-and-stylesheets*/}
+  - Snippet id: `reference/react/suspense.md#snippet-104`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Coordinating fonts, images, and stylesheets {/*coordinating-fonts-images-and-stylesheets*/}
+  - Snippet id: `reference/react/suspense.md#snippet-105`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Coordinating fonts, images, and stylesheets {/*coordinating-fonts-images-and-stylesheets*/}
+  - Snippet id: `reference/react/suspense.md#snippet-106`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Coordinating fonts, images, and stylesheets {/*coordinating-fonts-images-and-stylesheets*/}
+  - Snippet id: `reference/react/suspense.md#snippet-107`
+- css example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Coordinating fonts, images, and stylesheets {/*coordinating-fonts-images-and-stylesheets*/}
+  - Snippet id: `reference/react/suspense.md#snippet-108`
+- json example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: <CanaryBadge /> Coordinating fonts, images, and stylesheets {/*coordinating-fonts-images-and-stylesheets*/}
+  - Snippet id: `reference/react/suspense.md#snippet-109`
+- js example in [reference/react/suspense.md](./reference/react/suspense.md)
+  - Section: How do I prevent the UI from being replaced by a fallback during an update? {/*preventing-unwanted-fallbacks*/}
+  - Snippet id: `reference/react/suspense.md#snippet-110`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: use.md
+  - Snippet id: `reference/react/use.md#snippet-1`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: `use(context)` {/*use-context*/}
+  - Snippet id: `reference/react/use.md#snippet-2`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: `use(promise)` {/*use-promise*/}
+  - Snippet id: `reference/react/use.md#snippet-3`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: <CanaryBadge /> `use(browser())` {/*use-browser*/}
+  - Snippet id: `reference/react/use.md#snippet-4`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Reading context with `use` {/*reading-context-with-use*/}
+  - Snippet id: `reference/react/use.md#snippet-5`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Reading context with `use` {/*reading-context-with-use*/}
+  - Snippet id: `reference/react/use.md#snippet-6`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Reading context with `use` {/*reading-context-with-use*/}
+  - Snippet id: `reference/react/use.md#snippet-7`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Reading context with `use` {/*reading-context-with-use*/}
+  - Snippet id: `reference/react/use.md#snippet-8`
+- css example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Reading context with `use` {/*reading-context-with-use*/}
+  - Snippet id: `reference/react/use.md#snippet-9`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Reading a Promise from context {/*reading-a-promise-from-context*/}
+  - Snippet id: `reference/react/use.md#snippet-10`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Reading a Promise with `use` {/*reading-a-promise-with-use*/}
+  - Snippet id: `reference/react/use.md#snippet-11`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Fetching data with `use` {/*fetching-data-with-use*/}
+  - Snippet id: `reference/react/use.md#snippet-12`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Fetching data with `use` {/*fetching-data-with-use*/}
+  - Snippet id: `reference/react/use.md#snippet-13`
+- json example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Fetching data with `use` {/*fetching-data-with-use*/}
+  - Snippet id: `reference/react/use.md#snippet-14`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Fetching data with `useEffect` {/*fetching-data-with-useeffect*/}
+  - Snippet id: `reference/react/use.md#snippet-15`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Fetching data with `useEffect` {/*fetching-data-with-useeffect*/}
+  - Snippet id: `reference/react/use.md#snippet-16`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Promises passed to `use` must be cached {/*promises-must-cached*/}
+  - Snippet id: `reference/react/use.md#snippet-17`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Promises passed to `use` must be cached {/*promises-must-cached*/}
+  - Snippet id: `reference/react/use.md#snippet-18`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Why are Promises recreated on every render? {/*why-promises-recreated*/}
+  - Snippet id: `reference/react/use.md#snippet-19`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Why are Promises recreated on every render? {/*why-promises-recreated*/}
+  - Snippet id: `reference/react/use.md#snippet-20`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Caching Promises for Client Components {/*caching-promises-for-client-components*/}
+  - Snippet id: `reference/react/use.md#snippet-21`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Caching Promises for Client Components {/*caching-promises-for-client-components*/}
+  - Snippet id: `reference/react/use.md#snippet-22`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Caching Promises for Client Components {/*caching-promises-for-client-components*/}
+  - Snippet id: `reference/react/use.md#snippet-23`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: How to implement a promise cache {/*how-to-implement-a-promise-cache*/}
+  - Snippet id: `reference/react/use.md#snippet-24`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Don't skip calling `use` based on whether a Promise is already settled. {/*conditional-use*/}
+  - Snippet id: `reference/react/use.md#snippet-25`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Don't skip calling `use` based on whether a Promise is already settled. {/*conditional-use*/}
+  - Snippet id: `reference/react/use.md#snippet-26`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Re-fetching data in Client Components {/*re-fetching-data-in-client-components*/}
+  - Snippet id: `reference/react/use.md#snippet-27`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Re-fetching data in Client Components {/*re-fetching-data-in-client-components*/}
+  - Snippet id: `reference/react/use.md#snippet-28`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Re-fetching data in Client Components {/*re-fetching-data-in-client-components*/}
+  - Snippet id: `reference/react/use.md#snippet-29`
+- css example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Re-fetching data in Client Components {/*re-fetching-data-in-client-components*/}
+  - Snippet id: `reference/react/use.md#snippet-30`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Preloading data on hover {/*preloading-data-on-hover*/}
+  - Snippet id: `reference/react/use.md#snippet-31`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Preloading data on hover {/*preloading-data-on-hover*/}
+  - Snippet id: `reference/react/use.md#snippet-32`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Preloading data on hover {/*preloading-data-on-hover*/}
+  - Snippet id: `reference/react/use.md#snippet-33`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Preloading data on hover {/*preloading-data-on-hover*/}
+  - Snippet id: `reference/react/use.md#snippet-34`
+- css example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Preloading data on hover {/*preloading-data-on-hover*/}
+  - Snippet id: `reference/react/use.md#snippet-35`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Streaming data from server to client {/*streaming-data-from-server-to-client*/}
+  - Snippet id: `reference/react/use.md#snippet-36`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Streaming data from server to client {/*streaming-data-from-server-to-client*/}
+  - Snippet id: `reference/react/use.md#snippet-37`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Streaming data from server to client {/*streaming-data-from-server-to-client*/}
+  - Snippet id: `reference/react/use.md#snippet-38`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Streaming data from server to client {/*streaming-data-from-server-to-client*/}
+  - Snippet id: `reference/react/use.md#snippet-39`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Streaming data from server to client {/*streaming-data-from-server-to-client*/}
+  - Snippet id: `reference/react/use.md#snippet-40`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Should I resolve a Promise in a Server or Client Component? {/*resolve-promise-in-server-or-client-component*/}
+  - Snippet id: `reference/react/use.md#snippet-41`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Should I resolve a Promise in a Server or Client Component? {/*resolve-promise-in-server-or-client-component*/}
+  - Snippet id: `reference/react/use.md#snippet-42`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Should I resolve a Promise in a Server or Client Component? {/*resolve-promise-in-server-or-client-component*/}
+  - Snippet id: `reference/react/use.md#snippet-43`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Displaying an error with an Error Boundary {/*displaying-an-error-with-an-error-boundary*/}
+  - Snippet id: `reference/react/use.md#snippet-44`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Displaying an error with an Error Boundary {/*displaying-an-error-with-an-error-boundary*/}
+  - Snippet id: `reference/react/use.md#snippet-45`
+- json example in [reference/react/use.md](./reference/react/use.md)
+  - Section: Displaying an error with an Error Boundary {/*displaying-an-error-with-an-error-boundary*/}
+  - Snippet id: `reference/react/use.md#snippet-46`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: <CanaryBadge /> Rendering a component only in the browser {/*rendering-a-component-only-in-the-browser*/}
+  - Snippet id: `reference/react/use.md#snippet-47`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: <CanaryBadge /> Rendering a component only in the browser {/*rendering-a-component-only-in-the-browser*/}
+  - Snippet id: `reference/react/use.md#snippet-48`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: <CanaryBadge /> Rendering a component only in the browser {/*rendering-a-component-only-in-the-browser*/}
+  - Snippet id: `reference/react/use.md#snippet-49`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: <CanaryBadge /> Rendering a component only in the browser {/*rendering-a-component-only-in-the-browser*/}
+  - Snippet id: `reference/react/use.md#snippet-50`
+- html example in [reference/react/use.md](./reference/react/use.md)
+  - Section: <CanaryBadge /> Rendering a component only in the browser {/*rendering-a-component-only-in-the-browser*/}
+  - Snippet id: `reference/react/use.md#snippet-51`
+- css example in [reference/react/use.md](./reference/react/use.md)
+  - Section: <CanaryBadge /> Rendering a component only in the browser {/*rendering-a-component-only-in-the-browser*/}
+  - Snippet id: `reference/react/use.md#snippet-52`
+- json example in [reference/react/use.md](./reference/react/use.md)
+  - Section: <CanaryBadge /> Rendering a component only in the browser {/*rendering-a-component-only-in-the-browser*/}
+  - Snippet id: `reference/react/use.md#snippet-53`
+- jsx example in [reference/react/use.md](./reference/react/use.md)
+  - Section: I'm getting an error: "Suspense Exception: This is not a real error!" {/*suspense-exception-error*/}
+  - Snippet id: `reference/react/use.md#snippet-54`
+- jsx example in [reference/react/use.md](./reference/react/use.md)
+  - Section: I'm getting an error: "Suspense Exception: This is not a real error!" {/*suspense-exception-error*/}
+  - Snippet id: `reference/react/use.md#snippet-55`
+- jsx example in [reference/react/use.md](./reference/react/use.md)
+  - Section: I'm getting an error: "Suspense Exception: This is not a real error!" {/*suspense-exception-error*/}
+  - Snippet id: `reference/react/use.md#snippet-56`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: I'm getting a warning: "A component was suspended by an uncached promise" {/*uncached-promise-error*/}
+  - Snippet id: `reference/react/use.md#snippet-57`
+- js example in [reference/react/use.md](./reference/react/use.md)
+  - Section: I'm getting a warning: "A component was suspended by an uncached promise" {/*uncached-promise-error*/}
+  - Snippet id: `reference/react/use.md#snippet-58`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: useActionState.md
+  - Snippet id: `reference/react/useactionstate.md#snippet-1`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: `useActionState(reducerAction, initialState, permalink?)` {/*useactionstate*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-2`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: `reducerAction` function {/*reduceraction*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-3`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Adding state to an Action {/*adding-state-to-an-action*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-4`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Adding state to an Action {/*adding-state-to-an-action*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-5`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Adding state to an Action {/*adding-state-to-an-action*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-6`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Adding state to an Action {/*adding-state-to-an-action*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-7`
+- css example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Adding state to an Action {/*adding-state-to-an-action*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-8`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using multiple Action types {/*using-multiple-action-types*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-9`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using multiple Action types {/*using-multiple-action-types*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-10`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using multiple Action types {/*using-multiple-action-types*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-11`
+- css example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using multiple Action types {/*using-multiple-action-types*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-12`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with `useOptimistic` {/*using-with-useoptimistic*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-13`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with `useOptimistic` {/*using-with-useoptimistic*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-14`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with `useOptimistic` {/*using-with-useoptimistic*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-15`
+- css example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with `useOptimistic` {/*using-with-useoptimistic*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-16`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with Action props {/*using-with-action-props*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-17`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with Action props {/*using-with-action-props*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-18`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with Action props {/*using-with-action-props*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-19`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with Action props {/*using-with-action-props*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-20`
+- css example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with Action props {/*using-with-action-props*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-21`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Cancelling queued Actions {/*cancelling-queued-actions*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-22`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Cancelling queued Actions {/*cancelling-queued-actions*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-23`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Cancelling queued Actions {/*cancelling-queued-actions*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-24`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Cancelling queued Actions {/*cancelling-queued-actions*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-25`
+- css example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Cancelling queued Actions {/*cancelling-queued-actions*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-26`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with `<form>` Action props {/*use-with-a-form*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-27`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with `<form>` Action props {/*use-with-a-form*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-28`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with `<form>` Action props {/*use-with-a-form*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-29`
+- css example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Using with `<form>` Action props {/*use-with-a-form*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-30`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Handling errors {/*handling-errors*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-31`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Handling errors {/*handling-errors*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-32`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Handling errors {/*handling-errors*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-33`
+- css example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Handling errors {/*handling-errors*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-34`
+- json example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: Handling errors {/*handling-errors*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-35`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: My `isPending` flag is not updating {/*ispending-not-updating*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-36`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: My Action cannot read form data {/*action-cannot-read-form-data*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-37`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: My actions are being skipped {/*actions-skipped*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-38`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: My state doesn't reset {/*reset-state*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-39`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: I'm getting an error: "An async function with useActionState was called outside of a transition." {/*async-function-outside-transition*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-40`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: I'm getting an error: "An async function with useActionState was called outside of a transition." {/*async-function-outside-transition*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-41`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: I'm getting an error: "An async function with useActionState was called outside of a transition." {/*async-function-outside-transition*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-42`
+- js example in [reference/react/useactionstate.md](./reference/react/useactionstate.md)
+  - Section: I'm getting an error: "Cannot update action state while rendering" {/*cannot-update-during-render*/}
+  - Snippet id: `reference/react/useactionstate.md#snippet-43`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: useCallback.md
+  - Snippet id: `reference/react/usecallback.md#snippet-1`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: `useCallback(fn, dependencies)` {/*usecallback*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-2`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Skipping re-rendering of components {/*skipping-re-rendering-of-components*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-3`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Skipping re-rendering of components {/*skipping-re-rendering-of-components*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-4`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Skipping re-rendering of components {/*skipping-re-rendering-of-components*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-5`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Skipping re-rendering of components {/*skipping-re-rendering-of-components*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-6`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Skipping re-rendering of components {/*skipping-re-rendering-of-components*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-7`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: How is useCallback related to useMemo? {/*how-is-usecallback-related-to-usememo*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-8`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: How is useCallback related to useMemo? {/*how-is-usecallback-related-to-usememo*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-9`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Skipping re-rendering with `useCallback` and `memo` {/*skipping-re-rendering-with-usecallback-and-memo*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-10`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Skipping re-rendering with `useCallback` and `memo` {/*skipping-re-rendering-with-usecallback-and-memo*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-11`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Skipping re-rendering with `useCallback` and `memo` {/*skipping-re-rendering-with-usecallback-and-memo*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-12`
+- css example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Skipping re-rendering with `useCallback` and `memo` {/*skipping-re-rendering-with-usecallback-and-memo*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-13`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-14`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-15`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-16`
+- css example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-17`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-18`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-19`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-20`
+- css example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-21`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Updating state from a memoized callback {/*updating-state-from-a-memoized-callback*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-22`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Updating state from a memoized callback {/*updating-state-from-a-memoized-callback*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-23`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Preventing an Effect from firing too often {/*preventing-an-effect-from-firing-too-often*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-24`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Preventing an Effect from firing too often {/*preventing-an-effect-from-firing-too-often*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-25`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Preventing an Effect from firing too often {/*preventing-an-effect-from-firing-too-often*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-26`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Preventing an Effect from firing too often {/*preventing-an-effect-from-firing-too-often*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-27`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Optimizing a custom Hook {/*optimizing-a-custom-hook*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-28`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Every time my component renders, `useCallback` returns a different function {/*every-time-my-component-renders-usecallback-returns-a-different-function*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-29`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Every time my component renders, `useCallback` returns a different function {/*every-time-my-component-renders-usecallback-returns-a-different-function*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-30`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Every time my component renders, `useCallback` returns a different function {/*every-time-my-component-renders-usecallback-returns-a-different-function*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-31`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: Every time my component renders, `useCallback` returns a different function {/*every-time-my-component-renders-usecallback-returns-a-different-function*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-32`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: I need to call `useCallback` for each list item in a loop, but it's not allowed {/*i-need-to-call-usememo-for-each-list-item-in-a-loop-but-its-not-allowed*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-33`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: I need to call `useCallback` for each list item in a loop, but it's not allowed {/*i-need-to-call-usememo-for-each-list-item-in-a-loop-but-its-not-allowed*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-34`
+- js example in [reference/react/usecallback.md](./reference/react/usecallback.md)
+  - Section: I need to call `useCallback` for each list item in a loop, but it's not allowed {/*i-need-to-call-usememo-for-each-list-item-in-a-loop-but-its-not-allowed*/}
+  - Snippet id: `reference/react/usecallback.md#snippet-35`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: useContext.md
+  - Snippet id: `reference/react/usecontext.md#snippet-1`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: `useContext(SomeContext)` {/*usecontext*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-2`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Passing data deeply into the tree {/*passing-data-deeply-into-the-tree*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-3`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Passing data deeply into the tree {/*passing-data-deeply-into-the-tree*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-4`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Passing data deeply into the tree {/*passing-data-deeply-into-the-tree*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-5`
+- css example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Passing data deeply into the tree {/*passing-data-deeply-into-the-tree*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-6`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Updating data passed via context {/*updating-data-passed-via-context*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-7`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Updating a value via context {/*updating-a-value-via-context*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-8`
+- css example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Updating a value via context {/*updating-a-value-via-context*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-9`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Updating an object via context {/*updating-an-object-via-context*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-10`
+- css example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Updating an object via context {/*updating-an-object-via-context*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-11`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Multiple contexts {/*multiple-contexts*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-12`
+- css example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Multiple contexts {/*multiple-contexts*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-13`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Extracting providers to a component {/*extracting-providers-to-a-component*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-14`
+- css example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Extracting providers to a component {/*extracting-providers-to-a-component*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-15`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Scaling up with context and a reducer {/*scaling-up-with-context-and-a-reducer*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-16`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Scaling up with context and a reducer {/*scaling-up-with-context-and-a-reducer*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-17`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Scaling up with context and a reducer {/*scaling-up-with-context-and-a-reducer*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-18`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Scaling up with context and a reducer {/*scaling-up-with-context-and-a-reducer*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-19`
+- css example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Scaling up with context and a reducer {/*scaling-up-with-context-and-a-reducer*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-20`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Specifying a fallback default value {/*specifying-a-fallback-default-value*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-21`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Specifying a fallback default value {/*specifying-a-fallback-default-value*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-22`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Specifying a fallback default value {/*specifying-a-fallback-default-value*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-23`
+- css example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Specifying a fallback default value {/*specifying-a-fallback-default-value*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-24`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Overriding context for a part of the tree {/*overriding-context-for-a-part-of-the-tree*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-25`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Overriding a theme {/*overriding-a-theme*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-26`
+- css example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Overriding a theme {/*overriding-a-theme*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-27`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Automatically nested headings {/*automatically-nested-headings*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-28`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Automatically nested headings {/*automatically-nested-headings*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-29`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Automatically nested headings {/*automatically-nested-headings*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-30`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Automatically nested headings {/*automatically-nested-headings*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-31`
+- css example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Automatically nested headings {/*automatically-nested-headings*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-32`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Optimizing re-renders when passing objects and functions {/*optimizing-re-renders-when-passing-objects-and-functions*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-33`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: Optimizing re-renders when passing objects and functions {/*optimizing-re-renders-when-passing-objects-and-functions*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-34`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: I am always getting `undefined` from my context although the default value is different {/*i-am-always-getting-undefined-from-my-context-although-the-default-value-is-different*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-35`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: I am always getting `undefined` from my context although the default value is different {/*i-am-always-getting-undefined-from-my-context-although-the-default-value-is-different*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-36`
+- js example in [reference/react/usecontext.md](./reference/react/usecontext.md)
+  - Section: I am always getting `undefined` from my context although the default value is different {/*i-am-always-getting-undefined-from-my-context-although-the-default-value-is-different*/}
+  - Snippet id: `reference/react/usecontext.md#snippet-37`
+- js example in [reference/react/usedebugvalue.md](./reference/react/usedebugvalue.md)
+  - Section: useDebugValue.md
+  - Snippet id: `reference/react/usedebugvalue.md#snippet-1`
+- js example in [reference/react/usedebugvalue.md](./reference/react/usedebugvalue.md)
+  - Section: `useDebugValue(value, format?)` {/*usedebugvalue*/}
+  - Snippet id: `reference/react/usedebugvalue.md#snippet-2`
+- js example in [reference/react/usedebugvalue.md](./reference/react/usedebugvalue.md)
+  - Section: Adding a label to a custom Hook {/*adding-a-label-to-a-custom-hook*/}
+  - Snippet id: `reference/react/usedebugvalue.md#snippet-3`
+- js example in [reference/react/usedebugvalue.md](./reference/react/usedebugvalue.md)
+  - Section: Adding a label to a custom Hook {/*adding-a-label-to-a-custom-hook*/}
+  - Snippet id: `reference/react/usedebugvalue.md#snippet-4`
+- js example in [reference/react/usedebugvalue.md](./reference/react/usedebugvalue.md)
+  - Section: Adding a label to a custom Hook {/*adding-a-label-to-a-custom-hook*/}
+  - Snippet id: `reference/react/usedebugvalue.md#snippet-5`
+- js example in [reference/react/usedebugvalue.md](./reference/react/usedebugvalue.md)
+  - Section: Deferring formatting of a debug value {/*deferring-formatting-of-a-debug-value*/}
+  - Snippet id: `reference/react/usedebugvalue.md#snippet-6`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: useDeferredValue.md
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-1`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: `useDeferredValue(value, initialValue?)` {/*usedeferredvalue*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-2`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-3`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-4`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-5`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-6`
+- css example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-7`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-8`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-9`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-10`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-11`
+- css example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Showing stale content while fresh content is loading {/*showing-stale-content-while-fresh-content-is-loading*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-12`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Indicating that the content is stale {/*indicating-that-the-content-is-stale*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-13`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Indicating that the content is stale {/*indicating-that-the-content-is-stale*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-14`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Indicating that the content is stale {/*indicating-that-the-content-is-stale*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-15`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Indicating that the content is stale {/*indicating-that-the-content-is-stale*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-16`
+- css example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Indicating that the content is stale {/*indicating-that-the-content-is-stale*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-17`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Deferring re-rendering for a part of the UI {/*deferring-re-rendering-for-a-part-of-the-ui*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-18`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Deferring re-rendering for a part of the UI {/*deferring-re-rendering-for-a-part-of-the-ui*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-19`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Deferring re-rendering for a part of the UI {/*deferring-re-rendering-for-a-part-of-the-ui*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-20`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Deferred re-rendering of the list {/*deferred-re-rendering-of-the-list*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-21`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Deferred re-rendering of the list {/*deferred-re-rendering-of-the-list*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-22`
+- css example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Deferred re-rendering of the list {/*deferred-re-rendering-of-the-list*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-23`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Unoptimized re-rendering of the list {/*unoptimized-re-rendering-of-the-list*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-24`
+- js example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Unoptimized re-rendering of the list {/*unoptimized-re-rendering-of-the-list*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-25`
+- css example in [reference/react/usedeferredvalue.md](./reference/react/usedeferredvalue.md)
+  - Section: Unoptimized re-rendering of the list {/*unoptimized-re-rendering-of-the-list*/}
+  - Snippet id: `reference/react/usedeferredvalue.md#snippet-26`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: useEffect.md
+  - Snippet id: `reference/react/useeffect.md#snippet-1`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: `useEffect(setup, dependencies?)` {/*useeffect*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-2`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Connecting to an external system {/*connecting-to-an-external-system*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-3`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Connecting to a chat server {/*connecting-to-a-chat-server*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-4`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Connecting to a chat server {/*connecting-to-a-chat-server*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-5`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Connecting to a chat server {/*connecting-to-a-chat-server*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-6`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Listening to a global browser event {/*listening-to-a-global-browser-event*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-7`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Listening to a global browser event {/*listening-to-a-global-browser-event*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-8`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Triggering an animation {/*triggering-an-animation*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-9`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Triggering an animation {/*triggering-an-animation*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-10`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Triggering an animation {/*triggering-an-animation*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-11`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Controlling a modal dialog {/*controlling-a-modal-dialog*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-12`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Controlling a modal dialog {/*controlling-a-modal-dialog*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-13`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Controlling a modal dialog {/*controlling-a-modal-dialog*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-14`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Tracking element visibility {/*tracking-element-visibility*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-15`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Tracking element visibility {/*tracking-element-visibility*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-16`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Wrapping Effects in custom Hooks {/*wrapping-effects-in-custom-hooks*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-17`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Wrapping Effects in custom Hooks {/*wrapping-effects-in-custom-hooks*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-18`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useChatRoom` Hook {/*custom-usechatroom-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-19`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useChatRoom` Hook {/*custom-usechatroom-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-20`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useChatRoom` Hook {/*custom-usechatroom-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-21`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useChatRoom` Hook {/*custom-usechatroom-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-22`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useWindowListener` Hook {/*custom-usewindowlistener-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-23`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useWindowListener` Hook {/*custom-usewindowlistener-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-24`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useWindowListener` Hook {/*custom-usewindowlistener-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-25`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useIntersectionObserver` Hook {/*custom-useintersectionobserver-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-26`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useIntersectionObserver` Hook {/*custom-useintersectionobserver-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-27`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Custom `useIntersectionObserver` Hook {/*custom-useintersectionobserver-hook*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-28`
+- json example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Controlling a non-React widget {/*controlling-a-non-react-widget*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-29`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Controlling a non-React widget {/*controlling-a-non-react-widget*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-30`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Controlling a non-React widget {/*controlling-a-non-react-widget*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-31`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Controlling a non-React widget {/*controlling-a-non-react-widget*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-32`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Controlling a non-React widget {/*controlling-a-non-react-widget*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-33`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Fetching data with Effects {/*fetching-data-with-effects*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-34`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Fetching data with Effects {/*fetching-data-with-effects*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-35`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Fetching data with Effects {/*fetching-data-with-effects*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-36`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Fetching data with Effects {/*fetching-data-with-effects*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-37`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Fetching data with Effects {/*fetching-data-with-effects*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-38`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Specifying reactive dependencies {/*specifying-reactive-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-39`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Specifying reactive dependencies {/*specifying-reactive-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-40`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Specifying reactive dependencies {/*specifying-reactive-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-41`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Specifying reactive dependencies {/*specifying-reactive-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-42`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Specifying reactive dependencies {/*specifying-reactive-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-43`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing a dependency array {/*passing-a-dependency-array*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-44`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing a dependency array {/*passing-a-dependency-array*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-45`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing a dependency array {/*passing-a-dependency-array*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-46`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing a dependency array {/*passing-a-dependency-array*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-47`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing an empty dependency array {/*passing-an-empty-dependency-array*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-48`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing an empty dependency array {/*passing-an-empty-dependency-array*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-49`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing an empty dependency array {/*passing-an-empty-dependency-array*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-50`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing no dependency array at all {/*passing-no-dependency-array-at-all*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-51`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing no dependency array at all {/*passing-no-dependency-array-at-all*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-52`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing no dependency array at all {/*passing-no-dependency-array-at-all*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-53`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Passing no dependency array at all {/*passing-no-dependency-array-at-all*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-54`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Updating state based on previous state from an Effect {/*updating-state-based-on-previous-state-from-an-effect*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-55`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Updating state based on previous state from an Effect {/*updating-state-based-on-previous-state-from-an-effect*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-56`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Updating state based on previous state from an Effect {/*updating-state-based-on-previous-state-from-an-effect*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-57`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Removing unnecessary object dependencies {/*removing-unnecessary-object-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-58`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Removing unnecessary object dependencies {/*removing-unnecessary-object-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-59`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Removing unnecessary object dependencies {/*removing-unnecessary-object-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-60`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Removing unnecessary object dependencies {/*removing-unnecessary-object-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-61`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Removing unnecessary function dependencies {/*removing-unnecessary-function-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-62`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Removing unnecessary function dependencies {/*removing-unnecessary-function-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-63`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Removing unnecessary function dependencies {/*removing-unnecessary-function-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-64`
+- css example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Removing unnecessary function dependencies {/*removing-unnecessary-function-dependencies*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-65`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Reading the latest props and state from an Effect {/*reading-the-latest-props-and-state-from-an-effect*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-66`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Reading the latest props and state from an Effect {/*reading-the-latest-props-and-state-from-an-effect*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-67`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: Displaying different content on the server and the client {/*displaying-different-content-on-the-server-and-the-client*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-68`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: My Effect runs after every re-render {/*my-effect-runs-after-every-re-render*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-69`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: My Effect runs after every re-render {/*my-effect-runs-after-every-re-render*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-70`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: My Effect runs after every re-render {/*my-effect-runs-after-every-re-render*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-71`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: My cleanup logic runs even though my component didn't unmount {/*my-cleanup-logic-runs-even-though-my-component-didnt-unmount*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-72`
+- js example in [reference/react/useeffect.md](./reference/react/useeffect.md)
+  - Section: My cleanup logic runs even though my component didn't unmount {/*my-cleanup-logic-runs-even-though-my-component-didnt-unmount*/}
+  - Snippet id: `reference/react/useeffect.md#snippet-73`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: useEffectEvent.md
+  - Snippet id: `reference/react/useeffectevent.md#snippet-1`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: `useEffectEvent(callback)` {/*useeffectevent*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-2`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Why are Effect Events not stable? {/*why-are-effect-events-not-stable*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-3`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Using an event in an Effect {/*using-an-event-in-an-effect*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-4`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Using an event in an Effect {/*using-an-event-in-an-effect*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-5`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Don't use Effect Events to skip dependencies {/*pitfall-skip-dependencies*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-6`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Using a timer with latest values {/*using-a-timer-with-latest-values*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-7`
+- css example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Using a timer with latest values {/*using-a-timer-with-latest-values*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-8`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Using an event listener with latest values {/*using-an-event-listener-with-latest-values*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-9`
+- css example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Using an event listener with latest values {/*using-an-event-listener-with-latest-values*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-10`
+- json example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Avoid reconnecting to external systems {/*showing-a-notification-without-reconnecting*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-11`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Avoid reconnecting to external systems {/*showing-a-notification-without-reconnecting*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-12`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Avoid reconnecting to external systems {/*showing-a-notification-without-reconnecting*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-13`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Avoid reconnecting to external systems {/*showing-a-notification-without-reconnecting*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-14`
+- css example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Avoid reconnecting to external systems {/*showing-a-notification-without-reconnecting*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-15`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Using Effect Events in custom Hooks {/*using-effect-events-in-custom-hooks*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-16`
+- css example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: Using Effect Events in custom Hooks {/*using-effect-events-in-custom-hooks*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-17`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: I'm getting an error: "A function wrapped in useEffectEvent can't be called during rendering" {/*cant-call-during-rendering*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-18`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: I'm getting a lint error: "Functions returned from useEffectEvent must not be included in the dependency array" {/*effect-event-in-deps*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-19`
+- js example in [reference/react/useeffectevent.md](./reference/react/useeffectevent.md)
+  - Section: I'm getting a lint error: "... is a function created with useEffectEvent, and can only be called from Effects" {/*effect-event-called-outside-effect*/}
+  - Snippet id: `reference/react/useeffectevent.md#snippet-20`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: useId.md
+  - Snippet id: `reference/react/useid.md#snippet-1`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: `useId()` {/*useid*/}
+  - Snippet id: `reference/react/useid.md#snippet-2`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Generating unique IDs for accessibility attributes {/*generating-unique-ids-for-accessibility-attributes*/}
+  - Snippet id: `reference/react/useid.md#snippet-3`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Generating unique IDs for accessibility attributes {/*generating-unique-ids-for-accessibility-attributes*/}
+  - Snippet id: `reference/react/useid.md#snippet-4`
+- html example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Generating unique IDs for accessibility attributes {/*generating-unique-ids-for-accessibility-attributes*/}
+  - Snippet id: `reference/react/useid.md#snippet-5`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Generating unique IDs for accessibility attributes {/*generating-unique-ids-for-accessibility-attributes*/}
+  - Snippet id: `reference/react/useid.md#snippet-6`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Generating unique IDs for accessibility attributes {/*generating-unique-ids-for-accessibility-attributes*/}
+  - Snippet id: `reference/react/useid.md#snippet-7`
+- css example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Generating unique IDs for accessibility attributes {/*generating-unique-ids-for-accessibility-attributes*/}
+  - Snippet id: `reference/react/useid.md#snippet-8`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Generating IDs for several related elements {/*generating-ids-for-several-related-elements*/}
+  - Snippet id: `reference/react/useid.md#snippet-9`
+- css example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Generating IDs for several related elements {/*generating-ids-for-several-related-elements*/}
+  - Snippet id: `reference/react/useid.md#snippet-10`
+- html example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Specifying a shared prefix for all generated IDs {/*specifying-a-shared-prefix-for-all-generated-ids*/}
+  - Snippet id: `reference/react/useid.md#snippet-11`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Specifying a shared prefix for all generated IDs {/*specifying-a-shared-prefix-for-all-generated-ids*/}
+  - Snippet id: `reference/react/useid.md#snippet-12`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Specifying a shared prefix for all generated IDs {/*specifying-a-shared-prefix-for-all-generated-ids*/}
+  - Snippet id: `reference/react/useid.md#snippet-13`
+- css example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Specifying a shared prefix for all generated IDs {/*specifying-a-shared-prefix-for-all-generated-ids*/}
+  - Snippet id: `reference/react/useid.md#snippet-14`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Using the same ID prefix on the client and the server {/*using-the-same-id-prefix-on-the-client-and-the-server*/}
+  - Snippet id: `reference/react/useid.md#snippet-15`
+- js example in [reference/react/useid.md](./reference/react/useid.md)
+  - Section: Using the same ID prefix on the client and the server {/*using-the-same-id-prefix-on-the-client-and-the-server*/}
+  - Snippet id: `reference/react/useid.md#snippet-16`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: useImperativeHandle.md
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-1`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: `useImperativeHandle(ref, createHandle, dependencies?)` {/*useimperativehandle*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-2`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing a custom ref handle to the parent component {/*exposing-a-custom-ref-handle-to-the-parent-component*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-3`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing a custom ref handle to the parent component {/*exposing-a-custom-ref-handle-to-the-parent-component*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-4`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing a custom ref handle to the parent component {/*exposing-a-custom-ref-handle-to-the-parent-component*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-5`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing a custom ref handle to the parent component {/*exposing-a-custom-ref-handle-to-the-parent-component*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-6`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing a custom ref handle to the parent component {/*exposing-a-custom-ref-handle-to-the-parent-component*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-7`
+- css example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing a custom ref handle to the parent component {/*exposing-a-custom-ref-handle-to-the-parent-component*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-8`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing your own imperative methods {/*exposing-your-own-imperative-methods*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-9`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing your own imperative methods {/*exposing-your-own-imperative-methods*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-10`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing your own imperative methods {/*exposing-your-own-imperative-methods*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-11`
+- js example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing your own imperative methods {/*exposing-your-own-imperative-methods*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-12`
+- css example in [reference/react/useimperativehandle.md](./reference/react/useimperativehandle.md)
+  - Section: Exposing your own imperative methods {/*exposing-your-own-imperative-methods*/}
+  - Snippet id: `reference/react/useimperativehandle.md#snippet-13`
+- js example in [reference/react/useinsertioneffect.md](./reference/react/useinsertioneffect.md)
+  - Section: useInsertionEffect.md
+  - Snippet id: `reference/react/useinsertioneffect.md#snippet-1`
+- js example in [reference/react/useinsertioneffect.md](./reference/react/useinsertioneffect.md)
+  - Section: `useInsertionEffect(setup, dependencies?)` {/*useinsertioneffect*/}
+  - Snippet id: `reference/react/useinsertioneffect.md#snippet-2`
+- js example in [reference/react/useinsertioneffect.md](./reference/react/useinsertioneffect.md)
+  - Section: Injecting dynamic styles from CSS-in-JS libraries {/*injecting-dynamic-styles-from-css-in-js-libraries*/}
+  - Snippet id: `reference/react/useinsertioneffect.md#snippet-3`
+- js example in [reference/react/useinsertioneffect.md](./reference/react/useinsertioneffect.md)
+  - Section: Injecting dynamic styles from CSS-in-JS libraries {/*injecting-dynamic-styles-from-css-in-js-libraries*/}
+  - Snippet id: `reference/react/useinsertioneffect.md#snippet-4`
+- js example in [reference/react/useinsertioneffect.md](./reference/react/useinsertioneffect.md)
+  - Section: Injecting dynamic styles from CSS-in-JS libraries {/*injecting-dynamic-styles-from-css-in-js-libraries*/}
+  - Snippet id: `reference/react/useinsertioneffect.md#snippet-5`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: useLayoutEffect.md
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-1`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useLayoutEffect(setup, dependencies?)` {/*useinsertioneffect*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-2`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: Measuring layout before the browser repaints the screen {/*measuring-layout-before-the-browser-repaints-the-screen*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-3`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: Measuring layout before the browser repaints the screen {/*measuring-layout-before-the-browser-repaints-the-screen*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-4`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: Measuring layout before the browser repaints the screen {/*measuring-layout-before-the-browser-repaints-the-screen*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-5`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: Measuring layout before the browser repaints the screen {/*measuring-layout-before-the-browser-repaints-the-screen*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-6`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: Measuring layout before the browser repaints the screen {/*measuring-layout-before-the-browser-repaints-the-screen*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-7`
+- css example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: Measuring layout before the browser repaints the screen {/*measuring-layout-before-the-browser-repaints-the-screen*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-8`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useLayoutEffect` blocks the browser from repainting {/*uselayouteffect-blocks-the-browser-from-repainting*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-9`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useLayoutEffect` blocks the browser from repainting {/*uselayouteffect-blocks-the-browser-from-repainting*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-10`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useLayoutEffect` blocks the browser from repainting {/*uselayouteffect-blocks-the-browser-from-repainting*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-11`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useLayoutEffect` blocks the browser from repainting {/*uselayouteffect-blocks-the-browser-from-repainting*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-12`
+- css example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useLayoutEffect` blocks the browser from repainting {/*uselayouteffect-blocks-the-browser-from-repainting*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-13`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-14`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-15`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-16`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-17`
+- css example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-18`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-19`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-20`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-21`
+- js example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-22`
+- css example in [reference/react/uselayouteffect.md](./reference/react/uselayouteffect.md)
+  - Section: `useEffect` does not block the browser {/*useeffect-does-not-block-the-browser*/}
+  - Snippet id: `reference/react/uselayouteffect.md#snippet-23`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: useMemo.md
+  - Snippet id: `reference/react/usememo.md#snippet-1`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: `useMemo(calculateValue, dependencies)` {/*usememo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-2`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping expensive recalculations {/*skipping-expensive-recalculations*/}
+  - Snippet id: `reference/react/usememo.md#snippet-3`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping expensive recalculations {/*skipping-expensive-recalculations*/}
+  - Snippet id: `reference/react/usememo.md#snippet-4`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: How to tell if a calculation is expensive? {/*how-to-tell-if-a-calculation-is-expensive*/}
+  - Snippet id: `reference/react/usememo.md#snippet-5`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: How to tell if a calculation is expensive? {/*how-to-tell-if-a-calculation-is-expensive*/}
+  - Snippet id: `reference/react/usememo.md#snippet-6`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping recalculation with `useMemo` {/*skipping-recalculation-with-usememo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-7`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping recalculation with `useMemo` {/*skipping-recalculation-with-usememo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-8`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping recalculation with `useMemo` {/*skipping-recalculation-with-usememo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-9`
+- css example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping recalculation with `useMemo` {/*skipping-recalculation-with-usememo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-10`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always recalculating a value {/*always-recalculating-a-value*/}
+  - Snippet id: `reference/react/usememo.md#snippet-11`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always recalculating a value {/*always-recalculating-a-value*/}
+  - Snippet id: `reference/react/usememo.md#snippet-12`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always recalculating a value {/*always-recalculating-a-value*/}
+  - Snippet id: `reference/react/usememo.md#snippet-13`
+- css example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always recalculating a value {/*always-recalculating-a-value*/}
+  - Snippet id: `reference/react/usememo.md#snippet-14`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always recalculating a value {/*always-recalculating-a-value*/}
+  - Snippet id: `reference/react/usememo.md#snippet-15`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always recalculating a value {/*always-recalculating-a-value*/}
+  - Snippet id: `reference/react/usememo.md#snippet-16`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always recalculating a value {/*always-recalculating-a-value*/}
+  - Snippet id: `reference/react/usememo.md#snippet-17`
+- css example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always recalculating a value {/*always-recalculating-a-value*/}
+  - Snippet id: `reference/react/usememo.md#snippet-18`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping re-rendering of components {/*skipping-re-rendering-of-components*/}
+  - Snippet id: `reference/react/usememo.md#snippet-19`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping re-rendering of components {/*skipping-re-rendering-of-components*/}
+  - Snippet id: `reference/react/usememo.md#snippet-20`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping re-rendering of components {/*skipping-re-rendering-of-components*/}
+  - Snippet id: `reference/react/usememo.md#snippet-21`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping re-rendering of components {/*skipping-re-rendering-of-components*/}
+  - Snippet id: `reference/react/usememo.md#snippet-22`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Memoizing individual JSX nodes {/*memoizing-individual-jsx-nodes*/}
+  - Snippet id: `reference/react/usememo.md#snippet-23`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping re-rendering with `useMemo` and `memo` {/*skipping-re-rendering-with-usememo-and-memo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-24`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping re-rendering with `useMemo` and `memo` {/*skipping-re-rendering-with-usememo-and-memo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-25`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping re-rendering with `useMemo` and `memo` {/*skipping-re-rendering-with-usememo-and-memo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-26`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping re-rendering with `useMemo` and `memo` {/*skipping-re-rendering-with-usememo-and-memo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-27`
+- css example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Skipping re-rendering with `useMemo` and `memo` {/*skipping-re-rendering-with-usememo-and-memo*/}
+  - Snippet id: `reference/react/usememo.md#snippet-28`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-29`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-30`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-31`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-32`
+- css example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-33`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-34`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-35`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-36`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-37`
+- css example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Always re-rendering a component {/*always-re-rendering-a-component*/}
+  - Snippet id: `reference/react/usememo.md#snippet-38`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Preventing an Effect from firing too often {/*preventing-an-effect-from-firing-too-often*/}
+  - Snippet id: `reference/react/usememo.md#snippet-39`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Preventing an Effect from firing too often {/*preventing-an-effect-from-firing-too-often*/}
+  - Snippet id: `reference/react/usememo.md#snippet-40`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Preventing an Effect from firing too often {/*preventing-an-effect-from-firing-too-often*/}
+  - Snippet id: `reference/react/usememo.md#snippet-41`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Preventing an Effect from firing too often {/*preventing-an-effect-from-firing-too-often*/}
+  - Snippet id: `reference/react/usememo.md#snippet-42`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Memoizing a dependency of another Hook {/*memoizing-a-dependency-of-another-hook*/}
+  - Snippet id: `reference/react/usememo.md#snippet-43`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Memoizing a dependency of another Hook {/*memoizing-a-dependency-of-another-hook*/}
+  - Snippet id: `reference/react/usememo.md#snippet-44`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Memoizing a dependency of another Hook {/*memoizing-a-dependency-of-another-hook*/}
+  - Snippet id: `reference/react/usememo.md#snippet-45`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Memoizing a function {/*memoizing-a-function*/}
+  - Snippet id: `reference/react/usememo.md#snippet-46`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Memoizing a function {/*memoizing-a-function*/}
+  - Snippet id: `reference/react/usememo.md#snippet-47`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Memoizing a function {/*memoizing-a-function*/}
+  - Snippet id: `reference/react/usememo.md#snippet-48`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: My calculation runs twice on every re-render {/*my-calculation-runs-twice-on-every-re-render*/}
+  - Snippet id: `reference/react/usememo.md#snippet-49`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: My calculation runs twice on every re-render {/*my-calculation-runs-twice-on-every-re-render*/}
+  - Snippet id: `reference/react/usememo.md#snippet-50`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: My calculation runs twice on every re-render {/*my-calculation-runs-twice-on-every-re-render*/}
+  - Snippet id: `reference/react/usememo.md#snippet-51`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: My `useMemo` call is supposed to return an object, but returns undefined {/*my-usememo-call-is-supposed-to-return-an-object-but-returns-undefined*/}
+  - Snippet id: `reference/react/usememo.md#snippet-52`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: My `useMemo` call is supposed to return an object, but returns undefined {/*my-usememo-call-is-supposed-to-return-an-object-but-returns-undefined*/}
+  - Snippet id: `reference/react/usememo.md#snippet-53`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: My `useMemo` call is supposed to return an object, but returns undefined {/*my-usememo-call-is-supposed-to-return-an-object-but-returns-undefined*/}
+  - Snippet id: `reference/react/usememo.md#snippet-54`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Every time my component renders, the calculation in `useMemo` re-runs {/*every-time-my-component-renders-the-calculation-in-usememo-re-runs*/}
+  - Snippet id: `reference/react/usememo.md#snippet-55`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Every time my component renders, the calculation in `useMemo` re-runs {/*every-time-my-component-renders-the-calculation-in-usememo-re-runs*/}
+  - Snippet id: `reference/react/usememo.md#snippet-56`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Every time my component renders, the calculation in `useMemo` re-runs {/*every-time-my-component-renders-the-calculation-in-usememo-re-runs*/}
+  - Snippet id: `reference/react/usememo.md#snippet-57`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: Every time my component renders, the calculation in `useMemo` re-runs {/*every-time-my-component-renders-the-calculation-in-usememo-re-runs*/}
+  - Snippet id: `reference/react/usememo.md#snippet-58`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: I need to call `useMemo` for each list item in a loop, but it's not allowed {/*i-need-to-call-usememo-for-each-list-item-in-a-loop-but-its-not-allowed*/}
+  - Snippet id: `reference/react/usememo.md#snippet-59`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: I need to call `useMemo` for each list item in a loop, but it's not allowed {/*i-need-to-call-usememo-for-each-list-item-in-a-loop-but-its-not-allowed*/}
+  - Snippet id: `reference/react/usememo.md#snippet-60`
+- js example in [reference/react/usememo.md](./reference/react/usememo.md)
+  - Section: I need to call `useMemo` for each list item in a loop, but it's not allowed {/*i-need-to-call-usememo-for-each-list-item-in-a-loop-but-its-not-allowed*/}
+  - Snippet id: `reference/react/usememo.md#snippet-61`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: useOptimistic.md
+  - Snippet id: `reference/react/useoptimistic.md#snippet-1`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: `useOptimistic(value, reducer?)` {/*useoptimistic*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-2`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: `set` functions, like `setOptimistic(optimisticState)` {/*setoptimistic*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-3`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: How optimistic state works {/*how-optimistic-state-works*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-4`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Adding optimistic state to a component {/*adding-optimistic-state-to-a-component*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-5`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Adding optimistic state to a component {/*adding-optimistic-state-to-a-component*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-6`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Adding optimistic state to a component {/*adding-optimistic-state-to-a-component*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-7`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Using optimistic state in Action props {/*using-optimistic-state-in-action-props*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-8`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Using optimistic state in Action props {/*using-optimistic-state-in-action-props*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-9`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Using optimistic state in Action props {/*using-optimistic-state-in-action-props*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-10`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Adding optimistic state to Action props {/*adding-optimistic-state-to-action-props*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-11`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Adding optimistic state to Action props {/*adding-optimistic-state-to-action-props*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-12`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Adding optimistic state to Action props {/*adding-optimistic-state-to-action-props*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-13`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Adding optimistic state to Action props {/*adding-optimistic-state-to-action-props*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-14`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Updating props or state optimistically {/*updating-props-or-state-optimistically*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-15`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Updating props or state optimistically {/*updating-props-or-state-optimistically*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-16`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Updating props or state optimistically {/*updating-props-or-state-optimistically*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-17`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Updating multiple values together {/*updating-multiple-values-together*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-18`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Updating multiple values together {/*updating-multiple-values-together*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-19`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Updating multiple values together {/*updating-multiple-values-together*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-20`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Choosing between updaters and reducers {/*choosing-between-updaters-and-reducers*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-21`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Choosing between updaters and reducers {/*choosing-between-updaters-and-reducers*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-22`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Optimistically adding to a list {/*optimistically-adding-to-a-list*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-23`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Optimistically adding to a list {/*optimistically-adding-to-a-list*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-24`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Optimistically adding to a list {/*optimistically-adding-to-a-list*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-25`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Handling multiple `action` types {/*handling-multiple-action-types*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-26`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Handling multiple `action` types {/*handling-multiple-action-types*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-27`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Handling multiple `action` types {/*handling-multiple-action-types*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-28`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Optimistic delete with error recovery {/*optimistic-delete-with-error-recovery*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-29`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Optimistic delete with error recovery {/*optimistic-delete-with-error-recovery*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-30`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: Optimistic delete with error recovery {/*optimistic-delete-with-error-recovery*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-31`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: I'm getting an error: "An optimistic state update occurred outside a Transition or Action" {/*an-optimistic-state-update-occurred-outside-a-transition-or-action*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-32`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: I'm getting an error: "Cannot update optimistic state while rendering" {/*cannot-update-optimistic-state-while-rendering*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-33`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: My optimistic updates show stale values {/*my-optimistic-updates-show-stale-values*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-34`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: I don't know if my optimistic update is pending {/*i-dont-know-if-my-optimistic-update-is-pending*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-35`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: I don't know if my optimistic update is pending {/*i-dont-know-if-my-optimistic-update-is-pending*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-36`
+- js example in [reference/react/useoptimistic.md](./reference/react/useoptimistic.md)
+  - Section: I don't know if my optimistic update is pending {/*i-dont-know-if-my-optimistic-update-is-pending*/}
+  - Snippet id: `reference/react/useoptimistic.md#snippet-37`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: useReducer.md
+  - Snippet id: `reference/react/usereducer.md#snippet-1`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: `useReducer(reducer, initialArg, init?)` {/*usereducer*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-2`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: `dispatch` function {/*dispatch*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-3`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Adding a reducer to a component {/*adding-a-reducer-to-a-component*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-4`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Adding a reducer to a component {/*adding-a-reducer-to-a-component*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-5`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Adding a reducer to a component {/*adding-a-reducer-to-a-component*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-6`
+- css example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Adding a reducer to a component {/*adding-a-reducer-to-a-component*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-7`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing the reducer function {/*writing-the-reducer-function*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-8`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing the reducer function {/*writing-the-reducer-function*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-9`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing the reducer function {/*writing-the-reducer-function*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-10`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing the reducer function {/*writing-the-reducer-function*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-11`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing the reducer function {/*writing-the-reducer-function*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-12`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Form (object) {/*form-object*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-13`
+- css example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Form (object) {/*form-object*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-14`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Todo list (array) {/*todo-list-array*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-15`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Todo list (array) {/*todo-list-array*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-16`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Todo list (array) {/*todo-list-array*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-17`
+- css example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Todo list (array) {/*todo-list-array*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-18`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing concise update logic with Immer {/*writing-concise-update-logic-with-immer*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-19`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing concise update logic with Immer {/*writing-concise-update-logic-with-immer*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-20`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing concise update logic with Immer {/*writing-concise-update-logic-with-immer*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-21`
+- css example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing concise update logic with Immer {/*writing-concise-update-logic-with-immer*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-22`
+- json example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Writing concise update logic with Immer {/*writing-concise-update-logic-with-immer*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-23`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Avoiding recreating the initial state {/*avoiding-recreating-the-initial-state*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-24`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Avoiding recreating the initial state {/*avoiding-recreating-the-initial-state*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-25`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Passing the initializer function {/*passing-the-initializer-function*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-26`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Passing the initializer function {/*passing-the-initializer-function*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-27`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Passing the initial state directly {/*passing-the-initial-state-directly*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-28`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: Passing the initial state directly {/*passing-the-initial-state-directly*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-29`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: I've dispatched an action, but logging gives me the old state value {/*ive-dispatched-an-action-but-logging-gives-me-the-old-state-value*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-30`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: I've dispatched an action, but logging gives me the old state value {/*ive-dispatched-an-action-but-logging-gives-me-the-old-state-value*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-31`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: I've dispatched an action, but the screen doesn't update {/*ive-dispatched-an-action-but-the-screen-doesnt-update*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-32`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: I've dispatched an action, but the screen doesn't update {/*ive-dispatched-an-action-but-the-screen-doesnt-update*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-33`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: A part of my reducer state becomes undefined after dispatching {/*a-part-of-my-reducer-state-becomes-undefined-after-dispatching*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-34`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: My entire reducer state becomes undefined after dispatching {/*my-entire-reducer-state-becomes-undefined-after-dispatching*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-35`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: I'm getting an error: "Too many re-renders" {/*im-getting-an-error-too-many-re-renders*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-36`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: My reducer or initializer function runs twice {/*my-reducer-or-initializer-function-runs-twice*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-37`
+- js example in [reference/react/usereducer.md](./reference/react/usereducer.md)
+  - Section: My reducer or initializer function runs twice {/*my-reducer-or-initializer-function-runs-twice*/}
+  - Snippet id: `reference/react/usereducer.md#snippet-38`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: useRef.md
+  - Snippet id: `reference/react/useref.md#snippet-1`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: `useRef(initialValue)` {/*useref*/}
+  - Snippet id: `reference/react/useref.md#snippet-2`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Referencing a value with a ref {/*referencing-a-value-with-a-ref*/}
+  - Snippet id: `reference/react/useref.md#snippet-3`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Referencing a value with a ref {/*referencing-a-value-with-a-ref*/}
+  - Snippet id: `reference/react/useref.md#snippet-4`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Referencing a value with a ref {/*referencing-a-value-with-a-ref*/}
+  - Snippet id: `reference/react/useref.md#snippet-5`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Click counter {/*click-counter*/}
+  - Snippet id: `reference/react/useref.md#snippet-6`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: A stopwatch {/*a-stopwatch*/}
+  - Snippet id: `reference/react/useref.md#snippet-7`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: A stopwatch {/*a-stopwatch*/}
+  - Snippet id: `reference/react/useref.md#snippet-8`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: A stopwatch {/*a-stopwatch*/}
+  - Snippet id: `reference/react/useref.md#snippet-9`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Manipulating the DOM with a ref {/*manipulating-the-dom-with-a-ref*/}
+  - Snippet id: `reference/react/useref.md#snippet-10`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Manipulating the DOM with a ref {/*manipulating-the-dom-with-a-ref*/}
+  - Snippet id: `reference/react/useref.md#snippet-11`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Manipulating the DOM with a ref {/*manipulating-the-dom-with-a-ref*/}
+  - Snippet id: `reference/react/useref.md#snippet-12`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Focusing a text input {/*focusing-a-text-input*/}
+  - Snippet id: `reference/react/useref.md#snippet-13`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Scrolling an image into view {/*scrolling-an-image-into-view*/}
+  - Snippet id: `reference/react/useref.md#snippet-14`
+- css example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Scrolling an image into view {/*scrolling-an-image-into-view*/}
+  - Snippet id: `reference/react/useref.md#snippet-15`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Playing and pausing a video {/*playing-and-pausing-a-video*/}
+  - Snippet id: `reference/react/useref.md#snippet-16`
+- css example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Playing and pausing a video {/*playing-and-pausing-a-video*/}
+  - Snippet id: `reference/react/useref.md#snippet-17`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Exposing a ref to your own component {/*exposing-a-ref-to-your-own-component*/}
+  - Snippet id: `reference/react/useref.md#snippet-18`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Avoiding recreating the ref contents {/*avoiding-recreating-the-ref-contents*/}
+  - Snippet id: `reference/react/useref.md#snippet-19`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: Avoiding recreating the ref contents {/*avoiding-recreating-the-ref-contents*/}
+  - Snippet id: `reference/react/useref.md#snippet-20`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: How to avoid null checks when initializing useRef later {/*how-to-avoid-null-checks-when-initializing-use-ref-later*/}
+  - Snippet id: `reference/react/useref.md#snippet-21`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: I can't get a ref to a custom component {/*i-cant-get-a-ref-to-a-custom-component*/}
+  - Snippet id: `reference/react/useref.md#snippet-22`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: I can't get a ref to a custom component {/*i-cant-get-a-ref-to-a-custom-component*/}
+  - Snippet id: `reference/react/useref.md#snippet-23`
+- js example in [reference/react/useref.md](./reference/react/useref.md)
+  - Section: I can't get a ref to a custom component {/*i-cant-get-a-ref-to-a-custom-component*/}
+  - Snippet id: `reference/react/useref.md#snippet-24`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: useState.md
+  - Snippet id: `reference/react/usestate.md#snippet-1`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: `useState(initialState)` {/*usestate*/}
+  - Snippet id: `reference/react/usestate.md#snippet-2`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: `set` functions, like `setSomething(nextState)` {/*setstate*/}
+  - Snippet id: `reference/react/usestate.md#snippet-3`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Adding state to a component {/*adding-state-to-a-component*/}
+  - Snippet id: `reference/react/usestate.md#snippet-4`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Adding state to a component {/*adding-state-to-a-component*/}
+  - Snippet id: `reference/react/usestate.md#snippet-5`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Adding state to a component {/*adding-state-to-a-component*/}
+  - Snippet id: `reference/react/usestate.md#snippet-6`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Counter (number) {/*counter-number*/}
+  - Snippet id: `reference/react/usestate.md#snippet-7`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Text field (string) {/*text-field-string*/}
+  - Snippet id: `reference/react/usestate.md#snippet-8`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Checkbox (boolean) {/*checkbox-boolean*/}
+  - Snippet id: `reference/react/usestate.md#snippet-9`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Form (two variables) {/*form-two-variables*/}
+  - Snippet id: `reference/react/usestate.md#snippet-10`
+- css example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Form (two variables) {/*form-two-variables*/}
+  - Snippet id: `reference/react/usestate.md#snippet-11`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Updating state based on the previous state {/*updating-state-based-on-the-previous-state*/}
+  - Snippet id: `reference/react/usestate.md#snippet-12`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Updating state based on the previous state {/*updating-state-based-on-the-previous-state*/}
+  - Snippet id: `reference/react/usestate.md#snippet-13`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Passing the updater function {/*passing-the-updater-function*/}
+  - Snippet id: `reference/react/usestate.md#snippet-14`
+- css example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Passing the updater function {/*passing-the-updater-function*/}
+  - Snippet id: `reference/react/usestate.md#snippet-15`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Passing the next state directly {/*passing-the-next-state-directly*/}
+  - Snippet id: `reference/react/usestate.md#snippet-16`
+- css example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Passing the next state directly {/*passing-the-next-state-directly*/}
+  - Snippet id: `reference/react/usestate.md#snippet-17`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Updating objects and arrays in state {/*updating-objects-and-arrays-in-state*/}
+  - Snippet id: `reference/react/usestate.md#snippet-18`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Updating objects and arrays in state {/*updating-objects-and-arrays-in-state*/}
+  - Snippet id: `reference/react/usestate.md#snippet-19`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Form (object) {/*form-object*/}
+  - Snippet id: `reference/react/usestate.md#snippet-20`
+- css example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Form (object) {/*form-object*/}
+  - Snippet id: `reference/react/usestate.md#snippet-21`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Form (nested object) {/*form-nested-object*/}
+  - Snippet id: `reference/react/usestate.md#snippet-22`
+- css example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Form (nested object) {/*form-nested-object*/}
+  - Snippet id: `reference/react/usestate.md#snippet-23`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: List (array) {/*list-array*/}
+  - Snippet id: `reference/react/usestate.md#snippet-24`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: List (array) {/*list-array*/}
+  - Snippet id: `reference/react/usestate.md#snippet-25`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: List (array) {/*list-array*/}
+  - Snippet id: `reference/react/usestate.md#snippet-26`
+- css example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: List (array) {/*list-array*/}
+  - Snippet id: `reference/react/usestate.md#snippet-27`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Writing concise update logic with Immer {/*writing-concise-update-logic-with-immer*/}
+  - Snippet id: `reference/react/usestate.md#snippet-28`
+- json example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Writing concise update logic with Immer {/*writing-concise-update-logic-with-immer*/}
+  - Snippet id: `reference/react/usestate.md#snippet-29`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Avoiding recreating the initial state {/*avoiding-recreating-the-initial-state*/}
+  - Snippet id: `reference/react/usestate.md#snippet-30`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Avoiding recreating the initial state {/*avoiding-recreating-the-initial-state*/}
+  - Snippet id: `reference/react/usestate.md#snippet-31`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Passing the initializer function {/*passing-the-initializer-function*/}
+  - Snippet id: `reference/react/usestate.md#snippet-32`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Passing the initial state directly {/*passing-the-initial-state-directly*/}
+  - Snippet id: `reference/react/usestate.md#snippet-33`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Resetting state with a key {/*resetting-state-with-a-key*/}
+  - Snippet id: `reference/react/usestate.md#snippet-34`
+- css example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Resetting state with a key {/*resetting-state-with-a-key*/}
+  - Snippet id: `reference/react/usestate.md#snippet-35`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Storing information from previous renders {/*storing-information-from-previous-renders*/}
+  - Snippet id: `reference/react/usestate.md#snippet-36`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Storing information from previous renders {/*storing-information-from-previous-renders*/}
+  - Snippet id: `reference/react/usestate.md#snippet-37`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Storing information from previous renders {/*storing-information-from-previous-renders*/}
+  - Snippet id: `reference/react/usestate.md#snippet-38`
+- css example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: Storing information from previous renders {/*storing-information-from-previous-renders*/}
+  - Snippet id: `reference/react/usestate.md#snippet-39`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: I've updated the state, but logging gives me the old value {/*ive-updated-the-state-but-logging-gives-me-the-old-value*/}
+  - Snippet id: `reference/react/usestate.md#snippet-40`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: I've updated the state, but logging gives me the old value {/*ive-updated-the-state-but-logging-gives-me-the-old-value*/}
+  - Snippet id: `reference/react/usestate.md#snippet-41`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: I've updated the state, but the screen doesn't update {/*ive-updated-the-state-but-the-screen-doesnt-update*/}
+  - Snippet id: `reference/react/usestate.md#snippet-42`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: I've updated the state, but the screen doesn't update {/*ive-updated-the-state-but-the-screen-doesnt-update*/}
+  - Snippet id: `reference/react/usestate.md#snippet-43`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: I'm getting an error: "Too many re-renders" {/*im-getting-an-error-too-many-re-renders*/}
+  - Snippet id: `reference/react/usestate.md#snippet-44`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: My initializer or updater function runs twice {/*my-initializer-or-updater-function-runs-twice*/}
+  - Snippet id: `reference/react/usestate.md#snippet-45`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: My initializer or updater function runs twice {/*my-initializer-or-updater-function-runs-twice*/}
+  - Snippet id: `reference/react/usestate.md#snippet-46`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: My initializer or updater function runs twice {/*my-initializer-or-updater-function-runs-twice*/}
+  - Snippet id: `reference/react/usestate.md#snippet-47`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: I'm trying to set state to a function, but it gets called instead {/*im-trying-to-set-state-to-a-function-but-it-gets-called-instead*/}
+  - Snippet id: `reference/react/usestate.md#snippet-48`
+- js example in [reference/react/usestate.md](./reference/react/usestate.md)
+  - Section: I'm trying to set state to a function, but it gets called instead {/*im-trying-to-set-state-to-a-function-but-it-gets-called-instead*/}
+  - Snippet id: `reference/react/usestate.md#snippet-49`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: useSyncExternalStore.md
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-1`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: `useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot?)` {/*usesyncexternalstore*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-2`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Caveats {/*caveats*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-3`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Subscribing to an external store {/*subscribing-to-an-external-store*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-4`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Subscribing to an external store {/*subscribing-to-an-external-store*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-5`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Subscribing to an external store {/*subscribing-to-an-external-store*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-6`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Subscribing to a browser API {/*subscribing-to-a-browser-api*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-7`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Subscribing to a browser API {/*subscribing-to-a-browser-api*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-8`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Subscribing to a browser API {/*subscribing-to-a-browser-api*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-9`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Subscribing to a browser API {/*subscribing-to-a-browser-api*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-10`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Extracting the logic to a custom Hook {/*extracting-the-logic-to-a-custom-hook*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-11`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Extracting the logic to a custom Hook {/*extracting-the-logic-to-a-custom-hook*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-12`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Extracting the logic to a custom Hook {/*extracting-the-logic-to-a-custom-hook*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-13`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: Adding support for server rendering {/*adding-support-for-server-rendering*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-14`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: I'm getting an error: "The result of `getSnapshot` should be cached" {/*im-getting-an-error-the-result-of-getsnapshot-should-be-cached*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-15`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: I'm getting an error: "The result of `getSnapshot` should be cached" {/*im-getting-an-error-the-result-of-getsnapshot-should-be-cached*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-16`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: My `subscribe` function gets called after every re-render {/*my-subscribe-function-gets-called-after-every-re-render*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-17`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: My `subscribe` function gets called after every re-render {/*my-subscribe-function-gets-called-after-every-re-render*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-18`
+- js example in [reference/react/usesyncexternalstore.md](./reference/react/usesyncexternalstore.md)
+  - Section: My `subscribe` function gets called after every re-render {/*my-subscribe-function-gets-called-after-every-re-render*/}
+  - Snippet id: `reference/react/usesyncexternalstore.md#snippet-19`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: useTransition.md
+  - Snippet id: `reference/react/usetransition.md#snippet-1`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: `useTransition()` {/*usetransition*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-2`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: `startTransition(action)` {/*starttransition*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-3`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Functions called in `startTransition` are called "Actions". {/*functions-called-in-starttransition-are-called-actions*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-4`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Perform non-blocking updates with Actions {/*perform-non-blocking-updates-with-actions*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-5`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Perform non-blocking updates with Actions {/*perform-non-blocking-updates-with-actions*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-6`
+- json example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity in an Action {/*updating-the-quantity-in-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-7`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity in an Action {/*updating-the-quantity-in-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-8`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity in an Action {/*updating-the-quantity-in-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-9`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity in an Action {/*updating-the-quantity-in-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-10`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity in an Action {/*updating-the-quantity-in-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-11`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity in an Action {/*updating-the-quantity-in-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-12`
+- json example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-13`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-14`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-15`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-16`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-17`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-18`
+- json example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-19`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-20`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-21`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-22`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-23`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating the quantity without an Action {/*updating-the-users-name-without-an-action*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-24`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Exposing `action` prop from components {/*exposing-action-props-from-components*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-25`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Exposing `action` prop from components {/*exposing-action-props-from-components*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-26`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Exposing `action` prop from components {/*exposing-action-props-from-components*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-27`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Exposing `action` prop from components {/*exposing-action-props-from-components*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-28`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Exposing `action` prop from components {/*exposing-action-props-from-components*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-29`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Exposing `action` prop from components {/*exposing-action-props-from-components*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-30`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Exposing `action` prop from components {/*exposing-action-props-from-components*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-31`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying a pending visual state {/*displaying-a-pending-visual-state*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-32`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying a pending visual state {/*displaying-a-pending-visual-state*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-33`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying a pending visual state {/*displaying-a-pending-visual-state*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-34`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying a pending visual state {/*displaying-a-pending-visual-state*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-35`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying a pending visual state {/*displaying-a-pending-visual-state*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-36`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying a pending visual state {/*displaying-a-pending-visual-state*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-37`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying a pending visual state {/*displaying-a-pending-visual-state*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-38`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-39`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-40`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-41`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-42`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-43`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-44`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-45`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-46`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-47`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-48`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-49`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-50`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-51`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Preventing unwanted loading indicators {/*preventing-unwanted-loading-indicators*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-52`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-53`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-54`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-55`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-56`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-57`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-58`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-59`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-60`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-61`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Building a Suspense-enabled router {/*building-a-suspense-enabled-router*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-62`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying an error to users with an error boundary {/*displaying-an-error-to-users-with-error-boundary*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-63`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying an error to users with an error boundary {/*displaying-an-error-to-users-with-error-boundary*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-64`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying an error to users with an error boundary {/*displaying-an-error-to-users-with-error-boundary*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-65`
+- json example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Displaying an error to users with an error boundary {/*displaying-an-error-to-users-with-error-boundary*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-66`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: Updating an input in a Transition doesn't work {/*updating-an-input-in-a-transition-doesnt-work*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-67`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: React doesn't treat my state update as a Transition {/*react-doesnt-treat-my-state-update-as-a-transition*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-68`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: React doesn't treat my state update as a Transition {/*react-doesnt-treat-my-state-update-as-a-transition*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-69`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: React doesn't treat my state update as a Transition {/*react-doesnt-treat-my-state-update-as-a-transition*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-70`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: React doesn't treat my state update after `await` as a Transition {/*react-doesnt-treat-my-state-update-after-await-as-a-transition*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-71`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: React doesn't treat my state update after `await` as a Transition {/*react-doesnt-treat-my-state-update-after-await-as-a-transition*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-72`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: The function I pass to `startTransition` executes immediately {/*the-function-i-pass-to-starttransition-executes-immediately*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-73`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: The function I pass to `startTransition` executes immediately {/*the-function-i-pass-to-starttransition-executes-immediately*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-74`
+- json example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-75`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-76`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-77`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-78`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-79`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-80`
+- json example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-81`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-82`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-83`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-84`
+- js example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-85`
+- css example in [reference/react/usetransition.md](./reference/react/usetransition.md)
+  - Section: My state updates in Transitions are out of order {/*my-state-updates-in-transitions-are-out-of-order*/}
+  - Snippet id: `reference/react/usetransition.md#snippet-86`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: ViewTransition.md
+  - Snippet id: `reference/react/viewtransition.md#snippet-1`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: `<ViewTransition>` {/*viewtransition*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-2`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: View Transition Class {/*view-transition-class*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-3`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Values {/*view-transition-values*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-4`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: View Transition Event {/*view-transition-event*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-5`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Arguments {/*view-transition-event-arguments*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-6`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Styling View Transitions {/*styling-view-transitions*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-7`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Styling View Transitions {/*styling-view-transitions*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-8`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating an element on enter/exit {/*animating-an-element-on-enter*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-9`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating an element on enter/exit {/*animating-an-element-on-enter*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-10`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating an element on enter/exit {/*animating-an-element-on-enter*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-11`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating an element on enter/exit {/*animating-an-element-on-enter*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-12`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating an element on enter/exit {/*animating-an-element-on-enter*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-13`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating an element on enter/exit {/*animating-an-element-on-enter*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-14`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Only top-level ViewTransitions animate on exit/enter {/*only-top-level-viewtransition-animates-on-exit-enter*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-15`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating enter/exit with Activity {/*animating-enter-exit-with-activity*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-16`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating enter/exit with Activity {/*animating-enter-exit-with-activity*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-17`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating enter/exit with Activity {/*animating-enter-exit-with-activity*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-18`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating enter/exit with Activity {/*animating-enter-exit-with-activity*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-19`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating a shared element {/*animating-a-shared-element*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-20`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating a shared element {/*animating-a-shared-element*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-21`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating a shared element {/*animating-a-shared-element*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-22`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating a shared element {/*animating-a-shared-element*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-23`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating a shared element {/*animating-a-shared-element*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-24`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating a shared element {/*animating-a-shared-element*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-25`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating a shared element {/*animating-a-shared-element*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-26`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-27`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-28`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-29`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-30`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-31`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-32`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-33`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-34`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-35`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-36`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-37`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-38`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-39`
+- text example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating reorder of items in a list {/*animating-reorder-of-items-in-a-list*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-40`
+- text example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-41`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-42`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-43`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-44`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-45`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-46`
+- text example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating from Suspense content {/*animating-from-suspense-content*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-47`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Opting-out of an animation {/*opting-out-of-an-animation*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-48`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-49`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-50`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-51`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-52`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-53`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-54`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-55`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-56`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-57`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-58`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-59`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations {/*customizing-animations*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-60`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations with types {/*customizing-animations-with-types*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-61`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations with types {/*customizing-animations-with-types*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-62`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations with types {/*customizing-animations-with-types*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-63`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations with types {/*customizing-animations-with-types*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-64`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations with types {/*customizing-animations-with-types*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-65`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Customizing animations with types {/*customizing-animations-with-types*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-66`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating with JavaScript {/*animating-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-67`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating with JavaScript {/*animating-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-68`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating with JavaScript {/*animating-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-69`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating with JavaScript {/*animating-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-70`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating with JavaScript {/*animating-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-71`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating with JavaScript {/*animating-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-72`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating with JavaScript {/*animating-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-73`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Always clean up View Transition Events {/*always-clean-up-view-transition-events*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-74`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating transition types with JavaScript {/*animating-transition-types-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-75`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating transition types with JavaScript {/*animating-transition-types-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-76`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating transition types with JavaScript {/*animating-transition-types-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-77`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating transition types with JavaScript {/*animating-transition-types-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-78`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating transition types with JavaScript {/*animating-transition-types-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-79`
+- css example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating transition types with JavaScript {/*animating-transition-types-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-80`
+- json example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: Animating transition types with JavaScript {/*animating-transition-types-with-javascript*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-81`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: My `<ViewTransition>` is not activating {/*my-viewtransition-is-not-activating*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-82`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: My `<ViewTransition>` is not activating {/*my-viewtransition-is-not-activating*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-83`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: I'm getting an error "There are two `<ViewTransition name=%s>` components with the same name mounted at the same time." {/*two-viewtransition-with-same-name*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-84`
+- js example in [reference/react/viewtransition.md](./reference/react/viewtransition.md)
+  - Section: I'm getting an error "There are two `<ViewTransition name=%s>` components with the same name mounted at the same time." {/*two-viewtransition-with-same-name*/}
+  - Snippet id: `reference/react/viewtransition.md#snippet-85`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Server Components without a Server {/*server-components-without-a-server*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-1`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Server Components without a Server {/*server-components-without-a-server*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-2`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Server Components without a Server {/*server-components-without-a-server*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-3`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Server Components without a Server {/*server-components-without-a-server*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-4`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Server Components without a Server {/*server-components-without-a-server*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-5`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Server Components with a Server {/*server-components-with-a-server*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-6`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Server Components with a Server {/*server-components-with-a-server*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-7`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Server Components with a Server {/*server-components-with-a-server*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-8`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Server Components with a Server {/*server-components-with-a-server*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-9`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: There is no directive for Server Components. {/*there-is-no-directive-for-server-components*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-10`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: There is no directive for Server Components. {/*there-is-no-directive-for-server-components*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-11`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: There is no directive for Server Components. {/*there-is-no-directive-for-server-components*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-12`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Async components with Server Components {/*async-components-with-server-components*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-13`
+- js example in [reference/rsc/server-components.md](./reference/rsc/server-components.md)
+  - Section: Async components with Server Components {/*async-components-with-server-components*/}
+  - Snippet id: `reference/rsc/server-components.md#snippet-14`
+- js example in [reference/rsc/server-functions.md](./reference/rsc/server-functions.md)
+  - Section: Creating a Server Function from a Server Component {/*creating-a-server-function-from-a-server-component*/}
+  - Snippet id: `reference/rsc/server-functions.md#snippet-1`
+- js example in [reference/rsc/server-functions.md](./reference/rsc/server-functions.md)
+  - Section: Creating a Server Function from a Server Component {/*creating-a-server-function-from-a-server-component*/}
+  - Snippet id: `reference/rsc/server-functions.md#snippet-2`
+- js example in [reference/rsc/server-functions.md](./reference/rsc/server-functions.md)
+  - Section: Importing Server Functions from Client Components {/*importing-server-functions-from-client-components*/}
+  - Snippet id: `reference/rsc/server-functions.md#snippet-3`
+- js example in [reference/rsc/server-functions.md](./reference/rsc/server-functions.md)
+  - Section: Importing Server Functions from Client Components {/*importing-server-functions-from-client-components*/}
+  - Snippet id: `reference/rsc/server-functions.md#snippet-4`
+- js example in [reference/rsc/server-functions.md](./reference/rsc/server-functions.md)
+  - Section: Server Functions with Actions {/*server-functions-with-actions*/}
+  - Snippet id: `reference/rsc/server-functions.md#snippet-5`
+- js example in [reference/rsc/server-functions.md](./reference/rsc/server-functions.md)
+  - Section: Server Functions with Actions {/*server-functions-with-actions*/}
+  - Snippet id: `reference/rsc/server-functions.md#snippet-6`
+- js example in [reference/rsc/server-functions.md](./reference/rsc/server-functions.md)
+  - Section: Server Functions with Form Actions {/*using-server-functions-with-form-actions*/}
+  - Snippet id: `reference/rsc/server-functions.md#snippet-7`
+- js example in [reference/rsc/server-functions.md](./reference/rsc/server-functions.md)
+  - Section: Server Functions with `useActionState` {/*server-functions-with-use-action-state*/}
+  - Snippet id: `reference/rsc/server-functions.md#snippet-8`
+- js example in [reference/rsc/server-functions.md](./reference/rsc/server-functions.md)
+  - Section: Progressive enhancement with `useActionState` {/*progressive-enhancement-with-useactionstate*/}
+  - Snippet id: `reference/rsc/server-functions.md#snippet-9`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: `'use client'` {/*use-client*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-1`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: How `'use client'` marks client code {/*how-use-client-marks-client-code*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-2`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: How `'use client'` marks client code {/*how-use-client-marks-client-code*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-3`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: How `'use client'` marks client code {/*how-use-client-marks-client-code*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-4`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: How `'use client'` marks client code {/*how-use-client-marks-client-code*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-5`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: How `'use client'` marks client code {/*how-use-client-marks-client-code*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-6`
+- css example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: How `'use client'` marks client code {/*how-use-client-marks-client-code*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-7`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: How is `FancyText` both a Server and a Client Component? {/*how-is-fancytext-both-a-server-and-a-client-component*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-8`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: How is `FancyText` both a Server and a Client Component? {/*how-is-fancytext-both-a-server-and-a-client-component*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-9`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: Building with interactivity and state {/*building-with-interactivity-and-state*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-10`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: Building with interactivity and state {/*building-with-interactivity-and-state*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-11`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: Building with interactivity and state {/*building-with-interactivity-and-state*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-12`
+- js example in [reference/rsc/use-client.md](./reference/rsc/use-client.md)
+  - Section: Using client APIs {/*using-client-apis*/}
+  - Snippet id: `reference/rsc/use-client.md#snippet-13`
+- js example in [reference/rsc/use-server.md](./reference/rsc/use-server.md)
+  - Section: `'use server'` {/*use-server*/}
+  - Snippet id: `reference/rsc/use-server.md#snippet-1`
+- js example in [reference/rsc/use-server.md](./reference/rsc/use-server.md)
+  - Section: Server Functions in forms {/*server-functions-in-forms*/}
+  - Snippet id: `reference/rsc/use-server.md#snippet-2`
+- js example in [reference/rsc/use-server.md](./reference/rsc/use-server.md)
+  - Section: Handling return values in forms {/*handling-return-values*/}
+  - Snippet id: `reference/rsc/use-server.md#snippet-3`
+- js example in [reference/rsc/use-server.md](./reference/rsc/use-server.md)
+  - Section: Handling return values in forms {/*handling-return-values*/}
+  - Snippet id: `reference/rsc/use-server.md#snippet-4`
+- js example in [reference/rsc/use-server.md](./reference/rsc/use-server.md)
+  - Section: Calling a Server Function outside of `<form>` {/*calling-a-server-function-outside-of-form*/}
+  - Snippet id: `reference/rsc/use-server.md#snippet-5`
+- js example in [reference/rsc/use-server.md](./reference/rsc/use-server.md)
+  - Section: Calling a Server Function outside of `<form>` {/*calling-a-server-function-outside-of-form*/}
+  - Snippet id: `reference/rsc/use-server.md#snippet-6`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: How to tell if code runs in render {/*how-to-tell-if-code-runs-in-render*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-1`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: How to tell if code runs in render {/*how-to-tell-if-code-runs-in-render*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-2`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: How to tell if code runs in render {/*how-to-tell-if-code-runs-in-render*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-3`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Components and Hooks must be idempotent {/*components-and-hooks-must-be-idempotent*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-4`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Components and Hooks must be idempotent {/*components-and-hooks-must-be-idempotent*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-5`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Local mutation {/*local-mutation*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-6`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Local mutation {/*local-mutation*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-7`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Lazy initialization {/*lazy-initialization*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-8`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Changing the DOM {/*changing-the-dom*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-9`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Don't mutate Props {/*props*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-10`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Don't mutate Props {/*props*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-11`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Don't mutate State {/*state*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-12`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Don't mutate State {/*state*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-13`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Don't mutate State {/*state*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-14`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Return values and arguments to Hooks are immutable {/*return-values-and-arguments-to-hooks-are-immutable*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-15`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Return values and arguments to Hooks are immutable {/*return-values-and-arguments-to-hooks-are-immutable*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-16`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Return values and arguments to Hooks are immutable {/*return-values-and-arguments-to-hooks-are-immutable*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-17`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Return values and arguments to Hooks are immutable {/*return-values-and-arguments-to-hooks-are-immutable*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-18`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Return values and arguments to Hooks are immutable {/*return-values-and-arguments-to-hooks-are-immutable*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-19`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Values are immutable after being passed to JSX {/*values-are-immutable-after-being-passed-to-jsx*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-20`
+- js example in [reference/rules/components-and-hooks-must-be-pure.md](./reference/rules/components-and-hooks-must-be-pure.md)
+  - Section: Values are immutable after being passed to JSX {/*values-are-immutable-after-being-passed-to-jsx*/}
+  - Snippet id: `reference/rules/components-and-hooks-must-be-pure.md#snippet-21`
+- js example in [reference/rules/react-calls-components-and-hooks.md](./reference/rules/react-calls-components-and-hooks.md)
+  - Section: Never call component functions directly {/*never-call-component-functions-directly*/}
+  - Snippet id: `reference/rules/react-calls-components-and-hooks.md#snippet-1`
+- js example in [reference/rules/react-calls-components-and-hooks.md](./reference/rules/react-calls-components-and-hooks.md)
+  - Section: Never call component functions directly {/*never-call-component-functions-directly*/}
+  - Snippet id: `reference/rules/react-calls-components-and-hooks.md#snippet-2`
+- js example in [reference/rules/react-calls-components-and-hooks.md](./reference/rules/react-calls-components-and-hooks.md)
+  - Section: Don't dynamically mutate a Hook {/*dont-dynamically-mutate-a-hook*/}
+  - Snippet id: `reference/rules/react-calls-components-and-hooks.md#snippet-3`
+- js example in [reference/rules/react-calls-components-and-hooks.md](./reference/rules/react-calls-components-and-hooks.md)
+  - Section: Don't dynamically mutate a Hook {/*dont-dynamically-mutate-a-hook*/}
+  - Snippet id: `reference/rules/react-calls-components-and-hooks.md#snippet-4`
+- js example in [reference/rules/react-calls-components-and-hooks.md](./reference/rules/react-calls-components-and-hooks.md)
+  - Section: Don't dynamically use Hooks {/*dont-dynamically-use-hooks*/}
+  - Snippet id: `reference/rules/react-calls-components-and-hooks.md#snippet-5`
+- js example in [reference/rules/react-calls-components-and-hooks.md](./reference/rules/react-calls-components-and-hooks.md)
+  - Section: Don't dynamically use Hooks {/*dont-dynamically-use-hooks*/}
+  - Snippet id: `reference/rules/react-calls-components-and-hooks.md#snippet-6`
+- js{2-3,8-9} example in [reference/rules/rules-of-hooks.md](./reference/rules/rules-of-hooks.md)
+  - Section: Only call Hooks at the top level {/*only-call-hooks-at-the-top-level*/}
+  - Snippet id: `reference/rules/rules-of-hooks.md#snippet-1`
+- js{3-4,11-12,20-21} example in [reference/rules/rules-of-hooks.md](./reference/rules/rules-of-hooks.md)
+  - Section: Only call Hooks at the top level {/*only-call-hooks-at-the-top-level*/}
+  - Snippet id: `reference/rules/rules-of-hooks.md#snippet-2`
+- js example in [reference/rules/rules-of-hooks.md](./reference/rules/rules-of-hooks.md)
+  - Section: Only call Hooks from React functions {/*only-call-hooks-from-react-functions*/}
+  - Snippet id: `reference/rules/rules-of-hooks.md#snippet-3`

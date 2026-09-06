@@ -1,0 +1,187 @@
+{
+  "name": "vite",
+  "sourceUrl": "https://vite.dev/guide",
+  "generatedAt": "2026-09-06T13:04:29.891Z",
+  "sourceKinds": [
+    "llms",
+    "markdown"
+  ],
+  "indexes": {
+    "apiIndex": "api-index.md",
+    "examplesIndex": "examples-index.md",
+    "snippets": "snippets.json",
+    "snippetCount": 652,
+    "symbolCount": 1161
+  },
+  "pages": [
+    {
+      "url": "https://vite.dev/llms-full.txt",
+      "source": "llms",
+      "title": "Getting Started",
+      "outputPath": "index.md",
+      "hash": "1fd945aa98dbf6caa008a7ece3b356b2806b9f2f5f5e51b6ee49a9796164d4fe"
+    },
+    {
+      "url": "https://vite.dev/guide/features.md",
+      "source": "markdown",
+      "title": "Features",
+      "outputPath": "guide/features.md",
+      "hash": "0a5e473fd8e290463ab8e13810de1ed12481ef7955d23d2cd1bfdc075dd6472d"
+    },
+    {
+      "url": "https://vite.dev/guide/api-plugin.md",
+      "source": "markdown",
+      "title": "Plugin API",
+      "outputPath": "guide/api-plugin.md",
+      "hash": "44129a9403d4eee878180d7fbc0a67dba50d231300ce11c02a0d535bbf7f549d"
+    },
+    {
+      "url": "https://vite.dev/guide/api-javascript.md",
+      "source": "markdown",
+      "title": "JavaScript API",
+      "outputPath": "guide/api-javascript.md",
+      "hash": "d406209aa0f15699ca7c7c802233af27de114a8c15c574ed22cb5f80d36ca1c1"
+    },
+    {
+      "url": "https://vite.dev/guide/philosophy.md",
+      "source": "markdown",
+      "title": "Project Philosophy",
+      "outputPath": "guide/philosophy.md",
+      "hash": "f8989e5f62084630522298b22ccdf809fae7c061157138ccd0d616df0f270ecc"
+    },
+    {
+      "url": "https://vite.dev/guide/why.md",
+      "source": "markdown",
+      "title": "Why Vite",
+      "outputPath": "guide/why.md",
+      "hash": "7024c86f924c5dd9d4c18fd59bb90301d6ec7fcb592e73009f3a31249c83d282"
+    },
+    {
+      "url": "https://vite.dev/guide/cli.md",
+      "source": "markdown",
+      "title": "Command Line Interface",
+      "outputPath": "guide/cli.md",
+      "hash": "76d40cd463474ae19a925decde445d963d0b08f96c5653483ee1e91f0f3947c0"
+    },
+    {
+      "url": "https://vite.dev/guide/using-plugins.md",
+      "source": "markdown",
+      "title": "Using Plugins",
+      "outputPath": "guide/using-plugins.md",
+      "hash": "3807412e53ddcac66ae75bc25d865e504238af7cdaa37476fcbd4bae40ea1234"
+    },
+    {
+      "url": "https://vite.dev/guide/dep-pre-bundling.md",
+      "source": "markdown",
+      "title": "Dependency Pre-Bundling",
+      "outputPath": "guide/dep-pre-bundling.md",
+      "hash": "7b740690da5e993e5987fea2114ab2a7c97453cb5a79c58fa4cdc267ee401f56"
+    },
+    {
+      "url": "https://vite.dev/guide/assets.md",
+      "source": "markdown",
+      "title": "Static Asset Handling",
+      "outputPath": "guide/assets.md",
+      "hash": "74d00b4f38ebb8293d1c25fe04cdf707a556f7a73c6fb4a479774a3fc8ff590c"
+    },
+    {
+      "url": "https://vite.dev/guide/build.md",
+      "source": "markdown",
+      "title": "Building for Production",
+      "outputPath": "guide/build.md",
+      "hash": "3f4436605aaa991184b29d5e9d91b1454cbf789ca916572c0900cf5ef79fbcf0"
+    },
+    {
+      "url": "https://vite.dev/guide/static-deploy.md",
+      "source": "markdown",
+      "title": "Deploying a Static Site",
+      "outputPath": "guide/static-deploy.md",
+      "hash": "647884d78f628e3947bbb0b913c31d8acd330b7aaa55680b09516d6b9efbf50b"
+    },
+    {
+      "url": "https://vite.dev/guide/env-and-mode.md",
+      "source": "markdown",
+      "title": "Env Variables and Modes",
+      "outputPath": "guide/env-and-mode.md",
+      "hash": "dcc0b4c5c275e039c816e2f27bbae0cb9de3fa7711f7666cad8ec0b340837d2f"
+    },
+    {
+      "url": "https://vite.dev/guide/ssr.md",
+      "source": "markdown",
+      "title": "Server-Side Rendering (SSR)",
+      "outputPath": "guide/ssr.md",
+      "hash": "fbb81ad852e8421b6716eb68d7fb37d46a80aed97f288b5982bc8ca3bc3c4058"
+    },
+    {
+      "url": "https://vite.dev/guide/backend-integration.md",
+      "source": "markdown",
+      "title": "Backend Integration",
+      "outputPath": "guide/backend-integration.md",
+      "hash": "cc5bc5fc0505c8f355a5f32cf5c9f004c41cbbe0f2f9a71ad6240ff65f9f4d4e"
+    },
+    {
+      "url": "https://vite.dev/guide/troubleshooting.md",
+      "source": "markdown",
+      "title": "Troubleshooting",
+      "outputPath": "guide/troubleshooting.md",
+      "hash": "88b34650b5c9e7f075e574cb319c336c47b9115e82aa86faf399f90f8d60f59d"
+    },
+    {
+      "url": "https://vite.dev/guide/performance.md",
+      "source": "markdown",
+      "title": "Performance",
+      "outputPath": "guide/performance.md",
+      "hash": "8f62f8e9bb7330f8c78fe66af1b1a15adbb25aff570c44a813ce81994299b4e9"
+    },
+    {
+      "url": "https://vite.dev/guide/migration.md",
+      "source": "markdown",
+      "title": "Migration from v7",
+      "outputPath": "guide/migration.md",
+      "hash": "c9226d3ae3c8950db88d7e4b2a0c46b741e2955cb1f6ff71ccf329878343c362"
+    },
+    {
+      "url": "https://vite.dev/guide/api-hmr.md",
+      "source": "markdown",
+      "title": "HMR API",
+      "outputPath": "guide/api-hmr.md",
+      "hash": "f90738496168862b4bb90721209342081229de6ee30c69c591dc8d345d53e825"
+    },
+    {
+      "url": "https://vite.dev/guide/api-environment.md",
+      "source": "markdown",
+      "title": "Environment API",
+      "outputPath": "guide/api-environment.md",
+      "hash": "ad05dfd79be7ecd01c6471c159cdaa11076fe8796a7065fcc87b586e386d9f97"
+    },
+    {
+      "url": "https://vite.dev/guide/api-environment-instances.md",
+      "source": "markdown",
+      "title": "Using `Environment` Instances",
+      "outputPath": "guide/api-environment-instances.md",
+      "hash": "e8d6d1499b337858690de00aae80b6e120352e94800ac8491b81c7e95fe73775"
+    },
+    {
+      "url": "https://vite.dev/guide/api-environment-plugins.md",
+      "source": "markdown",
+      "title": "Environment API for Plugins",
+      "outputPath": "guide/api-environment-plugins.md",
+      "hash": "fa5f3aec977592bbc334247a3cb656f1be7fbac7bb57c8a0b6eadfbb900f4069"
+    },
+    {
+      "url": "https://vite.dev/guide/api-environment-frameworks.md",
+      "source": "markdown",
+      "title": "Environment API for Frameworks",
+      "outputPath": "guide/api-environment-frameworks.md",
+      "hash": "7874200e6ddb88813bf295438d06999b3572a118f6072a825ad74b4fc69daa80"
+    },
+    {
+      "url": "https://vite.dev/guide/api-environment-runtimes.md",
+      "source": "markdown",
+      "title": "Environment API for Runtimes",
+      "outputPath": "guide/api-environment-runtimes.md",
+      "hash": "381cdb8cee83e44253c991b4bda674566990d6478a81f8e1ac75c4873a8ae8e7"
+    }
+  ],
+  "failures": []
+}

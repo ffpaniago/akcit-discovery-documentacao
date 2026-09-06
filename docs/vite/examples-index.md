@@ -1,0 +1,1960 @@
+# Code examples
+
+Generated from captured Markdown code fences.
+
+- ts example in [guide/api-environment-frameworks.md](./guide/api-environment-frameworks.md)
+  - Section: `RunnableDevEnvironment`
+  - Snippet id: `guide/api-environment-frameworks.md#snippet-1`
+- js example in [guide/api-environment-frameworks.md](./guide/api-environment-frameworks.md)
+  - Section: `RunnableDevEnvironment`
+  - Snippet id: `guide/api-environment-frameworks.md#snippet-2`
+- js example in [guide/api-environment-frameworks.md](./guide/api-environment-frameworks.md)
+  - Section: `RunnableDevEnvironment`
+  - Snippet id: `guide/api-environment-frameworks.md#snippet-3`
+- ts example in [guide/api-environment-frameworks.md](./guide/api-environment-frameworks.md)
+  - Section: `FetchableDevEnvironment`
+  - Snippet id: `guide/api-environment-frameworks.md#snippet-4`
+- ts example in [guide/api-environment-frameworks.md](./guide/api-environment-frameworks.md)
+  - Section: raw `DevEnvironment`
+  - Snippet id: `guide/api-environment-frameworks.md#snippet-5`
+- ts example in [guide/api-environment-frameworks.md](./guide/api-environment-frameworks.md)
+  - Section: raw `DevEnvironment`
+  - Snippet id: `guide/api-environment-frameworks.md#snippet-6`
+- ts example in [guide/api-environment-frameworks.md](./guide/api-environment-frameworks.md)
+  - Section: raw `DevEnvironment`
+  - Snippet id: `guide/api-environment-frameworks.md#snippet-7`
+- js example in [guide/api-environment-frameworks.md](./guide/api-environment-frameworks.md)
+  - Section: Configuring the app build with `builder.buildApp`
+  - Snippet id: `guide/api-environment-frameworks.md#snippet-8`
+- js example in [guide/api-environment-frameworks.md](./guide/api-environment-frameworks.md)
+  - Section: Building programmatically with `createBuilder`
+  - Snippet id: `guide/api-environment-frameworks.md#snippet-9`
+- js example in [guide/api-environment-instances.md](./guide/api-environment-instances.md)
+  - Section: Accessing the Environments
+  - Snippet id: `guide/api-environment-instances.md#snippet-1`
+- ts example in [guide/api-environment-instances.md](./guide/api-environment-instances.md)
+  - Section: `DevEnvironment` class
+  - Snippet id: `guide/api-environment-instances.md#snippet-2`
+- ts example in [guide/api-environment-instances.md](./guide/api-environment-instances.md)
+  - Section: `DevEnvironment` class
+  - Snippet id: `guide/api-environment-instances.md#snippet-3`
+- ts example in [guide/api-environment-instances.md](./guide/api-environment-instances.md)
+  - Section: `DevEnvironment` class
+  - Snippet id: `guide/api-environment-instances.md#snippet-4`
+- ts example in [guide/api-environment-instances.md](./guide/api-environment-instances.md)
+  - Section: Separate Module Graphs
+  - Snippet id: `guide/api-environment-instances.md#snippet-5`
+- ts example in [guide/api-environment-instances.md](./guide/api-environment-instances.md)
+  - Section: Separate Module Graphs
+  - Snippet id: `guide/api-environment-instances.md#snippet-6`
+- ts example in [guide/api-environment-instances.md](./guide/api-environment-instances.md)
+  - Section: `FetchResult`
+  - Snippet id: `guide/api-environment-instances.md#snippet-7`
+- ts example in [guide/api-environment-instances.md](./guide/api-environment-instances.md)
+  - Section: `FetchResult`
+  - Snippet id: `guide/api-environment-instances.md#snippet-8`
+- ts example in [guide/api-environment-instances.md](./guide/api-environment-instances.md)
+  - Section: `FetchResult`
+  - Snippet id: `guide/api-environment-instances.md#snippet-9`
+- ts example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: Accessing the Current Environment in Hooks
+  - Snippet id: `guide/api-environment-plugins.md#snippet-1`
+- ts example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: Registering New Environments Using Hooks
+  - Snippet id: `guide/api-environment-plugins.md#snippet-2`
+- ts example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: Configuring Environment Using the `configEnvironment` Hook
+  - Snippet id: `guide/api-environment-plugins.md#snippet-3`
+- ts example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: The `hotUpdate` Hook
+  - Snippet id: `guide/api-environment-plugins.md#snippet-4`
+- js example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: The `hotUpdate` Hook
+  - Snippet id: `guide/api-environment-plugins.md#snippet-5`
+- js example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: The `hotUpdate` Hook
+  - Snippet id: `guide/api-environment-plugins.md#snippet-6`
+- js example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: The `hotUpdate` Hook
+  - Snippet id: `guide/api-environment-plugins.md#snippet-7`
+- js example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: Per-environment State in Plugins
+  - Snippet id: `guide/api-environment-plugins.md#snippet-8`
+- js example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: Per-environment Plugins Using the `applyToEnvironment` Hook
+  - Snippet id: `guide/api-environment-plugins.md#snippet-9`
+- js example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: Per-environment Plugins Using the `applyToEnvironment` Hook
+  - Snippet id: `guide/api-environment-plugins.md#snippet-10`
+- js example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: Per-environment Plugins Using the `applyToEnvironment` Hook
+  - Snippet id: `guide/api-environment-plugins.md#snippet-11`
+- js example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: Example Usage
+  - Snippet id: `guide/api-environment-plugins.md#snippet-12`
+- js example in [guide/api-environment-plugins.md](./guide/api-environment-plugins.md)
+  - Section: Shared Plugins During Build
+  - Snippet id: `guide/api-environment-plugins.md#snippet-13`
+- ts example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: Environment Factories
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-1`
+- js example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: Environment Factories
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-2`
+- js example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: Environment Factories
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-3`
+- dot example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: Creating a New Environment Factory
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-4`
+- ts example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: Creating a New Environment Factory
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-5`
+- ts example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleRunner`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-6`
+- js example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleRunner`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-7`
+- ts example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleRunnerOptions`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-8`
+- ts example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleEvaluator`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-9`
+- ts example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-10`
+- js example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-11`
+- js example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-12`
+- ts example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-13`
+- ts example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-14`
+- js example in [guide/api-environment-runtimes.md](./guide/api-environment-runtimes.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `guide/api-environment-runtimes.md#snippet-15`
+- js example in [guide/api-environment.md](./guide/api-environment.md)
+  - Section: Environments Configuration
+  - Snippet id: `guide/api-environment.md#snippet-1`
+- js example in [guide/api-environment.md](./guide/api-environment.md)
+  - Section: Environments Configuration
+  - Snippet id: `guide/api-environment.md#snippet-2`
+- ts example in [guide/api-environment.md](./guide/api-environment.md)
+  - Section: Environments Configuration
+  - Snippet id: `guide/api-environment.md#snippet-3`
+- ts example in [guide/api-environment.md](./guide/api-environment.md)
+  - Section: Environments Configuration
+  - Snippet id: `guide/api-environment.md#snippet-4`
+- js example in [guide/api-environment.md](./guide/api-environment.md)
+  - Section: Custom Environment Instances
+  - Snippet id: `guide/api-environment.md#snippet-5`
+- ts example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: HMR API
+  - Snippet id: `guide/api-hmr.md#snippet-1`
+- js example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: Required Conditional Guard
+  - Snippet id: `guide/api-hmr.md#snippet-2`
+- json example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: IntelliSense for TypeScript
+  - Snippet id: `guide/api-hmr.md#snippet-3`
+- js example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: `hot.accept(cb)`
+  - Snippet id: `guide/api-hmr.md#snippet-4`
+- dot example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: `hot.accept(cb)`
+  - Snippet id: `guide/api-hmr.md#snippet-5`
+- js example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: `hot.accept(deps, cb)`
+  - Snippet id: `guide/api-hmr.md#snippet-6`
+- js example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: `hot.dispose(cb)`
+  - Snippet id: `guide/api-hmr.md#snippet-7`
+- js example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: `hot.prune(cb)`
+  - Snippet id: `guide/api-hmr.md#snippet-8`
+- js example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: `hot.data`
+  - Snippet id: `guide/api-hmr.md#snippet-9`
+- js example in [guide/api-hmr.md](./guide/api-hmr.md)
+  - Section: `hot.invalidate(message?: string)`
+  - Snippet id: `guide/api-hmr.md#snippet-10`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `createServer`
+  - Snippet id: `guide/api-javascript.md#snippet-1`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `createServer`
+  - Snippet id: `guide/api-javascript.md#snippet-2`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `createServer`
+  - Snippet id: `guide/api-javascript.md#snippet-3`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `ViteDevServer`
+  - Snippet id: `guide/api-javascript.md#snippet-4`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `build`
+  - Snippet id: `guide/api-javascript.md#snippet-5`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `build`
+  - Snippet id: `guide/api-javascript.md#snippet-6`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `preview`
+  - Snippet id: `guide/api-javascript.md#snippet-7`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `preview`
+  - Snippet id: `guide/api-javascript.md#snippet-8`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `PreviewServer`
+  - Snippet id: `guide/api-javascript.md#snippet-9`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `resolveConfig`
+  - Snippet id: `guide/api-javascript.md#snippet-10`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `mergeConfig`
+  - Snippet id: `guide/api-javascript.md#snippet-11`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `mergeConfig`
+  - Snippet id: `guide/api-javascript.md#snippet-12`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `searchForWorkspaceRoot`
+  - Snippet id: `guide/api-javascript.md#snippet-13`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `loadEnv`
+  - Snippet id: `guide/api-javascript.md#snippet-14`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `normalizePath`
+  - Snippet id: `guide/api-javascript.md#snippet-15`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `transformWithOxc`
+  - Snippet id: `guide/api-javascript.md#snippet-16`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `transformWithEsbuild`
+  - Snippet id: `guide/api-javascript.md#snippet-17`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `loadConfigFromFile`
+  - Snippet id: `guide/api-javascript.md#snippet-18`
+- ts example in [guide/api-javascript.md](./guide/api-javascript.md)
+  - Section: `preprocessCSS`
+  - Snippet id: `guide/api-javascript.md#snippet-19`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Plugins Config
+  - Snippet id: `guide/api-plugin.md#snippet-1`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Plugins Config
+  - Snippet id: `guide/api-plugin.md#snippet-2`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Plugins Config
+  - Snippet id: `guide/api-plugin.md#snippet-3`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Transforming Custom File Types
+  - Snippet id: `guide/api-plugin.md#snippet-4`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Importing a Virtual File
+  - Snippet id: `guide/api-plugin.md#snippet-5`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Importing a Virtual File
+  - Snippet id: `guide/api-plugin.md#snippet-6`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `config`
+  - Snippet id: `guide/api-plugin.md#snippet-7`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `configResolved`
+  - Snippet id: `guide/api-plugin.md#snippet-8`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `configureServer`
+  - Snippet id: `guide/api-plugin.md#snippet-9`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `configureServer`
+  - Snippet id: `guide/api-plugin.md#snippet-10`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `configureServer`
+  - Snippet id: `guide/api-plugin.md#snippet-11`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `configurePreviewServer`
+  - Snippet id: `guide/api-plugin.md#snippet-12`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `transformIndexHtml`
+  - Snippet id: `guide/api-plugin.md#snippet-13`
+- ts example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `transformIndexHtml`
+  - Snippet id: `guide/api-plugin.md#snippet-14`
+- ts example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `handleHotUpdate`
+  - Snippet id: `guide/api-plugin.md#snippet-15`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `handleHotUpdate`
+  - Snippet id: `guide/api-plugin.md#snippet-16`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `handleHotUpdate`
+  - Snippet id: `guide/api-plugin.md#snippet-17`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: `handleHotUpdate`
+  - Snippet id: `guide/api-plugin.md#snippet-18`
+- ts example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Plugin Context Meta
+  - Snippet id: `guide/api-plugin.md#snippet-19`
+- ts example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Output Bundle Metadata
+  - Snippet id: `guide/api-plugin.md#snippet-20`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Conditional Application
+  - Snippet id: `guide/api-plugin.md#snippet-21`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Conditional Application
+  - Snippet id: `guide/api-plugin.md#snippet-22`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Rolldown Plugin Compatibility
+  - Snippet id: `guide/api-plugin.md#snippet-23`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Path Normalization
+  - Snippet id: `guide/api-plugin.md#snippet-24`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Hook Filters
+  - Snippet id: `guide/api-plugin.md#snippet-25`
+- ts example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Chunk Import Map Information
+  - Snippet id: `guide/api-plugin.md#snippet-26`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Server to Client
+  - Snippet id: `guide/api-plugin.md#snippet-27`
+- ts example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Server to Client
+  - Snippet id: `guide/api-plugin.md#snippet-28`
+- ts example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Client to Server
+  - Snippet id: `guide/api-plugin.md#snippet-29`
+- js example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: Client to Server
+  - Snippet id: `guide/api-plugin.md#snippet-30`
+- ts example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: TypeScript for Custom Events
+  - Snippet id: `guide/api-plugin.md#snippet-31`
+- ts example in [guide/api-plugin.md](./guide/api-plugin.md)
+  - Section: TypeScript for Custom Events
+  - Snippet id: `guide/api-plugin.md#snippet-32`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: Importing Asset as URL
+  - Snippet id: `guide/assets.md#snippet-1`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: Importing Asset as URL
+  - Snippet id: `guide/assets.md#snippet-2`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: Explicit URL Imports
+  - Snippet id: `guide/assets.md#snippet-3`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: Explicit Inline Handling
+  - Snippet id: `guide/assets.md#snippet-4`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: Importing Asset as String
+  - Snippet id: `guide/assets.md#snippet-5`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: Importing Script as a Worker
+  - Snippet id: `guide/assets.md#snippet-6`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: Importing Script as a Worker
+  - Snippet id: `guide/assets.md#snippet-7`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: Importing Script as a Worker
+  - Snippet id: `guide/assets.md#snippet-8`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: new URL(url, import.meta.url)
+  - Snippet id: `guide/assets.md#snippet-9`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: new URL(url, import.meta.url)
+  - Snippet id: `guide/assets.md#snippet-10`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: new URL(url, import.meta.url)
+  - Snippet id: `guide/assets.md#snippet-11`
+- js example in [guide/assets.md](./guide/assets.md)
+  - Section: new URL(url, import.meta.url)
+  - Snippet id: `guide/assets.md#snippet-12`
+- js example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-1`
+- js example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-2`
+- html example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-3`
+- html example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-4`
+- json example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-5`
+- dot example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-6`
+- ts example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-7`
+- html example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-8`
+- html example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-9`
+- html example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-10`
+- ts example in [guide/backend-integration.md](./guide/backend-integration.md)
+  - Section: Backend Integration
+  - Snippet id: `guide/backend-integration.md#snippet-11`
+- js example in [guide/build.md](./guide/build.md)
+  - Section: Customizing the Build
+  - Snippet id: `guide/build.md#snippet-1`
+- js example in [guide/build.md](./guide/build.md)
+  - Section: Load Error Handling
+  - Snippet id: `guide/build.md#snippet-2`
+- js example in [guide/build.md](./guide/build.md)
+  - Section: Rebuild on Files Changes
+  - Snippet id: `guide/build.md#snippet-3`
+- text example in [guide/build.md](./guide/build.md)
+  - Section: Multi-Page App
+  - Snippet id: `guide/build.md#snippet-4`
+- js example in [guide/build.md](./guide/build.md)
+  - Section: Multi-Page App
+  - Snippet id: `guide/build.md#snippet-5`
+- js example in [guide/build.md](./guide/build.md)
+  - Section: Library Mode
+  - Snippet id: `guide/build.md#snippet-6`
+- js example in [guide/build.md](./guide/build.md)
+  - Section: Library Mode
+  - Snippet id: `guide/build.md#snippet-7`
+- js example in [guide/build.md](./guide/build.md)
+  - Section: Library Mode
+  - Snippet id: `guide/build.md#snippet-8`
+- text example in [guide/build.md](./guide/build.md)
+  - Section: Library Mode
+  - Snippet id: `guide/build.md#snippet-9`
+- json example in [guide/build.md](./guide/build.md)
+  - Section: Library Mode
+  - Snippet id: `guide/build.md#snippet-10`
+- json example in [guide/build.md](./guide/build.md)
+  - Section: Library Mode
+  - Snippet id: `guide/build.md#snippet-11`
+- json example in [guide/build.md](./guide/build.md)
+  - Section: CSS support
+  - Snippet id: `guide/build.md#snippet-12`
+- ts example in [guide/build.md](./guide/build.md)
+  - Section: Advanced Base Options
+  - Snippet id: `guide/build.md#snippet-13`
+- ts example in [guide/build.md](./guide/build.md)
+  - Section: Advanced Base Options
+  - Snippet id: `guide/build.md#snippet-14`
+- bash example in [guide/cli.md](./guide/cli.md)
+  - Section: Usage
+  - Snippet id: `guide/cli.md#snippet-1`
+- bash example in [guide/cli.md](./guide/cli.md)
+  - Section: Usage
+  - Snippet id: `guide/cli.md#snippet-2`
+- bash example in [guide/cli.md](./guide/cli.md)
+  - Section: Usage
+  - Snippet id: `guide/cli.md#snippet-3`
+- bash example in [guide/cli.md](./guide/cli.md)
+  - Section: Usage
+  - Snippet id: `guide/cli.md#snippet-4`
+- js example in [guide/dep-pre-bundling.md](./guide/dep-pre-bundling.md)
+  - Section: The Why
+  - Snippet id: `guide/dep-pre-bundling.md#snippet-1`
+- js example in [guide/dep-pre-bundling.md](./guide/dep-pre-bundling.md)
+  - Section: Monorepos and Linked Dependencies
+  - Snippet id: `guide/dep-pre-bundling.md#snippet-2`
+- js example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: Env Variables and Modes
+  - Snippet id: `guide/env-and-mode.md#snippet-1`
+- [.env] example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: Env Variables
+  - Snippet id: `guide/env-and-mode.md#snippet-2`
+- js example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: Env Variables
+  - Snippet id: `guide/env-and-mode.md#snippet-3`
+- text example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: `.env` Files
+  - Snippet id: `guide/env-and-mode.md#snippet-4`
+- [.env] example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: `.env` Files
+  - Snippet id: `guide/env-and-mode.md#snippet-5`
+- [.env] example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: `.env` Files
+  - Snippet id: `guide/env-and-mode.md#snippet-6`
+- typescript example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: IntelliSense for TypeScript
+  - Snippet id: `guide/env-and-mode.md#snippet-7`
+- json example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: IntelliSense for TypeScript
+  - Snippet id: `guide/env-and-mode.md#snippet-8`
+- html example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: HTML Constant Replacement
+  - Snippet id: `guide/env-and-mode.md#snippet-9`
+- [.env.production] example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: Modes
+  - Snippet id: `guide/env-and-mode.md#snippet-10`
+- bash example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: Modes
+  - Snippet id: `guide/env-and-mode.md#snippet-11`
+- [.env.staging] example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: Modes
+  - Snippet id: `guide/env-and-mode.md#snippet-12`
+- [.env.testing] example in [guide/env-and-mode.md](./guide/env-and-mode.md)
+  - Section: Modes
+  - Snippet id: `guide/env-and-mode.md#snippet-13`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: npm Dependency Resolving and Pre-Bundling
+  - Snippet id: `guide/features.md#snippet-1`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Transpile Only
+  - Snippet id: `guide/features.md#snippet-2`
+- json example in [guide/features.md](./guide/features.md)
+  - Section: Client Types
+  - Snippet id: `guide/features.md#snippet-3`
+- typescript example in [guide/features.md](./guide/features.md)
+  - Section: Client Types
+  - Snippet id: `guide/features.md#snippet-4`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Client Types
+  - Snippet id: `guide/features.md#snippet-5`
+- json example in [guide/features.md](./guide/features.md)
+  - Section: Client Types
+  - Snippet id: `guide/features.md#snippet-6`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Client Types
+  - Snippet id: `guide/features.md#snippet-7`
+- html example in [guide/features.md](./guide/features.md)
+  - Section: HTML
+  - Snippet id: `guide/features.md#snippet-8`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: JSX
+  - Snippet id: `guide/features.md#snippet-9`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: JSX
+  - Snippet id: `guide/features.md#snippet-10`
+- css example in [guide/features.md](./guide/features.md)
+  - Section: CSS Modules
+  - Snippet id: `guide/features.md#snippet-11`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: CSS Modules
+  - Snippet id: `guide/features.md#snippet-12`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: CSS Modules
+  - Snippet id: `guide/features.md#snippet-13`
+- bash example in [guide/features.md](./guide/features.md)
+  - Section: CSS Pre-processors
+  - Snippet id: `guide/features.md#snippet-14`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Disabling CSS injection into the page
+  - Snippet id: `guide/features.md#snippet-15`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Static Assets
+  - Snippet id: `guide/features.md#snippet-16`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Static Assets
+  - Snippet id: `guide/features.md#snippet-17`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Static Assets
+  - Snippet id: `guide/features.md#snippet-18`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Static Assets
+  - Snippet id: `guide/features.md#snippet-19`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Static Assets
+  - Snippet id: `guide/features.md#snippet-20`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: JSON
+  - Snippet id: `guide/features.md#snippet-21`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Glob Import
+  - Snippet id: `guide/features.md#snippet-22`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Glob Import
+  - Snippet id: `guide/features.md#snippet-23`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Glob Import
+  - Snippet id: `guide/features.md#snippet-24`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Glob Import
+  - Snippet id: `guide/features.md#snippet-25`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Glob Import
+  - Snippet id: `guide/features.md#snippet-26`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Multiple Patterns
+  - Snippet id: `guide/features.md#snippet-27`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Negative Patterns
+  - Snippet id: `guide/features.md#snippet-28`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Negative Patterns
+  - Snippet id: `guide/features.md#snippet-29`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Named Imports
+  - Snippet id: `guide/features.md#snippet-30`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Named Imports
+  - Snippet id: `guide/features.md#snippet-31`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Named Imports
+  - Snippet id: `guide/features.md#snippet-32`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Named Imports
+  - Snippet id: `guide/features.md#snippet-33`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Named Imports
+  - Snippet id: `guide/features.md#snippet-34`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Named Imports
+  - Snippet id: `guide/features.md#snippet-35`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Custom Queries
+  - Snippet id: `guide/features.md#snippet-36`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Custom Queries
+  - Snippet id: `guide/features.md#snippet-37`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Custom Queries
+  - Snippet id: `guide/features.md#snippet-38`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Base Path
+  - Snippet id: `guide/features.md#snippet-39`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Base Path
+  - Snippet id: `guide/features.md#snippet-40`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Case Sensitive Matching
+  - Snippet id: `guide/features.md#snippet-41`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Dynamic Import
+  - Snippet id: `guide/features.md#snippet-42`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: ESM Integration
+  - Snippet id: `guide/features.md#snippet-43`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: ESM Integration
+  - Snippet id: `guide/features.md#snippet-44`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Manual Initialization
+  - Snippet id: `guide/features.md#snippet-45`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Manual Initialization
+  - Snippet id: `guide/features.md#snippet-46`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Accessing the WebAssembly Module
+  - Snippet id: `guide/features.md#snippet-47`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Import with Constructors
+  - Snippet id: `guide/features.md#snippet-48`
+- ts example in [guide/features.md](./guide/features.md)
+  - Section: Import with Constructors
+  - Snippet id: `guide/features.md#snippet-49`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Import with Query Suffixes
+  - Snippet id: `guide/features.md#snippet-50`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Import with Query Suffixes
+  - Snippet id: `guide/features.md#snippet-51`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: Import with Query Suffixes
+  - Snippet id: `guide/features.md#snippet-52`
+- js example in [guide/features.md](./guide/features.md)
+  - Section: License
+  - Snippet id: `guide/features.md#snippet-53`
+- md example in [guide/features.md](./guide/features.md)
+  - Section: License
+  - Snippet id: `guide/features.md#snippet-54`
+- text example in [guide/features.md](./guide/features.md)
+  - Section: Async Chunk Loading Optimization
+  - Snippet id: `guide/features.md#snippet-55`
+- text example in [guide/features.md](./guide/features.md)
+  - Section: Async Chunk Loading Optimization
+  - Snippet id: `guide/features.md#snippet-56`
+- text example in [guide/features.md](./guide/features.md)
+  - Section: Chunk Import Map Optimization
+  - Snippet id: `guide/features.md#snippet-57`
+- json example in [guide/migration.md](./guide/migration.md)
+  - Section: Gradual Migration
+  - Snippet id: `guide/migration.md#snippet-1`
+- js example in [guide/migration.md](./guide/migration.md)
+  - Section: Dependency Optimizer Now Uses Rolldown
+  - Snippet id: `guide/migration.md#snippet-2`
+- js example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-3`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-4`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-5`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-6`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-7`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-8`
+- ts example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-9`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-10`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-11`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-12`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-13`
+- bash example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-14`
+- js example in [guide/migration.md](./guide/migration.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `guide/migration.md#snippet-15`
+- js example in [guide/migration.md](./guide/migration.md)
+  - Section: Require Calls For Externalized Modules
+  - Snippet id: `guide/migration.md#snippet-16`
+- js example in [guide/migration.md](./guide/migration.md)
+  - Section: `build()` Throws `BundleError`
+  - Snippet id: `guide/migration.md#snippet-17`
+- js example in [guide/migration.md](./guide/migration.md)
+  - Section: Module Type Support and Auto Detection
+  - Snippet id: `guide/migration.md#snippet-18`
+- js example in [guide/performance.md](./guide/performance.md)
+  - Section: Avoid Barrel Files
+  - Snippet id: `guide/performance.md#snippet-1`
+- text example in [guide/performance.md](./guide/performance.md)
+  - Section: Warm Up Frequently Used Files
+  - Snippet id: `guide/performance.md#snippet-2`
+- bash example in [guide/performance.md](./guide/performance.md)
+  - Section: Warm Up Frequently Used Files
+  - Snippet id: `guide/performance.md#snippet-3`
+- js example in [guide/performance.md](./guide/performance.md)
+  - Section: Warm Up Frequently Used Files
+  - Snippet id: `guide/performance.md#snippet-4`
+- text example in [guide/ssr.md](./guide/ssr.md)
+  - Section: Source Structure
+  - Snippet id: `guide/ssr.md#snippet-1`
+- html example in [guide/ssr.md](./guide/ssr.md)
+  - Section: Source Structure
+  - Snippet id: `guide/ssr.md#snippet-2`
+- js example in [guide/ssr.md](./guide/ssr.md)
+  - Section: Conditional Logic
+  - Snippet id: `guide/ssr.md#snippet-3`
+- js{12-15} example in [guide/ssr.md](./guide/ssr.md)
+  - Section: Setting Up the Dev Server
+  - Snippet id: `guide/ssr.md#snippet-4`
+- js example in [guide/ssr.md](./guide/ssr.md)
+  - Section: Setting Up the Dev Server
+  - Snippet id: `guide/ssr.md#snippet-5`
+- diff example in [guide/ssr.md](./guide/ssr.md)
+  - Section: Setting Up the Dev Server
+  - Snippet id: `guide/ssr.md#snippet-6`
+- json example in [guide/ssr.md](./guide/ssr.md)
+  - Section: Building for Production
+  - Snippet id: `guide/ssr.md#snippet-7`
+- diff example in [guide/ssr.md](./guide/ssr.md)
+  - Section: Generating Preload Directives
+  - Snippet id: `guide/ssr.md#snippet-8`
+- js example in [guide/ssr.md](./guide/ssr.md)
+  - Section: Generating Preload Directives
+  - Snippet id: `guide/ssr.md#snippet-9`
+- js example in [guide/ssr.md](./guide/ssr.md)
+  - Section: SSR-specific Plugin Logic
+  - Snippet id: `guide/ssr.md#snippet-10`
+- json example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: Deploying a Static Site
+  - Snippet id: `guide/static-deploy.md#snippet-1`
+- bash example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: Building the App
+  - Snippet id: `guide/static-deploy.md#snippet-2`
+- bash example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: Testing the App Locally
+  - Snippet id: `guide/static-deploy.md#snippet-3`
+- json example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: Testing the App Locally
+  - Snippet id: `guide/static-deploy.md#snippet-4`
+- yaml example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: GitHub Pages
+  - Snippet id: `guide/static-deploy.md#snippet-5`
+- yaml example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: GitLab Pages and GitLab CI
+  - Snippet id: `guide/static-deploy.md#snippet-6`
+- bash example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: Cloudflare Workers
+  - Snippet id: `guide/static-deploy.md#snippet-7`
+- js example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: Cloudflare Workers
+  - Snippet id: `guide/static-deploy.md#snippet-8`
+- jsonc example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: Cloudflare Workers
+  - Snippet id: `guide/static-deploy.md#snippet-9`
+- json example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: Google Firebase
+  - Snippet id: `guide/static-deploy.md#snippet-10`
+- js example in [guide/static-deploy.md](./guide/static-deploy.md)
+  - Section: Google Firebase
+  - Snippet id: `guide/static-deploy.md#snippet-11`
+- shell example in [guide/troubleshooting.md](./guide/troubleshooting.md)
+  - Section: Requests are stalled forever
+  - Snippet id: `guide/troubleshooting.md#snippet-1`
+- shell example in [guide/troubleshooting.md](./guide/troubleshooting.md)
+  - Section: Requests are stalled forever
+  - Snippet id: `guide/troubleshooting.md#snippet-2`
+- shell example in [guide/troubleshooting.md](./guide/troubleshooting.md)
+  - Section: Vite crashes with ENOSPC error
+  - Snippet id: `guide/troubleshooting.md#snippet-3`
+- text example in [guide/troubleshooting.md](./guide/troubleshooting.md)
+  - Section: macOS
+  - Snippet id: `guide/troubleshooting.md#snippet-4`
+- js example in [guide/troubleshooting.md](./guide/troubleshooting.md)
+  - Section: Vite detects a file change but the HMR is not working
+  - Snippet id: `guide/troubleshooting.md#snippet-5`
+- bash example in [guide/troubleshooting.md](./guide/troubleshooting.md)
+  - Section: Performance Bottlenecks
+  - Snippet id: `guide/troubleshooting.md#snippet-6`
+- bash example in [guide/troubleshooting.md](./guide/troubleshooting.md)
+  - Section: Performance Bottlenecks
+  - Snippet id: `guide/troubleshooting.md#snippet-7`
+- bash example in [guide/using-plugins.md](./guide/using-plugins.md)
+  - Section: Adding a Plugin
+  - Snippet id: `guide/using-plugins.md#snippet-1`
+- js example in [guide/using-plugins.md](./guide/using-plugins.md)
+  - Section: Adding a Plugin
+  - Snippet id: `guide/using-plugins.md#snippet-2`
+- js example in [guide/using-plugins.md](./guide/using-plugins.md)
+  - Section: Enforcing Plugin Ordering
+  - Snippet id: `guide/using-plugins.md#snippet-3`
+- js example in [guide/using-plugins.md](./guide/using-plugins.md)
+  - Section: Conditional Application
+  - Snippet id: `guide/using-plugins.md#snippet-4`
+- bash example in [index.md](./index.md)
+  - Section: Scaffolding Your First Vite Project
+  - Snippet id: `index.md#snippet-1`
+- bash example in [index.md](./index.md)
+  - Section: Scaffolding Your First Vite Project
+  - Snippet id: `index.md#snippet-2`
+- bash example in [index.md](./index.md)
+  - Section: Scaffolding Your First Vite Project
+  - Snippet id: `index.md#snippet-3`
+- bash example in [index.md](./index.md)
+  - Section: Scaffolding Your First Vite Project
+  - Snippet id: `index.md#snippet-4`
+- bash example in [index.md](./index.md)
+  - Section: Scaffolding Your First Vite Project
+  - Snippet id: `index.md#snippet-5`
+- bash example in [index.md](./index.md)
+  - Section: Scaffolding Your First Vite Project
+  - Snippet id: `index.md#snippet-6`
+- bash example in [index.md](./index.md)
+  - Section: npm 7+, extra double-dash is needed:
+  - Snippet id: `index.md#snippet-7`
+- bash example in [index.md](./index.md)
+  - Section: npm 7+, extra double-dash is needed:
+  - Snippet id: `index.md#snippet-8`
+- bash example in [index.md](./index.md)
+  - Section: npm 7+, extra double-dash is needed:
+  - Snippet id: `index.md#snippet-9`
+- bash example in [index.md](./index.md)
+  - Section: npm 7+, extra double-dash is needed:
+  - Snippet id: `index.md#snippet-10`
+- bash example in [index.md](./index.md)
+  - Section: Community Templates
+  - Snippet id: `index.md#snippet-11`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-12`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-13`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-14`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-15`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-16`
+- html example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-17`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-18`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-19`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-20`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-21`
+- bash example in [index.md](./index.md)
+  - Section: Manual Installation
+  - Snippet id: `index.md#snippet-22`
+- json example in [index.md](./index.md)
+  - Section: Command Line Interface
+  - Snippet id: `index.md#snippet-23`
+- bash example in [index.md](./index.md)
+  - Section: Using Unreleased Commits
+  - Snippet id: `index.md#snippet-24`
+- bash example in [index.md](./index.md)
+  - Section: Using Unreleased Commits
+  - Snippet id: `index.md#snippet-25`
+- bash example in [index.md](./index.md)
+  - Section: Using Unreleased Commits
+  - Snippet id: `index.md#snippet-26`
+- bash example in [index.md](./index.md)
+  - Section: Using Unreleased Commits
+  - Snippet id: `index.md#snippet-27`
+- bash example in [index.md](./index.md)
+  - Section: Using Unreleased Commits
+  - Snippet id: `index.md#snippet-28`
+- js example in [index.md](./index.md)
+  - Section: npm Dependency Resolving and Pre-Bundling
+  - Snippet id: `index.md#snippet-29`
+- ts example in [index.md](./index.md)
+  - Section: Transpile Only
+  - Snippet id: `index.md#snippet-30`
+- json example in [index.md](./index.md)
+  - Section: Client Types
+  - Snippet id: `index.md#snippet-31`
+- typescript example in [index.md](./index.md)
+  - Section: Client Types
+  - Snippet id: `index.md#snippet-32`
+- ts example in [index.md](./index.md)
+  - Section: Client Types
+  - Snippet id: `index.md#snippet-33`
+- json example in [index.md](./index.md)
+  - Section: Client Types
+  - Snippet id: `index.md#snippet-34`
+- ts example in [index.md](./index.md)
+  - Section: Client Types
+  - Snippet id: `index.md#snippet-35`
+- html example in [index.md](./index.md)
+  - Section: HTML
+  - Snippet id: `index.md#snippet-36`
+- js example in [index.md](./index.md)
+  - Section: JSX
+  - Snippet id: `index.md#snippet-37`
+- js example in [index.md](./index.md)
+  - Section: JSX
+  - Snippet id: `index.md#snippet-38`
+- css example in [index.md](./index.md)
+  - Section: CSS Modules
+  - Snippet id: `index.md#snippet-39`
+- js example in [index.md](./index.md)
+  - Section: CSS Modules
+  - Snippet id: `index.md#snippet-40`
+- js example in [index.md](./index.md)
+  - Section: CSS Modules
+  - Snippet id: `index.md#snippet-41`
+- bash example in [index.md](./index.md)
+  - Section: CSS Pre-processors
+  - Snippet id: `index.md#snippet-42`
+- js example in [index.md](./index.md)
+  - Section: Disabling CSS injection into the page
+  - Snippet id: `index.md#snippet-43`
+- js example in [index.md](./index.md)
+  - Section: Static Assets
+  - Snippet id: `index.md#snippet-44`
+- js example in [index.md](./index.md)
+  - Section: Static Assets
+  - Snippet id: `index.md#snippet-45`
+- js example in [index.md](./index.md)
+  - Section: Static Assets
+  - Snippet id: `index.md#snippet-46`
+- js example in [index.md](./index.md)
+  - Section: Static Assets
+  - Snippet id: `index.md#snippet-47`
+- js example in [index.md](./index.md)
+  - Section: Static Assets
+  - Snippet id: `index.md#snippet-48`
+- js example in [index.md](./index.md)
+  - Section: JSON
+  - Snippet id: `index.md#snippet-49`
+- js example in [index.md](./index.md)
+  - Section: Glob Import
+  - Snippet id: `index.md#snippet-50`
+- js example in [index.md](./index.md)
+  - Section: Glob Import
+  - Snippet id: `index.md#snippet-51`
+- js example in [index.md](./index.md)
+  - Section: Glob Import
+  - Snippet id: `index.md#snippet-52`
+- js example in [index.md](./index.md)
+  - Section: Glob Import
+  - Snippet id: `index.md#snippet-53`
+- js example in [index.md](./index.md)
+  - Section: Glob Import
+  - Snippet id: `index.md#snippet-54`
+- js example in [index.md](./index.md)
+  - Section: Multiple Patterns
+  - Snippet id: `index.md#snippet-55`
+- js example in [index.md](./index.md)
+  - Section: Negative Patterns
+  - Snippet id: `index.md#snippet-56`
+- js example in [index.md](./index.md)
+  - Section: Negative Patterns
+  - Snippet id: `index.md#snippet-57`
+- ts example in [index.md](./index.md)
+  - Section: Named Imports
+  - Snippet id: `index.md#snippet-58`
+- ts example in [index.md](./index.md)
+  - Section: Named Imports
+  - Snippet id: `index.md#snippet-59`
+- ts example in [index.md](./index.md)
+  - Section: Named Imports
+  - Snippet id: `index.md#snippet-60`
+- ts example in [index.md](./index.md)
+  - Section: Named Imports
+  - Snippet id: `index.md#snippet-61`
+- ts example in [index.md](./index.md)
+  - Section: Named Imports
+  - Snippet id: `index.md#snippet-62`
+- ts example in [index.md](./index.md)
+  - Section: Named Imports
+  - Snippet id: `index.md#snippet-63`
+- ts example in [index.md](./index.md)
+  - Section: Custom Queries
+  - Snippet id: `index.md#snippet-64`
+- ts example in [index.md](./index.md)
+  - Section: Custom Queries
+  - Snippet id: `index.md#snippet-65`
+- ts example in [index.md](./index.md)
+  - Section: Custom Queries
+  - Snippet id: `index.md#snippet-66`
+- ts example in [index.md](./index.md)
+  - Section: Base Path
+  - Snippet id: `index.md#snippet-67`
+- ts example in [index.md](./index.md)
+  - Section: Base Path
+  - Snippet id: `index.md#snippet-68`
+- ts example in [index.md](./index.md)
+  - Section: Case Sensitive Matching
+  - Snippet id: `index.md#snippet-69`
+- ts example in [index.md](./index.md)
+  - Section: Dynamic Import
+  - Snippet id: `index.md#snippet-70`
+- js example in [index.md](./index.md)
+  - Section: ESM Integration
+  - Snippet id: `index.md#snippet-71`
+- ts example in [index.md](./index.md)
+  - Section: ESM Integration
+  - Snippet id: `index.md#snippet-72`
+- js example in [index.md](./index.md)
+  - Section: Manual Initialization
+  - Snippet id: `index.md#snippet-73`
+- js example in [index.md](./index.md)
+  - Section: Manual Initialization
+  - Snippet id: `index.md#snippet-74`
+- js example in [index.md](./index.md)
+  - Section: Accessing the WebAssembly Module
+  - Snippet id: `index.md#snippet-75`
+- ts example in [index.md](./index.md)
+  - Section: Import with Constructors
+  - Snippet id: `index.md#snippet-76`
+- ts example in [index.md](./index.md)
+  - Section: Import with Constructors
+  - Snippet id: `index.md#snippet-77`
+- js example in [index.md](./index.md)
+  - Section: Import with Query Suffixes
+  - Snippet id: `index.md#snippet-78`
+- js example in [index.md](./index.md)
+  - Section: Import with Query Suffixes
+  - Snippet id: `index.md#snippet-79`
+- js example in [index.md](./index.md)
+  - Section: Import with Query Suffixes
+  - Snippet id: `index.md#snippet-80`
+- js example in [index.md](./index.md)
+  - Section: License
+  - Snippet id: `index.md#snippet-81`
+- md example in [index.md](./index.md)
+  - Section: License
+  - Snippet id: `index.md#snippet-82`
+- text example in [index.md](./index.md)
+  - Section: Async Chunk Loading Optimization
+  - Snippet id: `index.md#snippet-83`
+- text example in [index.md](./index.md)
+  - Section: Async Chunk Loading Optimization
+  - Snippet id: `index.md#snippet-84`
+- text example in [index.md](./index.md)
+  - Section: Chunk Import Map Optimization
+  - Snippet id: `index.md#snippet-85`
+- bash example in [index.md](./index.md)
+  - Section: Usage
+  - Snippet id: `index.md#snippet-86`
+- bash example in [index.md](./index.md)
+  - Section: Usage
+  - Snippet id: `index.md#snippet-87`
+- bash example in [index.md](./index.md)
+  - Section: Usage
+  - Snippet id: `index.md#snippet-88`
+- bash example in [index.md](./index.md)
+  - Section: Usage
+  - Snippet id: `index.md#snippet-89`
+- bash example in [index.md](./index.md)
+  - Section: Adding a Plugin
+  - Snippet id: `index.md#snippet-90`
+- js example in [index.md](./index.md)
+  - Section: Adding a Plugin
+  - Snippet id: `index.md#snippet-91`
+- js example in [index.md](./index.md)
+  - Section: Enforcing Plugin Ordering
+  - Snippet id: `index.md#snippet-92`
+- js example in [index.md](./index.md)
+  - Section: Conditional Application
+  - Snippet id: `index.md#snippet-93`
+- js example in [index.md](./index.md)
+  - Section: The Why
+  - Snippet id: `index.md#snippet-94`
+- js example in [index.md](./index.md)
+  - Section: Monorepos and Linked Dependencies
+  - Snippet id: `index.md#snippet-95`
+- js example in [index.md](./index.md)
+  - Section: Importing Asset as URL
+  - Snippet id: `index.md#snippet-96`
+- js example in [index.md](./index.md)
+  - Section: Importing Asset as URL
+  - Snippet id: `index.md#snippet-97`
+- js example in [index.md](./index.md)
+  - Section: Explicit URL Imports
+  - Snippet id: `index.md#snippet-98`
+- js example in [index.md](./index.md)
+  - Section: Explicit Inline Handling
+  - Snippet id: `index.md#snippet-99`
+- js example in [index.md](./index.md)
+  - Section: Importing Asset as String
+  - Snippet id: `index.md#snippet-100`
+- js example in [index.md](./index.md)
+  - Section: Importing Script as a Worker
+  - Snippet id: `index.md#snippet-101`
+- js example in [index.md](./index.md)
+  - Section: Importing Script as a Worker
+  - Snippet id: `index.md#snippet-102`
+- js example in [index.md](./index.md)
+  - Section: Importing Script as a Worker
+  - Snippet id: `index.md#snippet-103`
+- js example in [index.md](./index.md)
+  - Section: new URL(url, import.meta.url)
+  - Snippet id: `index.md#snippet-104`
+- js example in [index.md](./index.md)
+  - Section: new URL(url, import.meta.url)
+  - Snippet id: `index.md#snippet-105`
+- js example in [index.md](./index.md)
+  - Section: new URL(url, import.meta.url)
+  - Snippet id: `index.md#snippet-106`
+- js example in [index.md](./index.md)
+  - Section: new URL(url, import.meta.url)
+  - Snippet id: `index.md#snippet-107`
+- js example in [index.md](./index.md)
+  - Section: Customizing the Build
+  - Snippet id: `index.md#snippet-108`
+- js example in [index.md](./index.md)
+  - Section: Load Error Handling
+  - Snippet id: `index.md#snippet-109`
+- js example in [index.md](./index.md)
+  - Section: Rebuild on Files Changes
+  - Snippet id: `index.md#snippet-110`
+- text example in [index.md](./index.md)
+  - Section: Multi-Page App
+  - Snippet id: `index.md#snippet-111`
+- js example in [index.md](./index.md)
+  - Section: Multi-Page App
+  - Snippet id: `index.md#snippet-112`
+- js example in [index.md](./index.md)
+  - Section: Library Mode
+  - Snippet id: `index.md#snippet-113`
+- js example in [index.md](./index.md)
+  - Section: Library Mode
+  - Snippet id: `index.md#snippet-114`
+- js example in [index.md](./index.md)
+  - Section: Library Mode
+  - Snippet id: `index.md#snippet-115`
+- text example in [index.md](./index.md)
+  - Section: Library Mode
+  - Snippet id: `index.md#snippet-116`
+- json example in [index.md](./index.md)
+  - Section: Library Mode
+  - Snippet id: `index.md#snippet-117`
+- json example in [index.md](./index.md)
+  - Section: Library Mode
+  - Snippet id: `index.md#snippet-118`
+- json example in [index.md](./index.md)
+  - Section: CSS support
+  - Snippet id: `index.md#snippet-119`
+- ts example in [index.md](./index.md)
+  - Section: Advanced Base Options
+  - Snippet id: `index.md#snippet-120`
+- ts example in [index.md](./index.md)
+  - Section: Advanced Base Options
+  - Snippet id: `index.md#snippet-121`
+- json example in [index.md](./index.md)
+  - Section: Deploying a Static Site
+  - Snippet id: `index.md#snippet-122`
+- bash example in [index.md](./index.md)
+  - Section: Building the App
+  - Snippet id: `index.md#snippet-123`
+- bash example in [index.md](./index.md)
+  - Section: Testing the App Locally
+  - Snippet id: `index.md#snippet-124`
+- json example in [index.md](./index.md)
+  - Section: Testing the App Locally
+  - Snippet id: `index.md#snippet-125`
+- yaml example in [index.md](./index.md)
+  - Section: GitHub Pages
+  - Snippet id: `index.md#snippet-126`
+- yaml example in [index.md](./index.md)
+  - Section: GitLab Pages and GitLab CI
+  - Snippet id: `index.md#snippet-127`
+- bash example in [index.md](./index.md)
+  - Section: Cloudflare Workers
+  - Snippet id: `index.md#snippet-128`
+- js example in [index.md](./index.md)
+  - Section: Cloudflare Workers
+  - Snippet id: `index.md#snippet-129`
+- jsonc example in [index.md](./index.md)
+  - Section: Cloudflare Workers
+  - Snippet id: `index.md#snippet-130`
+- json example in [index.md](./index.md)
+  - Section: Google Firebase
+  - Snippet id: `index.md#snippet-131`
+- js example in [index.md](./index.md)
+  - Section: Google Firebase
+  - Snippet id: `index.md#snippet-132`
+- js example in [index.md](./index.md)
+  - Section: Env Variables and Modes
+  - Snippet id: `index.md#snippet-133`
+- [.env] example in [index.md](./index.md)
+  - Section: Env Variables
+  - Snippet id: `index.md#snippet-134`
+- js example in [index.md](./index.md)
+  - Section: Env Variables
+  - Snippet id: `index.md#snippet-135`
+- text example in [index.md](./index.md)
+  - Section: `.env` Files
+  - Snippet id: `index.md#snippet-136`
+- [.env] example in [index.md](./index.md)
+  - Section: `.env` Files
+  - Snippet id: `index.md#snippet-137`
+- [.env] example in [index.md](./index.md)
+  - Section: `.env` Files
+  - Snippet id: `index.md#snippet-138`
+- typescript example in [index.md](./index.md)
+  - Section: IntelliSense for TypeScript
+  - Snippet id: `index.md#snippet-139`
+- json example in [index.md](./index.md)
+  - Section: IntelliSense for TypeScript
+  - Snippet id: `index.md#snippet-140`
+- html example in [index.md](./index.md)
+  - Section: HTML Constant Replacement
+  - Snippet id: `index.md#snippet-141`
+- [.env.production] example in [index.md](./index.md)
+  - Section: Modes
+  - Snippet id: `index.md#snippet-142`
+- bash example in [index.md](./index.md)
+  - Section: Modes
+  - Snippet id: `index.md#snippet-143`
+- [.env.staging] example in [index.md](./index.md)
+  - Section: Modes
+  - Snippet id: `index.md#snippet-144`
+- [.env.testing] example in [index.md](./index.md)
+  - Section: Modes
+  - Snippet id: `index.md#snippet-145`
+- text example in [index.md](./index.md)
+  - Section: Source Structure
+  - Snippet id: `index.md#snippet-146`
+- html example in [index.md](./index.md)
+  - Section: Source Structure
+  - Snippet id: `index.md#snippet-147`
+- js example in [index.md](./index.md)
+  - Section: Conditional Logic
+  - Snippet id: `index.md#snippet-148`
+- js{12-15} example in [index.md](./index.md)
+  - Section: Setting Up the Dev Server
+  - Snippet id: `index.md#snippet-149`
+- js example in [index.md](./index.md)
+  - Section: Setting Up the Dev Server
+  - Snippet id: `index.md#snippet-150`
+- diff example in [index.md](./index.md)
+  - Section: Setting Up the Dev Server
+  - Snippet id: `index.md#snippet-151`
+- json example in [index.md](./index.md)
+  - Section: Building for Production
+  - Snippet id: `index.md#snippet-152`
+- diff example in [index.md](./index.md)
+  - Section: Generating Preload Directives
+  - Snippet id: `index.md#snippet-153`
+- js example in [index.md](./index.md)
+  - Section: Generating Preload Directives
+  - Snippet id: `index.md#snippet-154`
+- js example in [index.md](./index.md)
+  - Section: SSR-specific Plugin Logic
+  - Snippet id: `index.md#snippet-155`
+- js example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-156`
+- js example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-157`
+- html example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-158`
+- html example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-159`
+- json example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-160`
+- dot example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-161`
+- ts example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-162`
+- html example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-163`
+- html example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-164`
+- html example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-165`
+- ts example in [index.md](./index.md)
+  - Section: Backend Integration
+  - Snippet id: `index.md#snippet-166`
+- shell example in [index.md](./index.md)
+  - Section: Requests are stalled forever
+  - Snippet id: `index.md#snippet-167`
+- shell example in [index.md](./index.md)
+  - Section: Requests are stalled forever
+  - Snippet id: `index.md#snippet-168`
+- shell example in [index.md](./index.md)
+  - Section: Vite crashes with ENOSPC error
+  - Snippet id: `index.md#snippet-169`
+- text example in [index.md](./index.md)
+  - Section: macOS
+  - Snippet id: `index.md#snippet-170`
+- js example in [index.md](./index.md)
+  - Section: Vite detects a file change but the HMR is not working
+  - Snippet id: `index.md#snippet-171`
+- bash example in [index.md](./index.md)
+  - Section: Performance Bottlenecks
+  - Snippet id: `index.md#snippet-172`
+- bash example in [index.md](./index.md)
+  - Section: Performance Bottlenecks
+  - Snippet id: `index.md#snippet-173`
+- js example in [index.md](./index.md)
+  - Section: Avoid Barrel Files
+  - Snippet id: `index.md#snippet-174`
+- text example in [index.md](./index.md)
+  - Section: Warm Up Frequently Used Files
+  - Snippet id: `index.md#snippet-175`
+- bash example in [index.md](./index.md)
+  - Section: Warm Up Frequently Used Files
+  - Snippet id: `index.md#snippet-176`
+- js example in [index.md](./index.md)
+  - Section: Warm Up Frequently Used Files
+  - Snippet id: `index.md#snippet-177`
+- json example in [index.md](./index.md)
+  - Section: Gradual Migration
+  - Snippet id: `index.md#snippet-178`
+- js example in [index.md](./index.md)
+  - Section: Dependency Optimizer Now Uses Rolldown
+  - Snippet id: `index.md#snippet-179`
+- js example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-180`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-181`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-182`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-183`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-184`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-185`
+- ts example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-186`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-187`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-188`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-189`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-190`
+- bash example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-191`
+- js example in [index.md](./index.md)
+  - Section: JavaScript Transforms by Oxc
+  - Snippet id: `index.md#snippet-192`
+- js example in [index.md](./index.md)
+  - Section: Require Calls For Externalized Modules
+  - Snippet id: `index.md#snippet-193`
+- js example in [index.md](./index.md)
+  - Section: `build()` Throws `BundleError`
+  - Snippet id: `index.md#snippet-194`
+- js example in [index.md](./index.md)
+  - Section: Module Type Support and Auto Detection
+  - Snippet id: `index.md#snippet-195`
+- js example in [index.md](./index.md)
+  - Section: Plugins Config
+  - Snippet id: `index.md#snippet-196`
+- js example in [index.md](./index.md)
+  - Section: Plugins Config
+  - Snippet id: `index.md#snippet-197`
+- js example in [index.md](./index.md)
+  - Section: Plugins Config
+  - Snippet id: `index.md#snippet-198`
+- js example in [index.md](./index.md)
+  - Section: Transforming Custom File Types
+  - Snippet id: `index.md#snippet-199`
+- js example in [index.md](./index.md)
+  - Section: Importing a Virtual File
+  - Snippet id: `index.md#snippet-200`
+- js example in [index.md](./index.md)
+  - Section: Importing a Virtual File
+  - Snippet id: `index.md#snippet-201`
+- js example in [index.md](./index.md)
+  - Section: `config`
+  - Snippet id: `index.md#snippet-202`
+- js example in [index.md](./index.md)
+  - Section: `configResolved`
+  - Snippet id: `index.md#snippet-203`
+- js example in [index.md](./index.md)
+  - Section: `configureServer`
+  - Snippet id: `index.md#snippet-204`
+- js example in [index.md](./index.md)
+  - Section: `configureServer`
+  - Snippet id: `index.md#snippet-205`
+- js example in [index.md](./index.md)
+  - Section: `configureServer`
+  - Snippet id: `index.md#snippet-206`
+- js example in [index.md](./index.md)
+  - Section: `configurePreviewServer`
+  - Snippet id: `index.md#snippet-207`
+- js example in [index.md](./index.md)
+  - Section: `transformIndexHtml`
+  - Snippet id: `index.md#snippet-208`
+- ts example in [index.md](./index.md)
+  - Section: `transformIndexHtml`
+  - Snippet id: `index.md#snippet-209`
+- ts example in [index.md](./index.md)
+  - Section: `handleHotUpdate`
+  - Snippet id: `index.md#snippet-210`
+- js example in [index.md](./index.md)
+  - Section: `handleHotUpdate`
+  - Snippet id: `index.md#snippet-211`
+- js example in [index.md](./index.md)
+  - Section: `handleHotUpdate`
+  - Snippet id: `index.md#snippet-212`
+- js example in [index.md](./index.md)
+  - Section: `handleHotUpdate`
+  - Snippet id: `index.md#snippet-213`
+- ts example in [index.md](./index.md)
+  - Section: Plugin Context Meta
+  - Snippet id: `index.md#snippet-214`
+- ts example in [index.md](./index.md)
+  - Section: Output Bundle Metadata
+  - Snippet id: `index.md#snippet-215`
+- js example in [index.md](./index.md)
+  - Section: Conditional Application
+  - Snippet id: `index.md#snippet-216`
+- js example in [index.md](./index.md)
+  - Section: Conditional Application
+  - Snippet id: `index.md#snippet-217`
+- js example in [index.md](./index.md)
+  - Section: Rolldown Plugin Compatibility
+  - Snippet id: `index.md#snippet-218`
+- js example in [index.md](./index.md)
+  - Section: Path Normalization
+  - Snippet id: `index.md#snippet-219`
+- js example in [index.md](./index.md)
+  - Section: Hook Filters
+  - Snippet id: `index.md#snippet-220`
+- ts example in [index.md](./index.md)
+  - Section: Chunk Import Map Information
+  - Snippet id: `index.md#snippet-221`
+- js example in [index.md](./index.md)
+  - Section: Server to Client
+  - Snippet id: `index.md#snippet-222`
+- ts example in [index.md](./index.md)
+  - Section: Server to Client
+  - Snippet id: `index.md#snippet-223`
+- ts example in [index.md](./index.md)
+  - Section: Client to Server
+  - Snippet id: `index.md#snippet-224`
+- js example in [index.md](./index.md)
+  - Section: Client to Server
+  - Snippet id: `index.md#snippet-225`
+- ts example in [index.md](./index.md)
+  - Section: TypeScript for Custom Events
+  - Snippet id: `index.md#snippet-226`
+- ts example in [index.md](./index.md)
+  - Section: TypeScript for Custom Events
+  - Snippet id: `index.md#snippet-227`
+- ts example in [index.md](./index.md)
+  - Section: HMR API
+  - Snippet id: `index.md#snippet-228`
+- js example in [index.md](./index.md)
+  - Section: Required Conditional Guard
+  - Snippet id: `index.md#snippet-229`
+- json example in [index.md](./index.md)
+  - Section: IntelliSense for TypeScript
+  - Snippet id: `index.md#snippet-230`
+- js example in [index.md](./index.md)
+  - Section: `hot.accept(cb)`
+  - Snippet id: `index.md#snippet-231`
+- dot example in [index.md](./index.md)
+  - Section: `hot.accept(cb)`
+  - Snippet id: `index.md#snippet-232`
+- js example in [index.md](./index.md)
+  - Section: `hot.accept(deps, cb)`
+  - Snippet id: `index.md#snippet-233`
+- js example in [index.md](./index.md)
+  - Section: `hot.dispose(cb)`
+  - Snippet id: `index.md#snippet-234`
+- js example in [index.md](./index.md)
+  - Section: `hot.prune(cb)`
+  - Snippet id: `index.md#snippet-235`
+- js example in [index.md](./index.md)
+  - Section: `hot.data`
+  - Snippet id: `index.md#snippet-236`
+- js example in [index.md](./index.md)
+  - Section: `hot.invalidate(message?: string)`
+  - Snippet id: `index.md#snippet-237`
+- ts example in [index.md](./index.md)
+  - Section: `createServer`
+  - Snippet id: `index.md#snippet-238`
+- ts example in [index.md](./index.md)
+  - Section: `createServer`
+  - Snippet id: `index.md#snippet-239`
+- ts example in [index.md](./index.md)
+  - Section: `createServer`
+  - Snippet id: `index.md#snippet-240`
+- ts example in [index.md](./index.md)
+  - Section: `ViteDevServer`
+  - Snippet id: `index.md#snippet-241`
+- ts example in [index.md](./index.md)
+  - Section: `build`
+  - Snippet id: `index.md#snippet-242`
+- ts example in [index.md](./index.md)
+  - Section: `build`
+  - Snippet id: `index.md#snippet-243`
+- ts example in [index.md](./index.md)
+  - Section: `preview`
+  - Snippet id: `index.md#snippet-244`
+- ts example in [index.md](./index.md)
+  - Section: `preview`
+  - Snippet id: `index.md#snippet-245`
+- ts example in [index.md](./index.md)
+  - Section: `PreviewServer`
+  - Snippet id: `index.md#snippet-246`
+- ts example in [index.md](./index.md)
+  - Section: `resolveConfig`
+  - Snippet id: `index.md#snippet-247`
+- ts example in [index.md](./index.md)
+  - Section: `mergeConfig`
+  - Snippet id: `index.md#snippet-248`
+- ts example in [index.md](./index.md)
+  - Section: `mergeConfig`
+  - Snippet id: `index.md#snippet-249`
+- ts example in [index.md](./index.md)
+  - Section: `searchForWorkspaceRoot`
+  - Snippet id: `index.md#snippet-250`
+- ts example in [index.md](./index.md)
+  - Section: `loadEnv`
+  - Snippet id: `index.md#snippet-251`
+- ts example in [index.md](./index.md)
+  - Section: `normalizePath`
+  - Snippet id: `index.md#snippet-252`
+- ts example in [index.md](./index.md)
+  - Section: `transformWithOxc`
+  - Snippet id: `index.md#snippet-253`
+- ts example in [index.md](./index.md)
+  - Section: `transformWithEsbuild`
+  - Snippet id: `index.md#snippet-254`
+- ts example in [index.md](./index.md)
+  - Section: `loadConfigFromFile`
+  - Snippet id: `index.md#snippet-255`
+- ts example in [index.md](./index.md)
+  - Section: `preprocessCSS`
+  - Snippet id: `index.md#snippet-256`
+- js example in [index.md](./index.md)
+  - Section: Configuring Vite
+  - Snippet id: `index.md#snippet-257`
+- bash example in [index.md](./index.md)
+  - Section: Configuring Vite
+  - Snippet id: `index.md#snippet-258`
+- js example in [index.md](./index.md)
+  - Section: Config Intellisense
+  - Snippet id: `index.md#snippet-259`
+- js example in [index.md](./index.md)
+  - Section: Config Intellisense
+  - Snippet id: `index.md#snippet-260`
+- ts example in [index.md](./index.md)
+  - Section: Config Intellisense
+  - Snippet id: `index.md#snippet-261`
+- js example in [index.md](./index.md)
+  - Section: Conditional Config
+  - Snippet id: `index.md#snippet-262`
+- js example in [index.md](./index.md)
+  - Section: Async Config
+  - Snippet id: `index.md#snippet-263`
+- js example in [index.md](./index.md)
+  - Section: Using Environment Variables in Config
+  - Snippet id: `index.md#snippet-264`
+- bash example in [index.md](./index.md)
+  - Section: Debugging the Config File in VS Code
+  - Snippet id: `index.md#snippet-265`
+- json example in [index.md](./index.md)
+  - Section: Debugging the Config File in VS Code
+  - Snippet id: `index.md#snippet-266`
+- json example in [index.md](./index.md)
+  - Section: Debugging the Config File in VS Code
+  - Snippet id: `index.md#snippet-267`
+- js example in [index.md](./index.md)
+  - Section: Environments Configuration
+  - Snippet id: `index.md#snippet-268`
+- js example in [index.md](./index.md)
+  - Section: Environments Configuration
+  - Snippet id: `index.md#snippet-269`
+- ts example in [index.md](./index.md)
+  - Section: Environments Configuration
+  - Snippet id: `index.md#snippet-270`
+- ts example in [index.md](./index.md)
+  - Section: Environments Configuration
+  - Snippet id: `index.md#snippet-271`
+- js example in [index.md](./index.md)
+  - Section: Custom Environment Instances
+  - Snippet id: `index.md#snippet-272`
+- js example in [index.md](./index.md)
+  - Section: Accessing the Environments
+  - Snippet id: `index.md#snippet-273`
+- ts example in [index.md](./index.md)
+  - Section: `DevEnvironment` class
+  - Snippet id: `index.md#snippet-274`
+- ts example in [index.md](./index.md)
+  - Section: `DevEnvironment` class
+  - Snippet id: `index.md#snippet-275`
+- ts example in [index.md](./index.md)
+  - Section: `DevEnvironment` class
+  - Snippet id: `index.md#snippet-276`
+- ts example in [index.md](./index.md)
+  - Section: Separate Module Graphs
+  - Snippet id: `index.md#snippet-277`
+- ts example in [index.md](./index.md)
+  - Section: Separate Module Graphs
+  - Snippet id: `index.md#snippet-278`
+- ts example in [index.md](./index.md)
+  - Section: `FetchResult`
+  - Snippet id: `index.md#snippet-279`
+- ts example in [index.md](./index.md)
+  - Section: `FetchResult`
+  - Snippet id: `index.md#snippet-280`
+- ts example in [index.md](./index.md)
+  - Section: `FetchResult`
+  - Snippet id: `index.md#snippet-281`
+- ts example in [index.md](./index.md)
+  - Section: Accessing the Current Environment in Hooks
+  - Snippet id: `index.md#snippet-282`
+- ts example in [index.md](./index.md)
+  - Section: Registering New Environments Using Hooks
+  - Snippet id: `index.md#snippet-283`
+- ts example in [index.md](./index.md)
+  - Section: Configuring Environment Using the `configEnvironment` Hook
+  - Snippet id: `index.md#snippet-284`
+- ts example in [index.md](./index.md)
+  - Section: The `hotUpdate` Hook
+  - Snippet id: `index.md#snippet-285`
+- js example in [index.md](./index.md)
+  - Section: The `hotUpdate` Hook
+  - Snippet id: `index.md#snippet-286`
+- js example in [index.md](./index.md)
+  - Section: The `hotUpdate` Hook
+  - Snippet id: `index.md#snippet-287`
+- js example in [index.md](./index.md)
+  - Section: The `hotUpdate` Hook
+  - Snippet id: `index.md#snippet-288`
+- js example in [index.md](./index.md)
+  - Section: Per-environment State in Plugins
+  - Snippet id: `index.md#snippet-289`
+- js example in [index.md](./index.md)
+  - Section: Per-environment Plugins Using the `applyToEnvironment` Hook
+  - Snippet id: `index.md#snippet-290`
+- js example in [index.md](./index.md)
+  - Section: Per-environment Plugins Using the `applyToEnvironment` Hook
+  - Snippet id: `index.md#snippet-291`
+- js example in [index.md](./index.md)
+  - Section: Per-environment Plugins Using the `applyToEnvironment` Hook
+  - Snippet id: `index.md#snippet-292`
+- js example in [index.md](./index.md)
+  - Section: Example Usage
+  - Snippet id: `index.md#snippet-293`
+- js example in [index.md](./index.md)
+  - Section: Shared Plugins During Build
+  - Snippet id: `index.md#snippet-294`
+- ts example in [index.md](./index.md)
+  - Section: `RunnableDevEnvironment`
+  - Snippet id: `index.md#snippet-295`
+- js example in [index.md](./index.md)
+  - Section: `RunnableDevEnvironment`
+  - Snippet id: `index.md#snippet-296`
+- js example in [index.md](./index.md)
+  - Section: `RunnableDevEnvironment`
+  - Snippet id: `index.md#snippet-297`
+- ts example in [index.md](./index.md)
+  - Section: `FetchableDevEnvironment`
+  - Snippet id: `index.md#snippet-298`
+- ts example in [index.md](./index.md)
+  - Section: raw `DevEnvironment`
+  - Snippet id: `index.md#snippet-299`
+- ts example in [index.md](./index.md)
+  - Section: raw `DevEnvironment`
+  - Snippet id: `index.md#snippet-300`
+- ts example in [index.md](./index.md)
+  - Section: raw `DevEnvironment`
+  - Snippet id: `index.md#snippet-301`
+- js example in [index.md](./index.md)
+  - Section: Configuring the app build with `builder.buildApp`
+  - Snippet id: `index.md#snippet-302`
+- js example in [index.md](./index.md)
+  - Section: Building programmatically with `createBuilder`
+  - Snippet id: `index.md#snippet-303`
+- ts example in [index.md](./index.md)
+  - Section: Environment Factories
+  - Snippet id: `index.md#snippet-304`
+- js example in [index.md](./index.md)
+  - Section: Environment Factories
+  - Snippet id: `index.md#snippet-305`
+- js example in [index.md](./index.md)
+  - Section: Environment Factories
+  - Snippet id: `index.md#snippet-306`
+- dot example in [index.md](./index.md)
+  - Section: Creating a New Environment Factory
+  - Snippet id: `index.md#snippet-307`
+- ts example in [index.md](./index.md)
+  - Section: Creating a New Environment Factory
+  - Snippet id: `index.md#snippet-308`
+- ts example in [index.md](./index.md)
+  - Section: `ModuleRunner`
+  - Snippet id: `index.md#snippet-309`
+- js example in [index.md](./index.md)
+  - Section: `ModuleRunner`
+  - Snippet id: `index.md#snippet-310`
+- ts example in [index.md](./index.md)
+  - Section: `ModuleRunnerOptions`
+  - Snippet id: `index.md#snippet-311`
+- ts example in [index.md](./index.md)
+  - Section: `ModuleEvaluator`
+  - Snippet id: `index.md#snippet-312`
+- ts example in [index.md](./index.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `index.md#snippet-313`
+- js example in [index.md](./index.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `index.md#snippet-314`
+- js example in [index.md](./index.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `index.md#snippet-315`
+- ts example in [index.md](./index.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `index.md#snippet-316`
+- ts example in [index.md](./index.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `index.md#snippet-317`
+- js example in [index.md](./index.md)
+  - Section: `ModuleRunnerTransport`
+  - Snippet id: `index.md#snippet-318`
+- js example in [index.md](./index.md)
+  - Section: input&#x20;
+  - Snippet id: `index.md#snippet-319`
+- js example in [index.md](./index.md)
+  - Section: define
+  - Snippet id: `index.md#snippet-320`
+- ts example in [index.md](./index.md)
+  - Section: define
+  - Snippet id: `index.md#snippet-321`
+- js example in [index.md](./index.md)
+  - Section: Object Format (`Record<string, string>`)
+  - Snippet id: `index.md#snippet-322`
+- js example in [index.md](./index.md)
+  - Section: Array Format (`Array<{ find: string | RegExp, replacement: string }>`)
+  - Snippet id: `index.md#snippet-323`
+- js example in [index.md](./index.md)
+  - Section: Array Format (`Array<{ find: string | RegExp, replacement: string }>`)
+  - Snippet id: `index.md#snippet-324`
+- json example in [index.md](./index.md)
+  - Section: resolve.conditions&#x20;
+  - Snippet id: `index.md#snippet-325`
+- json example in [index.md](./index.md)
+  - Section: resolve.tsconfigPaths
+  - Snippet id: `index.md#snippet-326`
+- ts example in [index.md](./index.md)
+  - Section: html.additionalAssetSources
+  - Snippet id: `index.md#snippet-327`
+- js example in [index.md](./index.md)
+  - Section: html.additionalAssetSources
+  - Snippet id: `index.md#snippet-328`
+- ts example in [index.md](./index.md)
+  - Section: css.modules
+  - Snippet id: `index.md#snippet-329`
+- js example in [index.md](./index.md)
+  - Section: css.preprocessorOptions
+  - Snippet id: `index.md#snippet-330`
+- js example in [index.md](./index.md)
+  - Section: css.preprocessorOptions\[extension].additionalData
+  - Snippet id: `index.md#snippet-331`
+- js example in [index.md](./index.md)
+  - Section: css.lightningcss
+  - Snippet id: `index.md#snippet-332`
+- js example in [index.md](./index.md)
+  - Section: css.lightningcss
+  - Snippet id: `index.md#snippet-333`
+- js example in [index.md](./index.md)
+  - Section: oxc
+  - Snippet id: `index.md#snippet-334`
+- js example in [index.md](./index.md)
+  - Section: oxc
+  - Snippet id: `index.md#snippet-335`
+- js example in [index.md](./index.md)
+  - Section: assetsInclude
+  - Snippet id: `index.md#snippet-336`
+- ts example in [index.md](./index.md)
+  - Section: customLogger
+  - Snippet id: `index.md#snippet-337`
+- ts example in [index.md](./index.md)
+  - Section: customLogger
+  - Snippet id: `index.md#snippet-338`
+- js example in [index.md](./index.md)
+  - Section: envPrefix
+  - Snippet id: `index.md#snippet-339`
+- js example in [index.md](./index.md)
+  - Section: server.open
+  - Snippet id: `index.md#snippet-340`
+- js example in [index.md](./index.md)
+  - Section: server.proxy
+  - Snippet id: `index.md#snippet-341`
+- js example in [index.md](./index.md)
+  - Section: server.ws
+  - Snippet id: `index.md#snippet-342`
+- text example in [index.md](./index.md)
+  - Section: server.ws
+  - Snippet id: `index.md#snippet-343`
+- js example in [index.md](./index.md)
+  - Section: server.forwardConsole
+  - Snippet id: `index.md#snippet-344`
+- log example in [index.md](./index.md)
+  - Section: server.forwardConsole
+  - Snippet id: `index.md#snippet-345`
+- js example in [index.md](./index.md)
+  - Section: server.warmup
+  - Snippet id: `index.md#snippet-346`
+- js example in [index.md](./index.md)
+  - Section: server.middlewareMode
+  - Snippet id: `index.md#snippet-347`
+- js example in [index.md](./index.md)
+  - Section: server.fs.allow
+  - Snippet id: `index.md#snippet-348`
+- js example in [index.md](./index.md)
+  - Section: server.fs.allow
+  - Snippet id: `index.md#snippet-349`
+- js example in [index.md](./index.md)
+  - Section: server.origin
+  - Snippet id: `index.md#snippet-350`
+- js example in [index.md](./index.md)
+  - Section: server.sourcemapIgnoreList
+  - Snippet id: `index.md#snippet-351`
+- js example in [index.md](./index.md)
+  - Section: build.modulePreload
+  - Snippet id: `index.md#snippet-352`
+- ts example in [index.md](./index.md)
+  - Section: build.modulePreload
+  - Snippet id: `index.md#snippet-353`
+- js example in [index.md](./index.md)
+  - Section: build.modulePreload
+  - Snippet id: `index.md#snippet-354`
+- sh example in [index.md](./index.md)
+  - Section: build.cssMinify
+  - Snippet id: `index.md#snippet-355`
+- js example in [index.md](./index.md)
+  - Section: build.lib
+  - Snippet id: `index.md#snippet-356`
+- json example in [index.md](./index.md)
+  - Section: build.license
+  - Snippet id: `index.md#snippet-357`
+- js example in [index.md](./index.md)
+  - Section: build.license
+  - Snippet id: `index.md#snippet-358`
+- sh example in [index.md](./index.md)
+  - Section: build.minify
+  - Snippet id: `index.md#snippet-359`
+- js example in [index.md](./index.md)
+  - Section: preview.port
+  - Snippet id: `index.md#snippet-360`
+- js example in [index.md](./index.md)
+  - Section: optimizeDeps.exclude&#x20;
+  - Snippet id: `index.md#snippet-361`
+- js example in [index.md](./index.md)
+  - Section: optimizeDeps.include&#x20;
+  - Snippet id: `index.md#snippet-362`
+- ts example in [index.md](./index.md)
+  - Section: Migration Guide
+  - Snippet id: `index.md#snippet-363`
+- ts example in [index.md](./index.md)
+  - Section: Motivation
+  - Snippet id: `index.md#snippet-364`
+- ts example in [index.md](./index.md)
+  - Section: Motivation
+  - Snippet id: `index.md#snippet-365`
+- js example in [index.md](./index.md)
+  - Section: Migration Guide
+  - Snippet id: `index.md#snippet-366`
+- js example in [index.md](./index.md)
+  - Section: Migration Guide
+  - Snippet id: `index.md#snippet-367`
+- js example in [index.md](./index.md)
+  - Section: Migration Guide
+  - Snippet id: `index.md#snippet-368`
+- ts example in [index.md](./index.md)
+  - Section: Move to Per-environment APIs
+  - Snippet id: `index.md#snippet-369`
+- js example in [index.md](./index.md)
+  - Section: Migration Guide
+  - Snippet id: `index.md#snippet-370`
+- ts example in [index.md](./index.md)
+  - Section: Migration Guide
+  - Snippet id: `index.md#snippet-371`
+- ts example in [index.md](./index.md)
+  - Section: Migration Guide
+  - Snippet id: `index.md#snippet-372`
+- bash example in [index.md](./index.md)
+  - Section: [@vitejs/plugin-rsc](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-rsc)
+  - Snippet id: `index.md#snippet-373`

@@ -1,0 +1,1264 @@
+{
+  "name": "react",
+  "sourceUrl": "https://react.dev/reference/react",
+  "generatedAt": "2026-09-06T13:03:32.338Z",
+  "sourceKinds": [
+    "markdown"
+  ],
+  "indexes": {
+    "apiIndex": "api-index.md",
+    "examplesIndex": "examples-index.md",
+    "snippets": "snippets.json",
+    "snippetCount": 3592,
+    "symbolCount": 3646
+  },
+  "pages": [
+    {
+      "url": "https://react.dev/learn.md",
+      "source": "markdown",
+      "title": "learn.md",
+      "outputPath": "learn.md",
+      "hash": "21381f1c92e54ea5311d59d63d55f13965c0faf43050821f0dc07b5e2c69ebee"
+    },
+    {
+      "url": "https://react.dev/learn/tutorial-tic-tac-toe.md",
+      "source": "markdown",
+      "title": "tutorial-tic-tac-toe.md",
+      "outputPath": "learn/tutorial-tic-tac-toe.md",
+      "hash": "8980e038216389004acf1d776e2d89895741917e9c0f2d3197fe193b1c7d32e6"
+    },
+    {
+      "url": "https://react.dev/learn/thinking-in-react.md",
+      "source": "markdown",
+      "title": "thinking-in-react.md",
+      "outputPath": "learn/thinking-in-react.md",
+      "hash": "4dbceed5ac1071cff733215c9b60ea65c0f4a1e5268b338a7c51e5aaea3095a8"
+    },
+    {
+      "url": "https://react.dev/learn/installation.md",
+      "source": "markdown",
+      "title": "installation.md",
+      "outputPath": "learn/installation.md",
+      "hash": "816d53b49aa9caa636b5efc1c87987a4b0adeb712fb1b5be224bafef5255aa18"
+    },
+    {
+      "url": "https://react.dev/learn/creating-a-react-app.md",
+      "source": "markdown",
+      "title": "creating-a-react-app.md",
+      "outputPath": "learn/creating-a-react-app.md",
+      "hash": "fef29e66cbe6ae5d138621500e343a10af75b767d8dff083274019c0aab14427"
+    },
+    {
+      "url": "https://react.dev/learn/build-a-react-app-from-scratch.md",
+      "source": "markdown",
+      "title": "build-a-react-app-from-scratch.md",
+      "outputPath": "learn/build-a-react-app-from-scratch.md",
+      "hash": "ff067ce53e833b579e6c1db5b60ae546c2db82353976858de29c5f7b9e3cbb19"
+    },
+    {
+      "url": "https://react.dev/learn/add-react-to-an-existing-project.md",
+      "source": "markdown",
+      "title": "add-react-to-an-existing-project.md",
+      "outputPath": "learn/add-react-to-an-existing-project.md",
+      "hash": "bb67ef851b38d8b1224643ae82b8825a73c55c99b6fd4aca1a5ff380f2f3fae3"
+    },
+    {
+      "url": "https://react.dev/learn/setup.md",
+      "source": "markdown",
+      "title": "setup.md",
+      "outputPath": "learn/setup.md",
+      "hash": "13ecb556fb5cb3a5981aacd8a689a9cd51b26c065887de9c93d690f7512d68f2"
+    },
+    {
+      "url": "https://react.dev/learn/editor-setup.md",
+      "source": "markdown",
+      "title": "editor-setup.md",
+      "outputPath": "learn/editor-setup.md",
+      "hash": "4d12ffaa9a6546a71feea7ad1462ad9fcfbb65dd4c76c0c278846c30aaef9b56"
+    },
+    {
+      "url": "https://react.dev/learn/typescript.md",
+      "source": "markdown",
+      "title": "typescript.md",
+      "outputPath": "learn/typescript.md",
+      "hash": "8622b2e22e1cc279544e9bffed5487b50c568bae59ec346dc034b3fe97fd47ae"
+    },
+    {
+      "url": "https://react.dev/learn/react-developer-tools.md",
+      "source": "markdown",
+      "title": "Yarn",
+      "outputPath": "learn/react-developer-tools.md",
+      "hash": "59e712613d5369132acf52c341928bc3c0a3b2b4efdb55c9f4bc8c7f4b8efbce"
+    },
+    {
+      "url": "https://react.dev/learn/react-compiler.md",
+      "source": "markdown",
+      "title": "react-compiler.md",
+      "outputPath": "learn/react-compiler.md",
+      "hash": "b54a9e8e39334dbcd68446fcc4e4bb997750dd30f5a08780dd304fe82d2079a6"
+    },
+    {
+      "url": "https://react.dev/learn/react-compiler/introduction.md",
+      "source": "markdown",
+      "title": "introduction.md",
+      "outputPath": "learn/react-compiler/introduction.md",
+      "hash": "3e91289c3e80dee1835dca3fbcd08999e639b7906ae43f89c0bec40ca8fd76b7"
+    },
+    {
+      "url": "https://react.dev/learn/react-compiler/installation.md",
+      "source": "markdown",
+      "title": "installation.md",
+      "outputPath": "learn/react-compiler/installation.md",
+      "hash": "ef907afeab7e414a796461416aafdc93bf7e0dc41179bc31d20eae7887bfd251"
+    },
+    {
+      "url": "https://react.dev/learn/react-compiler/incremental-adoption.md",
+      "source": "markdown",
+      "title": "incremental-adoption.md",
+      "outputPath": "learn/react-compiler/incremental-adoption.md",
+      "hash": "067dfbd37a6b22cfc600491e6324db65e615e882baad6f89a0412fe16e473a24"
+    },
+    {
+      "url": "https://react.dev/learn/react-compiler/debugging.md",
+      "source": "markdown",
+      "title": "debugging.md",
+      "outputPath": "learn/react-compiler/debugging.md",
+      "hash": "bdbce0d9e841b1df8aba6530ba18952acdbde2a6a76e38cfa0b6828588d89df9"
+    },
+    {
+      "url": "https://react.dev/learn/describing-the-ui.md",
+      "source": "markdown",
+      "title": "describing-the-ui.md",
+      "outputPath": "learn/describing-the-ui.md",
+      "hash": "90c567c118178433f94bdc819cbc3a789b37b2db4f15d78c8d3f78ab366be721"
+    },
+    {
+      "url": "https://react.dev/learn/your-first-component.md",
+      "source": "markdown",
+      "title": "your-first-component.md",
+      "outputPath": "learn/your-first-component.md",
+      "hash": "14b7b320fc6ed9b7b3c125872ebe8d386c923e805fb22dda47089369188568cd"
+    },
+    {
+      "url": "https://react.dev/learn/importing-and-exporting-components.md",
+      "source": "markdown",
+      "title": "importing-and-exporting-components.md",
+      "outputPath": "learn/importing-and-exporting-components.md",
+      "hash": "64c9f5b9e5b9dfaee783a6e853bee3971a30f18a9e5daf54bcb661a9a44f76f1"
+    },
+    {
+      "url": "https://react.dev/learn/writing-markup-with-jsx.md",
+      "source": "markdown",
+      "title": "writing-markup-with-jsx.md",
+      "outputPath": "learn/writing-markup-with-jsx.md",
+      "hash": "7c9d3d4d19f722196a16e328ddad5f555a141da09431e8201268ea0115b0d20f"
+    },
+    {
+      "url": "https://react.dev/learn/javascript-in-jsx-with-curly-braces.md",
+      "source": "markdown",
+      "title": "javascript-in-jsx-with-curly-braces.md",
+      "outputPath": "learn/javascript-in-jsx-with-curly-braces.md",
+      "hash": "2448f9ea2a3ae3a590e3272aa32ca1b2b1d70d055bd9ce6c1b9d50db9f4b9915"
+    },
+    {
+      "url": "https://react.dev/learn/passing-props-to-a-component.md",
+      "source": "markdown",
+      "title": "passing-props-to-a-component.md",
+      "outputPath": "learn/passing-props-to-a-component.md",
+      "hash": "da4710237619f37f1b1111b65ee634138bc67f76123da404c4dbde323a2f643d"
+    },
+    {
+      "url": "https://react.dev/learn/conditional-rendering.md",
+      "source": "markdown",
+      "title": "conditional-rendering.md",
+      "outputPath": "learn/conditional-rendering.md",
+      "hash": "c9d5da6e738bba8eb5818447ff3c5477d2dd1814da0325fd6d24878524472280"
+    },
+    {
+      "url": "https://react.dev/learn/rendering-lists.md",
+      "source": "markdown",
+      "title": "rendering-lists.md",
+      "outputPath": "learn/rendering-lists.md",
+      "hash": "6fc8cb3baab9721f8397b9634a3f9a10784ab5e97dda7915b4d34af5d0078204"
+    },
+    {
+      "url": "https://react.dev/learn/keeping-components-pure.md",
+      "source": "markdown",
+      "title": "keeping-components-pure.md",
+      "outputPath": "learn/keeping-components-pure.md",
+      "hash": "e3aa3f674121d37facfa5fb930b031dbae34437644e70976e26f0e6ffdb0e713"
+    },
+    {
+      "url": "https://react.dev/learn/understanding-your-ui-as-a-tree.md",
+      "source": "markdown",
+      "title": "understanding-your-ui-as-a-tree.md",
+      "outputPath": "learn/understanding-your-ui-as-a-tree.md",
+      "hash": "5277b67beaa3fe7ca2337ef47a09808dc14d01c7b01c5915bf20cc1443a4d133"
+    },
+    {
+      "url": "https://react.dev/learn/adding-interactivity.md",
+      "source": "markdown",
+      "title": "adding-interactivity.md",
+      "outputPath": "learn/adding-interactivity.md",
+      "hash": "85e669abe4e027670b28a06a718f87a823e8093b9d7646fc58cd032c9d92eec6"
+    },
+    {
+      "url": "https://react.dev/learn/responding-to-events.md",
+      "source": "markdown",
+      "title": "responding-to-events.md",
+      "outputPath": "learn/responding-to-events.md",
+      "hash": "f0971b57d74466c55a6900370b0c66f28ddedac529d734df0706477f273e68bb"
+    },
+    {
+      "url": "https://react.dev/learn/state-a-components-memory.md",
+      "source": "markdown",
+      "title": "state-a-components-memory.md",
+      "outputPath": "learn/state-a-components-memory.md",
+      "hash": "aa9dcafcee51d03f864175a9e9eeb74222701dd890407b877510010c73a4e27b"
+    },
+    {
+      "url": "https://react.dev/learn/render-and-commit.md",
+      "source": "markdown",
+      "title": "render-and-commit.md",
+      "outputPath": "learn/render-and-commit.md",
+      "hash": "f397f9e3b6579bee4ac07a0c2cae4403ed405d998df22c10042385d87a69d96b"
+    },
+    {
+      "url": "https://react.dev/learn/state-as-a-snapshot.md",
+      "source": "markdown",
+      "title": "state-as-a-snapshot.md",
+      "outputPath": "learn/state-as-a-snapshot.md",
+      "hash": "56826285d2ebd3954a7cb56b5f09264e4e298fec03c60739a0263f368affc2b5"
+    },
+    {
+      "url": "https://react.dev/learn/queueing-a-series-of-state-updates.md",
+      "source": "markdown",
+      "title": "queueing-a-series-of-state-updates.md",
+      "outputPath": "learn/queueing-a-series-of-state-updates.md",
+      "hash": "9a8554736c65ceb256522d65f4ee2b5b7ff71e743098023ad41695d60f0a4638"
+    },
+    {
+      "url": "https://react.dev/learn/updating-objects-in-state.md",
+      "source": "markdown",
+      "title": "updating-objects-in-state.md",
+      "outputPath": "learn/updating-objects-in-state.md",
+      "hash": "0932fe7a1b1d032cfc6da6086591afe887ea7ceff89f674c659193a8633cd1a5"
+    },
+    {
+      "url": "https://react.dev/learn/updating-arrays-in-state.md",
+      "source": "markdown",
+      "title": "updating-arrays-in-state.md",
+      "outputPath": "learn/updating-arrays-in-state.md",
+      "hash": "870b99e6ab135e66d98bab13ce387c30400d11987ff232ebd0a7dd7831a28396"
+    },
+    {
+      "url": "https://react.dev/learn/managing-state.md",
+      "source": "markdown",
+      "title": "managing-state.md",
+      "outputPath": "learn/managing-state.md",
+      "hash": "1b30259e8900ef7404e27e74d5f8d18ece2136a92923d307343b3bf9e39594c7"
+    },
+    {
+      "url": "https://react.dev/learn/reacting-to-input-with-state.md",
+      "source": "markdown",
+      "title": "reacting-to-input-with-state.md",
+      "outputPath": "learn/reacting-to-input-with-state.md",
+      "hash": "725d8f6cb1e8ef2a4ce1394997f7d544d9645c6b707e6ba389ed81b8663db689"
+    },
+    {
+      "url": "https://react.dev/learn/choosing-the-state-structure.md",
+      "source": "markdown",
+      "title": "choosing-the-state-structure.md",
+      "outputPath": "learn/choosing-the-state-structure.md",
+      "hash": "b4354f5b5cac9337b22f309d4ba089cf4d6b3311fb1d8644f5414ef6e932c261"
+    },
+    {
+      "url": "https://react.dev/learn/sharing-state-between-components.md",
+      "source": "markdown",
+      "title": "sharing-state-between-components.md",
+      "outputPath": "learn/sharing-state-between-components.md",
+      "hash": "b60d1a913bc6c1eebe3a01781ffab6cc1fa2d0650fd5ec9a0c9ae7cb6b699c24"
+    },
+    {
+      "url": "https://react.dev/learn/preserving-and-resetting-state.md",
+      "source": "markdown",
+      "title": "preserving-and-resetting-state.md",
+      "outputPath": "learn/preserving-and-resetting-state.md",
+      "hash": "eded9840631216b093b4486254a8316accbb6599faa68d80e5b80152a016d534"
+    },
+    {
+      "url": "https://react.dev/learn/extracting-state-logic-into-a-reducer.md",
+      "source": "markdown",
+      "title": "extracting-state-logic-into-a-reducer.md",
+      "outputPath": "learn/extracting-state-logic-into-a-reducer.md",
+      "hash": "ffb9fda2318e7d83100c4af8b58c28c9f256aec71a901cad7b2a663d31fcb41d"
+    },
+    {
+      "url": "https://react.dev/learn/passing-data-deeply-with-context.md",
+      "source": "markdown",
+      "title": "passing-data-deeply-with-context.md",
+      "outputPath": "learn/passing-data-deeply-with-context.md",
+      "hash": "3783dcab0a169fe4cf8c8db4f3846c640e6df2fcee87b37e10c1b1f18d4816e2"
+    },
+    {
+      "url": "https://react.dev/learn/scaling-up-with-reducer-and-context.md",
+      "source": "markdown",
+      "title": "scaling-up-with-reducer-and-context.md",
+      "outputPath": "learn/scaling-up-with-reducer-and-context.md",
+      "hash": "8903c4825a3bc7cd845f432d8425ca74190d7eb04217c214a7ffd109ad2c2bd3"
+    },
+    {
+      "url": "https://react.dev/learn/escape-hatches.md",
+      "source": "markdown",
+      "title": "escape-hatches.md",
+      "outputPath": "learn/escape-hatches.md",
+      "hash": "1001ba1ca5d97836bfbd25b36c01f140f48beb203cfe9bb8a34a7ed7b7e22fc8"
+    },
+    {
+      "url": "https://react.dev/learn/referencing-values-with-refs.md",
+      "source": "markdown",
+      "title": "referencing-values-with-refs.md",
+      "outputPath": "learn/referencing-values-with-refs.md",
+      "hash": "25a49e409130df6052e141ed83f0104d50fb1223919f7520a8564e85c49990ad"
+    },
+    {
+      "url": "https://react.dev/learn/manipulating-the-dom-with-refs.md",
+      "source": "markdown",
+      "title": "manipulating-the-dom-with-refs.md",
+      "outputPath": "learn/manipulating-the-dom-with-refs.md",
+      "hash": "2319f7642b5c55f365f3c92ff2da1567e719c84cb2b9ad4be0c56b67fa36f002"
+    },
+    {
+      "url": "https://react.dev/learn/synchronizing-with-effects.md",
+      "source": "markdown",
+      "title": "synchronizing-with-effects.md",
+      "outputPath": "learn/synchronizing-with-effects.md",
+      "hash": "04484bf00e4d8290f1dfbeb0ff515bb6772c5abfa3bdc4bcaec3b2feecfeadb2"
+    },
+    {
+      "url": "https://react.dev/learn/you-might-not-need-an-effect.md",
+      "source": "markdown",
+      "title": "you-might-not-need-an-effect.md",
+      "outputPath": "learn/you-might-not-need-an-effect.md",
+      "hash": "eddf16137a06404d65a12fc8197e1589f549c64e1bf5cdce5d2e5428e6a6587f"
+    },
+    {
+      "url": "https://react.dev/learn/lifecycle-of-reactive-effects.md",
+      "source": "markdown",
+      "title": "lifecycle-of-reactive-effects.md",
+      "outputPath": "learn/lifecycle-of-reactive-effects.md",
+      "hash": "fecf85d54a0ff97cf0979e3480973ef1aa080a3a471db73b506d7587a44ef0c1"
+    },
+    {
+      "url": "https://react.dev/learn/separating-events-from-effects.md",
+      "source": "markdown",
+      "title": "separating-events-from-effects.md",
+      "outputPath": "learn/separating-events-from-effects.md",
+      "hash": "1e0435487ac32c17def5cc3a2e9b9fda3a680731c7e8bdeb0faf3a6d5a9580cf"
+    },
+    {
+      "url": "https://react.dev/learn/removing-effect-dependencies.md",
+      "source": "markdown",
+      "title": "removing-effect-dependencies.md",
+      "outputPath": "learn/removing-effect-dependencies.md",
+      "hash": "bddcf5072cd4efbba9c49a0ef55704fc196140a1fdfe18621b726f46d62745d1"
+    },
+    {
+      "url": "https://react.dev/learn/reusing-logic-with-custom-hooks.md",
+      "source": "markdown",
+      "title": "reusing-logic-with-custom-hooks.md",
+      "outputPath": "learn/reusing-logic-with-custom-hooks.md",
+      "hash": "0e9ba138cff291395bb0a577341e4987ac5c7ebdb2a2cb6b53d1bf38264bdfa1"
+    },
+    {
+      "url": "https://react.dev/reference/react.md",
+      "source": "markdown",
+      "title": "react.md",
+      "outputPath": "reference/react.md",
+      "hash": "a30b53776b9618234ae66a785d92e854010a2dd37633df9dc4b1e20eb49dbfe5"
+    },
+    {
+      "url": "https://react.dev/reference/react/hooks.md",
+      "source": "markdown",
+      "title": "hooks.md",
+      "outputPath": "reference/react/hooks.md",
+      "hash": "7e49e2a72117fcf7929e1fde2500f8c6de73e1072a30dc9282aac293e7b8c56a"
+    },
+    {
+      "url": "https://react.dev/reference/react/useActionState.md",
+      "source": "markdown",
+      "title": "useActionState.md",
+      "outputPath": "reference/react/useactionstate.md",
+      "hash": "07ae318781bcade2572946f4f1f5c6cfe2224f8332dd93b3b51f02a6c06bbca0"
+    },
+    {
+      "url": "https://react.dev/reference/react/useCallback.md",
+      "source": "markdown",
+      "title": "useCallback.md",
+      "outputPath": "reference/react/usecallback.md",
+      "hash": "ea5d83a1faac4b4efa7021ccb9c59725685b35c11f915cbfd5826c7ef1e18179"
+    },
+    {
+      "url": "https://react.dev/reference/react/useContext.md",
+      "source": "markdown",
+      "title": "useContext.md",
+      "outputPath": "reference/react/usecontext.md",
+      "hash": "c380e085ab1f7b82b8eb0f67268292734434bf7db58320005ca849e75799be86"
+    },
+    {
+      "url": "https://react.dev/reference/react/useDebugValue.md",
+      "source": "markdown",
+      "title": "useDebugValue.md",
+      "outputPath": "reference/react/usedebugvalue.md",
+      "hash": "542fa5ee27b8a13ebc281fab9fa57bd787e762426d4aa8740e8197b1129c31bd"
+    },
+    {
+      "url": "https://react.dev/reference/react/useDeferredValue.md",
+      "source": "markdown",
+      "title": "useDeferredValue.md",
+      "outputPath": "reference/react/usedeferredvalue.md",
+      "hash": "09cbd6feee1a10eb381748e2dd8476dc0e1beac487e733ff8a7fdde7a4505822"
+    },
+    {
+      "url": "https://react.dev/reference/react/useEffect.md",
+      "source": "markdown",
+      "title": "useEffect.md",
+      "outputPath": "reference/react/useeffect.md",
+      "hash": "61ea2d8f5b3deee2f7b74d6be79921c16b917cc290d4b173463abf07f51867ab"
+    },
+    {
+      "url": "https://react.dev/reference/react/useEffectEvent.md",
+      "source": "markdown",
+      "title": "useEffectEvent.md",
+      "outputPath": "reference/react/useeffectevent.md",
+      "hash": "5067de83dc95b758e0b1a4344c57f83836f0926e04add2ec02016418aa5862a0"
+    },
+    {
+      "url": "https://react.dev/reference/react/useId.md",
+      "source": "markdown",
+      "title": "useId.md",
+      "outputPath": "reference/react/useid.md",
+      "hash": "4a01b286ac64fbf1ee6782c0543e2c46903e6d074111280b7a3729ecf79d9bd7"
+    },
+    {
+      "url": "https://react.dev/reference/react/useImperativeHandle.md",
+      "source": "markdown",
+      "title": "useImperativeHandle.md",
+      "outputPath": "reference/react/useimperativehandle.md",
+      "hash": "306f2eb7a85e4d161fc46767f0337887a183622bd6fb0ad16c04710caf3614aa"
+    },
+    {
+      "url": "https://react.dev/reference/react/useInsertionEffect.md",
+      "source": "markdown",
+      "title": "useInsertionEffect.md",
+      "outputPath": "reference/react/useinsertioneffect.md",
+      "hash": "7b4f043815ba2aac550c651e15d5c67ea0490759e7ed9b0fc118575b0cd269eb"
+    },
+    {
+      "url": "https://react.dev/reference/react/useLayoutEffect.md",
+      "source": "markdown",
+      "title": "useLayoutEffect.md",
+      "outputPath": "reference/react/uselayouteffect.md",
+      "hash": "c1c68ec9d083265918f81abb452ebf69d68279ac4baeee6976e773af075bd968"
+    },
+    {
+      "url": "https://react.dev/reference/react/useMemo.md",
+      "source": "markdown",
+      "title": "useMemo.md",
+      "outputPath": "reference/react/usememo.md",
+      "hash": "7ca53495ea823d3e74ce652d95fabb0e3e5e78a5e111c0942253a6dc44c72d46"
+    },
+    {
+      "url": "https://react.dev/reference/react/useOptimistic.md",
+      "source": "markdown",
+      "title": "useOptimistic.md",
+      "outputPath": "reference/react/useoptimistic.md",
+      "hash": "c5904f61a3004058426c3bd754f738dab61c56d1bc66a75fa99ed91898f8fb7c"
+    },
+    {
+      "url": "https://react.dev/reference/react/useReducer.md",
+      "source": "markdown",
+      "title": "useReducer.md",
+      "outputPath": "reference/react/usereducer.md",
+      "hash": "9717f7e2a4fc42d411a308a1da97e7d094c2b66566cf42b997646f3dec63764c"
+    },
+    {
+      "url": "https://react.dev/reference/react/useRef.md",
+      "source": "markdown",
+      "title": "useRef.md",
+      "outputPath": "reference/react/useref.md",
+      "hash": "bfa6e367933f73a7c5010745bb26c1f66a8dbe752e172901be9f1b6dcf7f5c3c"
+    },
+    {
+      "url": "https://react.dev/reference/react/useState.md",
+      "source": "markdown",
+      "title": "useState.md",
+      "outputPath": "reference/react/usestate.md",
+      "hash": "04639ca05ed833edc64c123d4162c30d11778fb02cea9e21b93de44cf49acbeb"
+    },
+    {
+      "url": "https://react.dev/reference/react/useSyncExternalStore.md",
+      "source": "markdown",
+      "title": "useSyncExternalStore.md",
+      "outputPath": "reference/react/usesyncexternalstore.md",
+      "hash": "83b785e4e2cedfda1fa5eba91da8dbfe32178b586879977342aa5d4edb241f97"
+    },
+    {
+      "url": "https://react.dev/reference/react/useTransition.md",
+      "source": "markdown",
+      "title": "useTransition.md",
+      "outputPath": "reference/react/usetransition.md",
+      "hash": "2ef7f5f10fb50ea3fc07c0383484c4c73826d3607b661981b29e03a98a42a9f0"
+    },
+    {
+      "url": "https://react.dev/reference/react/components.md",
+      "source": "markdown",
+      "title": "components.md",
+      "outputPath": "reference/react/components.md",
+      "hash": "9a71374e21c82b5175d7188c6a00e323e22eae8ca03a42e07544db2b8ab1b3fb"
+    },
+    {
+      "url": "https://react.dev/reference/react/Fragment.md",
+      "source": "markdown",
+      "title": "Fragment.md",
+      "outputPath": "reference/react/fragment.md",
+      "hash": "7856935a030b4fe9d85a25a0d050abd14e45e2959453d1abd8bba7385b8353ab"
+    },
+    {
+      "url": "https://react.dev/reference/react/Profiler.md",
+      "source": "markdown",
+      "title": "Profiler.md",
+      "outputPath": "reference/react/profiler.md",
+      "hash": "4364207c18c47ef5e64fafe300d33ed453b20080222c65d8b376c659a28186ea"
+    },
+    {
+      "url": "https://react.dev/reference/react/StrictMode.md",
+      "source": "markdown",
+      "title": "StrictMode.md",
+      "outputPath": "reference/react/strictmode.md",
+      "hash": "c700d83b01228583e6cff08788c5e04ef9077d65dc5ecf770e834807c1c78dd6"
+    },
+    {
+      "url": "https://react.dev/reference/react/Suspense.md",
+      "source": "markdown",
+      "title": "Suspense.md",
+      "outputPath": "reference/react/suspense.md",
+      "hash": "9dc95f2ec441a8ae2dd077897ece0f249c27bf7aad9d61b9fdfe59024b472a12"
+    },
+    {
+      "url": "https://react.dev/reference/react/Activity.md",
+      "source": "markdown",
+      "title": "Activity.md",
+      "outputPath": "reference/react/activity.md",
+      "hash": "3fac77e8cc8bf972af5652d89d33805115d1b0e52178db6b73f65aee3a94863b"
+    },
+    {
+      "url": "https://react.dev/reference/react/ViewTransition.md",
+      "source": "markdown",
+      "title": "ViewTransition.md",
+      "outputPath": "reference/react/viewtransition.md",
+      "hash": "a3b7947a94faaede671c287fcd493869d10daf11472370bba8aa647c019838fe"
+    },
+    {
+      "url": "https://react.dev/reference/react/apis.md",
+      "source": "markdown",
+      "title": "apis.md",
+      "outputPath": "reference/react/apis.md",
+      "hash": "d72dc12d241d8793556e82d9e6ec7c97e00a645d1e5d91851ea3b52039a9c6de"
+    },
+    {
+      "url": "https://react.dev/reference/react/act.md",
+      "source": "markdown",
+      "title": "act.md",
+      "outputPath": "reference/react/act.md",
+      "hash": "57654449a00f482120e8fa389d7fc7f51569449060e9caf5d41f7ddf81ec6069"
+    },
+    {
+      "url": "https://react.dev/reference/react/addTransitionType.md",
+      "source": "markdown",
+      "title": "addTransitionType.md",
+      "outputPath": "reference/react/addtransitiontype.md",
+      "hash": "6a3e39ff6023ddbf888a4c0e84269f65756db68a32a183f85b0909a683413241"
+    },
+    {
+      "url": "https://react.dev/reference/react/cache.md",
+      "source": "markdown",
+      "title": "cache.md",
+      "outputPath": "reference/react/cache.md",
+      "hash": "e73679b372e67b20b6ee871d0e15e69aa4a21efea9c22cfbd76ae518ef7fece1"
+    },
+    {
+      "url": "https://react.dev/reference/react/cacheSignal.md",
+      "source": "markdown",
+      "title": "cacheSignal.md",
+      "outputPath": "reference/react/cachesignal.md",
+      "hash": "02418ff5ff8b28dd439e8d4aa71dc6515cf9b889dfae51d1f1936083ec5ed884"
+    },
+    {
+      "url": "https://react.dev/reference/react/captureOwnerStack.md",
+      "source": "markdown",
+      "title": "captureOwnerStack.md",
+      "outputPath": "reference/react/captureownerstack.md",
+      "hash": "8f373579c78f55f3b30c376b6ce0e8d4524bdca32c91dadd27d6bb2c311f599e"
+    },
+    {
+      "url": "https://react.dev/reference/react/createContext.md",
+      "source": "markdown",
+      "title": "createContext.md",
+      "outputPath": "reference/react/createcontext.md",
+      "hash": "96ceecbedf20ce32583275fa2cecc9962852cc1faeae9cc15748e0842689f0dc"
+    },
+    {
+      "url": "https://react.dev/reference/react/lazy.md",
+      "source": "markdown",
+      "title": "lazy.md",
+      "outputPath": "reference/react/lazy.md",
+      "hash": "c24a4d34875ad9f79e69d318fff4d313dc5cab9fa1525dd779d673fc30b76fce"
+    },
+    {
+      "url": "https://react.dev/reference/react/memo.md",
+      "source": "markdown",
+      "title": "memo.md",
+      "outputPath": "reference/react/memo.md",
+      "hash": "572b86c5a0f61cd7c519f41d3167ea567566d36f99d3cc09f56bc4b31810a86c"
+    },
+    {
+      "url": "https://react.dev/reference/react/startTransition.md",
+      "source": "markdown",
+      "title": "startTransition.md",
+      "outputPath": "reference/react/starttransition.md",
+      "hash": "cf35dd652c7ffd68d8dcba498809a7488595c9f22a0a7ee620aed068f3420956"
+    },
+    {
+      "url": "https://react.dev/reference/react/use.md",
+      "source": "markdown",
+      "title": "use.md",
+      "outputPath": "reference/react/use.md",
+      "hash": "b8ae7de778634b57af764e1663a8fdb23459470e1f174d418399f9d9eac46010"
+    },
+    {
+      "url": "https://react.dev/reference/react/experimental_taintObjectReference.md",
+      "source": "markdown",
+      "title": "experimental_taintObjectReference.md",
+      "outputPath": "reference/react/experimental-taintobjectreference.md",
+      "hash": "3e92ac0a3a974ee82c1852c563a4aeebbd17cdef5c907a42d50ee30ef040d50e"
+    },
+    {
+      "url": "https://react.dev/reference/react/experimental_taintUniqueValue.md",
+      "source": "markdown",
+      "title": "experimental_taintUniqueValue.md",
+      "outputPath": "reference/react/experimental-taintuniquevalue.md",
+      "hash": "051517cbfc18b7a8143d52702e2d0cef585663d0dd76da8a8ac2982018b51413"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/hooks.md",
+      "source": "markdown",
+      "title": "hooks.md",
+      "outputPath": "reference/react-dom/hooks.md",
+      "hash": "dc07901ee182a51182d2f59cdc79167a331a33884cc7500c3ab7bdccbd6f1faf"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/hooks/useFormStatus.md",
+      "source": "markdown",
+      "title": "useFormStatus.md",
+      "outputPath": "reference/react-dom/hooks/useformstatus.md",
+      "hash": "028685e0f45398343642ca30d6139199518970cf5098630e6695ef76b584f25e"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components.md",
+      "source": "markdown",
+      "title": "components.md",
+      "outputPath": "reference/react-dom/components.md",
+      "hash": "5344deb8e111fc06e5418a51c5bc602c2ded9d322b1ce7e9811daac4f1a97bad"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/common.md",
+      "source": "markdown",
+      "title": "common.md",
+      "outputPath": "reference/react-dom/components/common.md",
+      "hash": "c147dbf54b71845a0c427279909dc23887d550b82a519eb2e52e97044ce0ba28"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/form.md",
+      "source": "markdown",
+      "title": "form.md",
+      "outputPath": "reference/react-dom/components/form.md",
+      "hash": "6d1e99daea63f06480c3a92841d87fa1286ca8d24127222b2fc32c030ec1a9e6"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/input.md",
+      "source": "markdown",
+      "title": "input.md",
+      "outputPath": "reference/react-dom/components/input.md",
+      "hash": "591bc26eda7c60376d8fa500e5ac56321aae908379aa9006a018a15694cf6708"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/option.md",
+      "source": "markdown",
+      "title": "option.md",
+      "outputPath": "reference/react-dom/components/option.md",
+      "hash": "b83052dc76d166f1303266d8deff18e26198b50e3a753a0653089d8d76f3bcbf"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/progress.md",
+      "source": "markdown",
+      "title": "progress.md",
+      "outputPath": "reference/react-dom/components/progress.md",
+      "hash": "348a96812eb28842a085c9a55f0c885723e0b1166c0e53791ef29bd313a52616"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/select.md",
+      "source": "markdown",
+      "title": "select.md",
+      "outputPath": "reference/react-dom/components/select.md",
+      "hash": "af3342ba2408ad9fd2c59af84f2ae4b20020ee80f637c1af51e07a734afcb83a"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/textarea.md",
+      "source": "markdown",
+      "title": "textarea.md",
+      "outputPath": "reference/react-dom/components/textarea.md",
+      "hash": "7f231e48534537f32289defe7771501529af671514c0d7ddf80b258c06c7f4df"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/link.md",
+      "source": "markdown",
+      "title": "link.md",
+      "outputPath": "reference/react-dom/components/link.md",
+      "hash": "2d83631255ab042d5df89893cce8b8731d14a6afdd258068c152f586220ba5c8"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/meta.md",
+      "source": "markdown",
+      "title": "meta.md",
+      "outputPath": "reference/react-dom/components/meta.md",
+      "hash": "31ccb2fc872da72ae28c75c8faae3ee2950f581836605102692f05fc2e1c84df"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/script.md",
+      "source": "markdown",
+      "title": "script.md",
+      "outputPath": "reference/react-dom/components/script.md",
+      "hash": "1bd821c36d64d8216c2d40456054a50f8f6b0fc4dd3b0dc2b1e913db1330f8bf"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/style.md",
+      "source": "markdown",
+      "title": "style.md",
+      "outputPath": "reference/react-dom/components/style.md",
+      "hash": "a536f878bcd9380f6c6397f385558f8e2f522df5c06f7d3d07606cf56214a9be"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/components/title.md",
+      "source": "markdown",
+      "title": "title.md",
+      "outputPath": "reference/react-dom/components/title.md",
+      "hash": "6c01cc7f5f98c8a12dc73cba72e1c7d9bc830695d746e9d186982c219ff77dc2"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom.md",
+      "source": "markdown",
+      "title": "react-dom.md",
+      "outputPath": "reference/react-dom.md",
+      "hash": "7641333e76b33f12a4b389a04daa164ef807da8f76710ca14df4efa4fd15e1d5"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/browser.md",
+      "source": "markdown",
+      "title": "browser.md",
+      "outputPath": "reference/react-dom/browser.md",
+      "hash": "04f8fe479db520a41f55f7d33172fbe00a732b3e02ef2a95796ae84c8fd45cb0"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/createPortal.md",
+      "source": "markdown",
+      "title": "createPortal.md",
+      "outputPath": "reference/react-dom/createportal.md",
+      "hash": "884378284ef5082cde167c037085932ce542df4c1f7715f3c00c0821ef5e4c6f"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/flushSync.md",
+      "source": "markdown",
+      "title": "flushSync.md",
+      "outputPath": "reference/react-dom/flushsync.md",
+      "hash": "4d28a83f4b62cf6b1af385ed7b0f49cfc115fce187e3b2d97199eb4cab04a133"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/preconnect.md",
+      "source": "markdown",
+      "title": "preconnect.md",
+      "outputPath": "reference/react-dom/preconnect.md",
+      "hash": "a43be5e106d2cc2dafe3dda81fbfec75bffbc77b00d62c403a97755634dd1dc5"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/prefetchDNS.md",
+      "source": "markdown",
+      "title": "prefetchDNS.md",
+      "outputPath": "reference/react-dom/prefetchdns.md",
+      "hash": "9a1436df792d545b643619a2586b2e16cbac13b3585f9e5933041ebebd291ede"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/preinit.md",
+      "source": "markdown",
+      "title": "preinit.md",
+      "outputPath": "reference/react-dom/preinit.md",
+      "hash": "4d573a991c63b50dfbb2f00827ac496ae640de0e41493f87ebb77eee51bf60af"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/preinitModule.md",
+      "source": "markdown",
+      "title": "preinitModule.md",
+      "outputPath": "reference/react-dom/preinitmodule.md",
+      "hash": "4356d59a3599017716c3a32a379ac6caaee4acfd7e353768663bfd334ef7a40f"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/preload.md",
+      "source": "markdown",
+      "title": "preload.md",
+      "outputPath": "reference/react-dom/preload.md",
+      "hash": "15ee715a27ce55ddbee032d8db858140ee05bc1ff92dcad476deed51d68c1bfe"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/preloadModule.md",
+      "source": "markdown",
+      "title": "preloadModule.md",
+      "outputPath": "reference/react-dom/preloadmodule.md",
+      "hash": "d882a8f64bc77ed287dae43e5bb62467dc4b03c4291d09a1ee10622de2386e94"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/client.md",
+      "source": "markdown",
+      "title": "client.md",
+      "outputPath": "reference/react-dom/client.md",
+      "hash": "a6ce718f0d2d8319761cc00787c355fd86174fbb396cd49789676753afb99ce1"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/client/createRoot.md",
+      "source": "markdown",
+      "title": "createRoot.md",
+      "outputPath": "reference/react-dom/client/createroot.md",
+      "hash": "af126ee73860aecf6fe7f5a1bce49c3fc329f8acd94e8a9acc6eaadaeedbd40b"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/client/hydrateRoot.md",
+      "source": "markdown",
+      "title": "hydrateRoot.md",
+      "outputPath": "reference/react-dom/client/hydrateroot.md",
+      "hash": "7257471173261ce926c7bbaea1c722f075f06fd68210bbc240f6058c278845fd"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/server.md",
+      "source": "markdown",
+      "title": "server.md",
+      "outputPath": "reference/react-dom/server.md",
+      "hash": "12b7f6740f7a26113feccadc96163d8789c1a6595d351ec88d63bda3a2bf2a95"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/server/renderToPipeableStream.md",
+      "source": "markdown",
+      "title": "renderToPipeableStream.md",
+      "outputPath": "reference/react-dom/server/rendertopipeablestream.md",
+      "hash": "17fe2326bd9cdf15ab53cbe8ec582f0f3cf55e59a7102eb7cf8fca93dec51059"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/server/renderToReadableStream.md",
+      "source": "markdown",
+      "title": "renderToReadableStream.md",
+      "outputPath": "reference/react-dom/server/rendertoreadablestream.md",
+      "hash": "1367e56fee6573aeb6f19be0b68a1142bd1d2ec4c93e57f6e0387023dac74af8"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/server/renderToStaticMarkup.md",
+      "source": "markdown",
+      "title": "renderToStaticMarkup.md",
+      "outputPath": "reference/react-dom/server/rendertostaticmarkup.md",
+      "hash": "7bebe17933f621fcbe91bbf5b042a5c1d1d7208788d8c2109ca6126f50656dc0"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/server/renderToString.md",
+      "source": "markdown",
+      "title": "renderToString.md",
+      "outputPath": "reference/react-dom/server/rendertostring.md",
+      "hash": "356aa831d287606a2f4fc9955285ac08a16bad17aee89866be56bdc9772346a6"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/server/resume.md",
+      "source": "markdown",
+      "title": "resume.md",
+      "outputPath": "reference/react-dom/server/resume.md",
+      "hash": "daa4d14d5f1e732c0232f099f361296f3184743308daaa74381c1462579934b5"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/server/resumeToPipeableStream.md",
+      "source": "markdown",
+      "title": "resumeToPipeableStream.md",
+      "outputPath": "reference/react-dom/server/resumetopipeablestream.md",
+      "hash": "3ab0f99179c3169b2685a4daa45a06671b063856f783af49d0c5022d3e94d7df"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/static.md",
+      "source": "markdown",
+      "title": "static.md",
+      "outputPath": "reference/react-dom/static.md",
+      "hash": "5ac7306794dc5b48216f0f0f670fadd46b78357f0a3a1d0e049b66b25dfa3516"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/static/prerender.md",
+      "source": "markdown",
+      "title": "prerender.md",
+      "outputPath": "reference/react-dom/static/prerender.md",
+      "hash": "d30c78c11b7b8a279387a93a04438e54eed551f4047ccbabc3d9fe11d98b2e17"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/static/prerenderToNodeStream.md",
+      "source": "markdown",
+      "title": "prerenderToNodeStream.md",
+      "outputPath": "reference/react-dom/static/prerendertonodestream.md",
+      "hash": "db1529588e1884da16e07e20ade6a5d9a70ed7e1637b816001dcd60a4843730b"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/static/resumeAndPrerender.md",
+      "source": "markdown",
+      "title": "resumeAndPrerender.md",
+      "outputPath": "reference/react-dom/static/resumeandprerender.md",
+      "hash": "699bdec8ea5a1de78192181f8d1155956460534e253cdcc7a30ca0ffbecfe20e"
+    },
+    {
+      "url": "https://react.dev/reference/react-dom/static/resumeAndPrerenderToNodeStream.md",
+      "source": "markdown",
+      "title": "resumeAndPrerenderToNodeStream.md",
+      "outputPath": "reference/react-dom/static/resumeandprerendertonodestream.md",
+      "hash": "fbcfd2cdbabfc715ed8fedff3cd1d3f7889f0b0822274a13530a94ce973c365e"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/compiling-libraries.md",
+      "source": "markdown",
+      "title": "compiling-libraries.md",
+      "outputPath": "reference/react-compiler/compiling-libraries.md",
+      "hash": "a2213924d72cebea286e64cb9264100c71a6aadb51c1f50d35809fb5556ed0db"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/configuration.md",
+      "source": "markdown",
+      "title": "configuration.md",
+      "outputPath": "reference/react-compiler/configuration.md",
+      "hash": "a42158171a55ac13e0cbe10374bad768d3821d3f90e18e02db1451f165494f93"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/compilationMode.md",
+      "source": "markdown",
+      "title": "compilationMode.md",
+      "outputPath": "reference/react-compiler/compilationmode.md",
+      "hash": "897e423a75ff83bfd7b69a1a415d2719bac615e35817f0665187af2f8366730a"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/gating.md",
+      "source": "markdown",
+      "title": "gating.md",
+      "outputPath": "reference/react-compiler/gating.md",
+      "hash": "dc876a8fbf5433388bdebc1f5467a44bbe56b52b527c649f0e6acb9b648dd773"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/logger.md",
+      "source": "markdown",
+      "title": "logger.md",
+      "outputPath": "reference/react-compiler/logger.md",
+      "hash": "7dfb07034e7d024257ecddff6fc1826931a2ce441d8fe8faea851a28e8f6ff6e"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/panicThreshold.md",
+      "source": "markdown",
+      "title": "panicThreshold.md",
+      "outputPath": "reference/react-compiler/panicthreshold.md",
+      "hash": "8aaf42b45efc499e5ead2174771e28363b9434c3a4f04dc791a13721803603ee"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/target.md",
+      "source": "markdown",
+      "title": "target.md",
+      "outputPath": "reference/react-compiler/target.md",
+      "hash": "e674fef29a7fbf730b9d4fa68664a3fe2ba7bbd75007914d61ff752bda6f1ef3"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/directives.md",
+      "source": "markdown",
+      "title": "directives.md",
+      "outputPath": "reference/react-compiler/directives.md",
+      "hash": "966cd6c6cac62be0e7ecb35eb9b508e52e757f669fc36288a680826b26c50cde"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/directives/use-memo.md",
+      "source": "markdown",
+      "title": "use-memo.md",
+      "outputPath": "reference/react-compiler/directives/use-memo.md",
+      "hash": "64479297b4055cea1eef2a0ba4d13d3deee10c16dd6d8a4e7f38d8ce1c849bd8"
+    },
+    {
+      "url": "https://react.dev/reference/react-compiler/directives/use-no-memo.md",
+      "source": "markdown",
+      "title": "use-no-memo.md",
+      "outputPath": "reference/react-compiler/directives/use-no-memo.md",
+      "hash": "73b8fae357ab9850a1ecabe662e09228e880521904fc316249a7066915b176b9"
+    },
+    {
+      "url": "https://react.dev/reference/dev-tools/react-performance-tracks.md",
+      "source": "markdown",
+      "title": "react-performance-tracks.md",
+      "outputPath": "reference/dev-tools/react-performance-tracks.md",
+      "hash": "01c27e143389514d630ac889cd8b49997950728a4217cef64cde830dd4b0a5de"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks.md",
+      "source": "markdown",
+      "title": "eslint-plugin-react-hooks.md",
+      "outputPath": "reference/eslint-plugin-react-hooks.md",
+      "hash": "48d9a48da3f40023da2dbedbba54ee7cab893ada6f87826f6b79c0ba54a195c5"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md",
+      "source": "markdown",
+      "title": "exhaustive-deps.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/exhaustive-deps.md",
+      "hash": "8a4bf04fcf09b45d4afd44826312ed88e757a81f6e62be2b5230e304dbe359a0"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md",
+      "source": "markdown",
+      "title": "rules-of-hooks.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md",
+      "hash": "cadb91d6151254d25b4b57bec6c76e70b916703af290ff6b48df0c10fb39240e"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/component-hook-factories.md",
+      "source": "markdown",
+      "title": "component-hook-factories.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/component-hook-factories.md",
+      "hash": "e929f21c94fe3a199f50df8266fc618c8dcca311efeef2683eba95cd69749c45"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/config.md",
+      "source": "markdown",
+      "title": "config.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/config.md",
+      "hash": "04991e1c0edeaa8186367fedc13056d4443c527d634a85fb0a01eb7221eccc5a"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/error-boundaries.md",
+      "source": "markdown",
+      "title": "error-boundaries.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/error-boundaries.md",
+      "hash": "d2ddfb6d0e16cecba3e976a622e5d34401aa8e436c4a0ab8dbd7173971337143"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/gating.md",
+      "source": "markdown",
+      "title": "gating.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/gating.md",
+      "hash": "9226991d348b8870b68c642271d9cd450da1db703b6d728271b2e1373ea6b6b0"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/globals.md",
+      "source": "markdown",
+      "title": "globals.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/globals.md",
+      "hash": "79e0ec6f9136e51543d56ab22df64072489ead8d9364a475f11925e1128c7438"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/immutability.md",
+      "source": "markdown",
+      "title": "immutability.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/immutability.md",
+      "hash": "a1bbec64e1f16163f6b9a73025ece1989962d236bab5b259265eca9c43fe373a"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/incompatible-library.md",
+      "source": "markdown",
+      "title": "incompatible-library.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/incompatible-library.md",
+      "hash": "ed8a751f580ee26a96f81b95b08a25c3441c1b2a557711f0d828c1276324adf2"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md",
+      "source": "markdown",
+      "title": "preserve-manual-memoization.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization.md",
+      "hash": "e0a7626e972107f4fd23adcb7182ac1d9b205677f2fa3eb67c3724f2a3d4cada"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/purity.md",
+      "source": "markdown",
+      "title": "purity.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/purity.md",
+      "hash": "f827b55194d53546f5013dbb132e68d60109ae8d585e81946fac30411a1cc368"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/refs.md",
+      "source": "markdown",
+      "title": "refs.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/refs.md",
+      "hash": "c15ea103bf1d0da4f8793259316b484223fdfbacff7c0a747691346d4831b611"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-effect.md",
+      "source": "markdown",
+      "title": "set-state-in-effect.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/set-state-in-effect.md",
+      "hash": "07340c25c686bc2c99039383d6ac1083ed620b0861303d4d0abbcd025e9ed1cf"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-render.md",
+      "source": "markdown",
+      "title": "set-state-in-render.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/set-state-in-render.md",
+      "hash": "d2e5576ab069cf2517d7bc0f46d4bc76163f605404fef25a9a0e815327e534f4"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/static-components.md",
+      "source": "markdown",
+      "title": "static-components.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/static-components.md",
+      "hash": "d13e4c7e36c7898b45bb4a88f93412f991fb1121aef1b28f6fddb41571d4c3f5"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md",
+      "source": "markdown",
+      "title": "unsupported-syntax.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/unsupported-syntax.md",
+      "hash": "d0f371f4e954608c4ebb211473099c042f6a021c2a76a15e94340d54c817a4ce"
+    },
+    {
+      "url": "https://react.dev/reference/eslint-plugin-react-hooks/lints/use-memo.md",
+      "source": "markdown",
+      "title": "use-memo.md",
+      "outputPath": "reference/eslint-plugin-react-hooks/lints/use-memo.md",
+      "hash": "11af7b412ad94421dd8ba39b8f524558d2fd8ff4e583ab916e5472a8d677b5f9"
+    },
+    {
+      "url": "https://react.dev/reference/rules.md",
+      "source": "markdown",
+      "title": "rules.md",
+      "outputPath": "reference/rules.md",
+      "hash": "e5279392fb23d9a4ad4f8a5fd94bff8582cc287052735b1455f3186c3db5f892"
+    },
+    {
+      "url": "https://react.dev/reference/rules/components-and-hooks-must-be-pure.md",
+      "source": "markdown",
+      "title": "components-and-hooks-must-be-pure.md",
+      "outputPath": "reference/rules/components-and-hooks-must-be-pure.md",
+      "hash": "1fefae9465074cdcc47f21230edaadeba826481ca1ad59d1d42c9e230e35725a"
+    },
+    {
+      "url": "https://react.dev/reference/rules/react-calls-components-and-hooks.md",
+      "source": "markdown",
+      "title": "react-calls-components-and-hooks.md",
+      "outputPath": "reference/rules/react-calls-components-and-hooks.md",
+      "hash": "6ead5da2cbbe5879d4ddf4016516d2c10f37f7864f041829b4c83d4e998f48f2"
+    },
+    {
+      "url": "https://react.dev/reference/rules/rules-of-hooks.md",
+      "source": "markdown",
+      "title": "rules-of-hooks.md",
+      "outputPath": "reference/rules/rules-of-hooks.md",
+      "hash": "72af8b8a88deebfcb43de6ba380c47fbc2a74a61e4069d9a6bc18ade9acc970f"
+    },
+    {
+      "url": "https://react.dev/reference/rsc/server-components.md",
+      "source": "markdown",
+      "title": "server-components.md",
+      "outputPath": "reference/rsc/server-components.md",
+      "hash": "1fdadfcb70163a8d6d9c62c365a6ca29219db8300fa6131e6b619407e00cb40f"
+    },
+    {
+      "url": "https://react.dev/reference/rsc/server-functions.md",
+      "source": "markdown",
+      "title": "server-functions.md",
+      "outputPath": "reference/rsc/server-functions.md",
+      "hash": "f37571a725338e589bb9bafbf90845cdd9d9bc24d1771409ef34feb4eabc557c"
+    },
+    {
+      "url": "https://react.dev/reference/rsc/directives.md",
+      "source": "markdown",
+      "title": "directives.md",
+      "outputPath": "reference/rsc/directives.md",
+      "hash": "49829fe97578cedaf3486a3346779c4523648b84758207478fcd1129d0f5ca48"
+    },
+    {
+      "url": "https://react.dev/reference/rsc/use-client.md",
+      "source": "markdown",
+      "title": "use-client.md",
+      "outputPath": "reference/rsc/use-client.md",
+      "hash": "4a9ec7a14f5b6f38034e8da673dfc2a488a7dc0e228ff19e7a87ce1ed9e123e5"
+    },
+    {
+      "url": "https://react.dev/reference/rsc/use-server.md",
+      "source": "markdown",
+      "title": "use-server.md",
+      "outputPath": "reference/rsc/use-server.md",
+      "hash": "6e05685f0af2f71d5025e69958bef36a371bcac0b12b417d27af486143b20364"
+    },
+    {
+      "url": "https://react.dev/reference/react/legacy.md",
+      "source": "markdown",
+      "title": "legacy.md",
+      "outputPath": "reference/react/legacy.md",
+      "hash": "25993b74455b7ae2a7f38fd8bb108b8c81268c160c1fe7698d3c42f5a24bf156"
+    },
+    {
+      "url": "https://react.dev/reference/react/Children.md",
+      "source": "markdown",
+      "title": "Children.md",
+      "outputPath": "reference/react/children.md",
+      "hash": "657a9617e8dd44c2fbfbe3ad03098385d99850e29ae380c94a5e9bb65194c469"
+    },
+    {
+      "url": "https://react.dev/reference/react/cloneElement.md",
+      "source": "markdown",
+      "title": "cloneElement.md",
+      "outputPath": "reference/react/cloneelement.md",
+      "hash": "e8810527970a4b417296fc027ad18a072a5a172d7296eba7af70ccf0ff743305"
+    },
+    {
+      "url": "https://react.dev/reference/react/Component.md",
+      "source": "markdown",
+      "title": "Component.md",
+      "outputPath": "reference/react/component.md",
+      "hash": "f90c9e8ea76c9efdc17b1608847f3f8dc6a14ad2ccce1b6c0be0688cb82b3cc0"
+    },
+    {
+      "url": "https://react.dev/reference/react/createElement.md",
+      "source": "markdown",
+      "title": "createElement.md",
+      "outputPath": "reference/react/createelement.md",
+      "hash": "c8cba261038831c771a441fac88a2a5bba89a63066fbf7471c2f974ba2d8d14b"
+    },
+    {
+      "url": "https://react.dev/reference/react/createRef.md",
+      "source": "markdown",
+      "title": "createRef.md",
+      "outputPath": "reference/react/createref.md",
+      "hash": "618ec0ba890187ff7d129c01518abf288ba8afec9be6e5ef825a797e8b0b21b3"
+    },
+    {
+      "url": "https://react.dev/reference/react/forwardRef.md",
+      "source": "markdown",
+      "title": "forwardRef.md",
+      "outputPath": "reference/react/forwardref.md",
+      "hash": "d0620a380cb0f50bac4b6b9d451179c539870fc709e81e79ba06bdfac100f8cf"
+    },
+    {
+      "url": "https://react.dev/reference/react/isValidElement.md",
+      "source": "markdown",
+      "title": "isValidElement.md",
+      "outputPath": "reference/react/isvalidelement.md",
+      "hash": "28ecd89ac7fe328d627fb65d7951d9ca200854359f3d74c84685aa3033a05b6b"
+    },
+    {
+      "url": "https://react.dev/reference/react/PureComponent.md",
+      "source": "markdown",
+      "title": "PureComponent.md",
+      "outputPath": "reference/react/purecomponent.md",
+      "hash": "5c441b66e9e5ba522a1c341c149b5db2a621b2ed751d8e19129d785ed3556116"
+    }
+  ],
+  "failures": []
+}

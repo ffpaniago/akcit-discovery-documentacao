@@ -1,0 +1,6 @@
+{
+  "name": "docs-vite",
+  "version": "0.1.0",
+  "description": "Knowledge base captured by @akcit/docs-agent from https://vite.dev/guide.",
+  "contextFileName": "GEMINI.md"
+}
